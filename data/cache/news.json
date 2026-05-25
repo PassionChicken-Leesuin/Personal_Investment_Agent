@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-05-25T09:52:48.140799+00:00",
+  "captured_at_utc": "2026-05-25T23:03:57.008618+00:00",
   "items": {
     "AIQ": [
       {
@@ -46,6 +46,14 @@
     "IAU": [
       {
         "ticker": "IAU",
+        "title": "Gold ETFs Shine Again as Ceasefire Hopes Lift Market Optimism",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-etfs-shine-again-ceasefire-154300838.html",
+        "publisher": "Zacks",
+        "published": "2026-05-25T15:43:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IAU",
         "title": "Central Banks Are Snapping Up Gold, ETF Investors Are Just Waking Up: The Best Gold ETFs to Own Before It Hits $5,000",
         "link": "https://247wallst.com/investing/2026/05/15/central-banks-are-snapping-up-gold-etf-investors-are-just-waking-up-the-best-gold-etfs-to-own-before-it-hits-5000/",
         "publisher": "24/7 Wall St.",
@@ -74,14 +82,6 @@
         "link": "https://247wallst.com/investing/2026/05/06/iau-returned-42-in-a-year-of-sticky-inflation-heres-why-allocators-are-reconsidering-gold/",
         "publisher": "24/7 Wall St.",
         "published": "2026-05-06T09:30:23Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "The Zacks Analyst Blog Highlights SPDR Gold Trust, Invesco DB US Dollar Index Bullish Fund, United States Brent Oil Fund and iShares Gold Trust",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/zacks-analyst-blog-highlights-spdr-101100582.html",
-        "publisher": "Zacks",
-        "published": "2026-04-14T10:11:00Z",
         "source": "yfinance"
       }
     ],
