@@ -1,3 +1,4 @@
-ticker,shares,avg_price_usd,purchase_date,note
-VOO,1,0,2026-05-25,예시 - 매수 후 수정
-SOXX,0,0,2026-05-25,예시 - 매수 후 수정
+ticker,shares,avg_price,currency,purchase_date,note
+VOO,0,0,USD,2026-05-25,예시 - 매수 후 수정
+SOXX,0,0,USD,2026-05-25,예시 - 매수 후 수정
+005930.KS,0,0,KRW,2026-05-25,예시 - 삼성전자(원화 단가)

@@ -76,14 +76,17 @@ streamlit run app.py
 ### `data/portfolio.csv` (보유 종목)
 MTS에서 매수한 후 줄 하나씩 추가/수정.
 ```csv
-ticker,shares,avg_price_usd,purchase_date,note
-VOO,10,520.50,2026-05-15,첫 매수
-SOXX,3,245.80,2026-05-20,
+ticker,shares,avg_price,currency,purchase_date,note
+VOO,10,520.50,USD,2026-05-15,첫 매수
+SOXX,3,245.80,USD,2026-05-20,
+005930.KS,50,71000,KRW,2026-05-20,삼성전자
 ```
-- `ticker`: 미국 주식 티커 (예: VOO, SOXX)
+- `ticker`: 미국은 그냥 심볼(`VOO`, `NVDA`), **한국은 6자리코드+거래소** — 코스피 `.KS`, 코스닥 `.KQ` (예: 삼성전자 `005930.KS`, SK하이닉스 `000660.KS`)
 - `shares`: 보유 수량
-- `avg_price_usd`: 평균 매수 단가 (USD)
-- `shares`가 0이면 자동으로 무시됨
+- `avg_price`: 평균 매수 단가 (**현지통화 기준** — USD 종목은 달러, KRW 종목은 원)
+- `currency`: `USD` 또는 `KRW`. 비워두면 티커 접미사로 자동 추론(`.KS`/`.KQ`→KRW)
+- 평가금액·비중·손익은 USD로 통일 계산되고, 화면엔 USD/KRW 둘 다 표시됨
+- `shares`가 0이면 자동으로 무시됨 (예시 행 용도)
 
 > 💡 **앱 안에서 직접 편집 가능**: 포트폴리오 탭의 **"✏️ 보유 종목 편집"** 을 펼쳐 표를
 > 수정하고 **"💾 GitHub에 저장"** 을 누르면 `portfolio.csv` 가 저장소로 커밋됩니다.

@@ -8,6 +8,20 @@ import pandas as pd
 from src import config
 
 
+def infer_currency(ticker: str) -> str:
+    """티커 접미사로 통화 추론. 한국 거래소(.KS/.KQ)=KRW, 그 외=USD."""
+    t = str(ticker).upper().strip()
+    return "KRW" if t.endswith((".KS", ".KQ")) else "USD"
+
+
+def to_usd_rate(currency: str, usd_krw: float | None) -> float | None:
+    """현지통화 → USD 환산 계수. 환율이 없어 KRW 환산이 불가하면 None."""
+    c = (currency or "USD").upper()
+    if c == "KRW":
+        return (1.0 / usd_krw) if usd_krw else None
+    return 1.0  # USD 및 미지정 통화는 1:1 취급
+
+
 def load_portfolio() -> pd.DataFrame:
     df = pd.read_csv(config.PORTFOLIO_CSV)
     # 비어있는 줄(shares==0) 제거
@@ -25,10 +39,14 @@ def evaluate_portfolio(
     current_prices: dict[str, float],
     usd_krw: float | None = None,
 ) -> pd.DataFrame:
-    """평가금액, 손익, 현재 배분 비율 계산. USD 기준."""
+    """평가금액, 손익, 현재 배분 비율 계산.
+
+    가격/단가는 종목의 현지통화(USD 또는 KRW) 기준으로 입력받고,
+    합산·비중은 USD로 환산해 통일한다. avg_price/current_price 컬럼은 현지통화 그대로.
+    """
     if portfolio_df.empty:
         return pd.DataFrame(columns=[
-            "ticker", "shares", "avg_price_usd", "current_price_usd",
+            "ticker", "currency", "shares", "avg_price", "current_price",
             "cost_usd", "value_usd", "pnl_usd", "pnl_pct",
             "weight_pct", "value_krw",
         ])
@@ -37,20 +55,26 @@ def evaluate_portfolio(
     for _, r in portfolio_df.iterrows():
         t = r["ticker"]
         shares = float(r["shares"])
-        avg = float(r["avg_price_usd"])
-        cur = float(current_prices.get(t, 0) or 0)
-        cost = shares * avg
-        value = shares * cur
-        pnl = value - cost
-        pnl_pct = (pnl / cost * 100) if cost else 0
+        # 통화: 명시값 우선, 없으면 티커로 추론
+        ccy = str(r.get("currency") or "").strip().upper() or infer_currency(t)
+        # avg_price 신컬럼 우선, 구 스키마(avg_price_usd) 폴백
+        avg = float(r.get("avg_price", r.get("avg_price_usd", 0)) or 0)  # 현지통화
+        cur = float(current_prices.get(t, 0) or 0)                       # 현지통화
+        rate = to_usd_rate(ccy, usd_krw)
+        rate = rate if rate is not None else 0.0  # 환율 없으면 USD 환산 0 (UI에서 경고)
+        cost_usd = shares * avg * rate
+        value_usd = shares * cur * rate
+        pnl_usd = value_usd - cost_usd
+        pnl_pct = (pnl_usd / cost_usd * 100) if cost_usd else 0
         rows.append({
             "ticker": t,
+            "currency": ccy,
             "shares": shares,
-            "avg_price_usd": round(avg, 4),
-            "current_price_usd": round(cur, 4),
-            "cost_usd": round(cost, 2),
-            "value_usd": round(value, 2),
-            "pnl_usd": round(pnl, 2),
+            "avg_price": round(avg, 4),
+            "current_price": round(cur, 4),
+            "cost_usd": round(cost_usd, 2),
+            "value_usd": round(value_usd, 2),
+            "pnl_usd": round(pnl_usd, 2),
             "pnl_pct": round(pnl_pct, 2),
         })
     out = pd.DataFrame(rows)
@@ -65,12 +89,17 @@ def compute_rebalance(
     evaluated: pd.DataFrame,
     target_alloc: dict,
     current_prices: dict[str, float],
+    usd_krw: float | None = None,
 ) -> pd.DataFrame:
-    """목표 vs 현재 → 차이 → 주식수 조정 권고"""
+    """목표 vs 현재 → 차이 → 주식수 조정 권고 (주식수는 현지통화 가격으로 산출)"""
     targets = target_alloc.get("allocations", {})
     threshold = float(target_alloc.get("rebalance_threshold_pct", 5.0))
 
     total_value = evaluated["value_usd"].sum() if not evaluated.empty else 0
+    held_ccy = (
+        dict(zip(evaluated["ticker"], evaluated["currency"]))
+        if not evaluated.empty and "currency" in evaluated.columns else {}
+    )
     rows = []
 
     all_tickers = set(targets.keys()) | set(evaluated["ticker"].tolist() if not evaluated.empty else [])
@@ -80,12 +109,15 @@ def compute_rebalance(
         cur_pct = float(cur_row["weight_pct"].iloc[0]) if not cur_row.empty else 0
         cur_value = float(cur_row["value_usd"].iloc[0]) if not cur_row.empty else 0
 
-        target_value = total_value * target_pct / 100
-        diff_value = target_value - cur_value
+        target_value = total_value * target_pct / 100       # USD
+        diff_value = target_value - cur_value                # USD
         diff_pct_points = target_pct - cur_pct
 
-        price = float(current_prices.get(t, 0) or 0)
-        share_change = (diff_value / price) if price else 0
+        ccy = held_ccy.get(t) or infer_currency(t)
+        rate = to_usd_rate(ccy, usd_krw)                     # 현지→USD
+        price = float(current_prices.get(t, 0) or 0)         # 현지통화 가격
+        diff_value_native = (diff_value / rate) if rate else 0
+        share_change = (diff_value_native / price) if price else 0
 
         action = "HOLD"
         if abs(diff_pct_points) >= threshold:
@@ -93,13 +125,14 @@ def compute_rebalance(
 
         rows.append({
             "ticker": t,
+            "currency": ccy,
             "target_pct": target_pct,
             "current_pct": round(cur_pct, 2),
             "diff_pct_points": round(diff_pct_points, 2),
             "target_value_usd": round(target_value, 2),
             "current_value_usd": round(cur_value, 2),
             "diff_value_usd": round(diff_value, 2),
-            "current_price_usd": round(price, 4),
+            "current_price": round(price, 4),
             "share_change_suggest": round(share_change, 2),
             "action": action,
         })

@@ -13,6 +13,7 @@ import streamlit as st
 
 from src import config
 from src import github_io
+from src import update as update_job
 from src.collectors import prices as price_io
 from src.collectors import market as market_io
 from src.collectors import news as news_io
@@ -64,20 +65,20 @@ def get_current_prices(prices_df: pd.DataFrame) -> dict[str, float]:
 
 # ─────────────────────────── 사이드바 ───────────────────────────
 def render_sidebar(d: dict) -> None:
-    st.sidebar.title("📊 주식투자 Agent")
-    st.sidebar.markdown(f"**마지막 갱신**\n\n`{d['last_update']}`")
-    st.sidebar.markdown("---")
-    st.sidebar.markdown(
-        "**사용 방법**\n\n"
-        "1. `data/portfolio.csv` 수정\n"
-        "2. `data/watchlist.csv` 수정\n"
-        "3. `data/target_allocation.json` 수정\n\n"
-        "→ 저장하면 Dashboard에 즉시 반영"
-    )
-    st.sidebar.markdown("---")
-    if st.sidebar.button("🔄 캐시 비우고 다시 읽기"):
-        st.cache_data.clear()
-        st.rerun()
+    with st.sidebar:
+        st.title("📊 주식투자 Agent")
+        st.markdown(f"**마지막 갱신**\n\n`{d['last_update']}`")
+        st.markdown("---")
+        if st.button("🔄 지금 갱신", type="primary", use_container_width=True):
+            try:
+                with st.spinner("최신 데이터 받는 중... (yfinance)"):
+                    update_job.run()  # 현재 시각 기준으로 재수집
+                st.cache_data.clear()
+                st.toast("갱신 완료!", icon="✅")
+                st.rerun()
+            except Exception as e:
+                st.error(f"갱신 실패: {e}")
+        st.caption("매일 07:00 KST 자동 갱신 + 위 버튼으로 즉시 갱신")
 
 
 # ─────────────────────────── 포트폴리오 편집 (인앱 → GitHub 커밋) ───────────────────────────
@@ -95,10 +96,16 @@ def render_portfolio_editor() -> None:
     """보유 종목을 표로 편집하고 GitHub(또는 로컬)에 저장한다."""
     with st.expander("✏️ 보유 종목 편집", expanded=False):
         st.caption(
-            "표를 직접 수정하세요. `shares`/`avg_price_usd` 만 정확하면 됩니다. "
-            "행 추가·삭제 가능. 저장하면 `data/portfolio.csv` 로 커밋됩니다."
+            "표를 직접 수정하세요. `shares`/`avg_price`/`currency` 만 정확하면 됩니다. "
+            "한국 주식은 티커에 `.KS`(코스피)·`.KQ`(코스닥)를 붙이고 통화를 `KRW`로. "
+            "예: 삼성전자 `005930.KS`. 저장하면 `data/portfolio.csv` 로 커밋됩니다."
         )
         raw = pd.read_csv(config.PORTFOLIO_CSV)  # 0주 예시 포함 전체
+        # 구 스키마(avg_price_usd / currency 없음) 호환 정규화
+        if "avg_price" not in raw.columns and "avg_price_usd" in raw.columns:
+            raw = raw.rename(columns={"avg_price_usd": "avg_price"})
+        if "currency" not in raw.columns:
+            raw["currency"] = raw["ticker"].map(pf_engine.infer_currency)
         edited = st.data_editor(
             raw,
             num_rows="dynamic",
@@ -106,9 +113,10 @@ def render_portfolio_editor() -> None:
             hide_index=True,
             key="portfolio_editor",
             column_config={
-                "ticker": st.column_config.TextColumn("티커", required=True),
+                "ticker": st.column_config.TextColumn("티커", required=True, help="미국: VOO / 한국: 005930.KS"),
                 "shares": st.column_config.NumberColumn("수량", min_value=0, step=1),
-                "avg_price_usd": st.column_config.NumberColumn("평균단가(USD)", min_value=0.0, format="%.2f"),
+                "avg_price": st.column_config.NumberColumn("평균단가(현지통화)", min_value=0.0, format="%.2f"),
+                "currency": st.column_config.SelectboxColumn("통화", options=["USD", "KRW"], default="USD"),
                 "purchase_date": st.column_config.TextColumn("매수일"),
                 "note": st.column_config.TextColumn("메모"),
             },
@@ -174,6 +182,10 @@ def tab_portfolio(d: dict) -> None:
 
     evaluated = pf_engine.evaluate_portfolio(portfolio_df, current_prices, usd_krw)
 
+    if (evaluated["currency"] == "KRW").any() and not usd_krw:
+        st.warning("KRW 보유 종목이 있는데 USD/KRW 환율 데이터가 없어 환산이 부정확합니다. "
+                   "사이드바의 '🔄 지금 갱신' 으로 환율을 받아오세요.")
+
     # 요약 메트릭
     total_cost = evaluated["cost_usd"].sum()
     total_value = evaluated["value_usd"].sum()
@@ -189,14 +201,18 @@ def tab_portfolio(d: dict) -> None:
                   f"{fx['change_pct']:+.2f}%")
 
     st.markdown("### 보유 종목")
-    show_cols = ["ticker", "shares", "avg_price_usd", "current_price_usd",
+    st.caption("`평균단가`·`현재가`는 종목의 현지통화 기준입니다 (통화 열 참고). 평가·비중·손익은 USD로 통일.")
+    show_cols = ["ticker", "currency", "shares", "avg_price", "current_price",
                  "value_usd", "pnl_usd", "pnl_pct", "weight_pct"]
     if "value_krw" in evaluated.columns:
         show_cols.append("value_krw")
     st.dataframe(
-        evaluated[show_cols].style.format({
-            "avg_price_usd": "${:,.2f}",
-            "current_price_usd": "${:,.2f}",
+        evaluated[show_cols].rename(columns={
+            "ticker": "티커", "currency": "통화", "shares": "수량",
+            "avg_price": "평균단가", "current_price": "현재가",
+        }).style.format({
+            "평균단가": "{:,.2f}",
+            "현재가": "{:,.2f}",
             "value_usd": "${:,.2f}",
             "pnl_usd": "${:,.2f}",
             "pnl_pct": "{:+.2f}%",
@@ -231,7 +247,7 @@ def tab_portfolio(d: dict) -> None:
 
     # 리밸런싱 권고
     st.markdown("### 🔁 리밸런싱 권고")
-    rebal = pf_engine.compute_rebalance(evaluated, d["target"], current_prices)
+    rebal = pf_engine.compute_rebalance(evaluated, d["target"], current_prices, usd_krw)
     actionable = rebal[rebal["action"] != "HOLD"]
     if actionable.empty:
         st.success("현재 배분이 목표 범위 내에 있습니다. 별도 조치 불필요.")
@@ -245,7 +261,7 @@ def tab_portfolio(d: dict) -> None:
             "target_value_usd": "${:,.2f}",
             "current_value_usd": "${:,.2f}",
             "diff_value_usd": "${:,.2f}",
-            "current_price_usd": "${:,.2f}",
+            "current_price": "{:,.2f}",
             "share_change_suggest": "{:+.2f}",
         }),
         use_container_width=True,
