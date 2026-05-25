@@ -1,0 +1,43 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    # 한국시간 07:00 = UTC 22:00 (전날)
+    - cron: '0 22 * * *'
+  workflow_dispatch:  # 수동 실행 버튼 활성화
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run update
+        run: python -m src.update
+
+      - name: Commit updated cache
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/cache/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily data update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

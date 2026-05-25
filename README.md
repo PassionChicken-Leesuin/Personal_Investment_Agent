@@ -1,0 +1,151 @@
+# 📊 주식투자 Agent
+
+ETF 장기투자용 개인 Dashboard. **하루 한 번** 보고 결정하는 워크플로우에 최적화.
+
+- 매일 한국시간 **07:00 KST** 자동 데이터 갱신 (GitHub Actions)
+- 4개 탭: 포트폴리오 · 시장 · 시그널 · 뉴스
+- 주문은 사용자 본인이 MTS(나무증권 등)로 직접 실행
+- LLM API 미사용 · 증권사 API 미사용
+
+---
+
+## 워크플로우
+
+```
+06:55  GitHub Actions가 자동 실행
+07:00  Dashboard 갱신 완료
+07:30  ☕ Dashboard 확인 → 결정
+07:40  MTS에서 예약주문 입력
+끝.    이후 차트 보지 말 것.
+```
+
+---
+
+## 폴더 구조
+
+```
+주식투자 Agent/
+├── app.py                          # Streamlit Dashboard
+├── requirements.txt
+├── data/
+│   ├── portfolio.csv               # 💡 보유 종목 (수동 입력)
+│   ├── watchlist.csv               # 💡 관심 종목
+│   ├── target_allocation.json      # 💡 목표 자산배분
+│   └── cache/                      # 자동 생성 (수정 금지)
+├── src/
+│   ├── config.py
+│   ├── update.py                   # 매일 실행되는 메인
+│   ├── collectors/                 # yfinance · RSS 수집
+│   └── analyzers/                  # 시그널 · 리밸런싱
+└── .github/workflows/daily-update.yml
+```
+
+**사용자가 수정하는 파일은 단 3개**: `portfolio.csv`, `watchlist.csv`, `target_allocation.json`
+
+---
+
+## 로컬 실행
+
+### 1. 가상환경 생성 & 의존성 설치
+```bash
+python -m venv .venv
+# Windows
+.venv\Scripts\activate
+# macOS/Linux
+source .venv/bin/activate
+
+pip install -r requirements.txt
+```
+
+### 2. 데이터 최초 수집
+```bash
+python -m src.update
+```
+→ `data/cache/` 에 시세, 시장지표, 뉴스, ETF 구성종목이 저장됨.
+
+### 3. Dashboard 실행
+```bash
+streamlit run app.py
+```
+→ 브라우저에서 `http://localhost:8501` 열림.
+
+---
+
+## 파일 작성법
+
+### `data/portfolio.csv` (보유 종목)
+MTS에서 매수한 후 줄 하나씩 추가/수정.
+```csv
+ticker,shares,avg_price_usd,purchase_date,note
+VOO,10,520.50,2026-05-15,첫 매수
+SOXX,3,245.80,2026-05-20,
+```
+- `ticker`: 미국 주식 티커 (예: VOO, SOXX)
+- `shares`: 보유 수량
+- `avg_price_usd`: 평균 매수 단가 (USD)
+- `shares`가 0이면 자동으로 무시됨
+
+### `data/watchlist.csv` (관심 종목)
+시그널을 모니터링할 ETF 리스트. 보유 안 해도 됨.
+
+### `data/target_allocation.json` (목표 자산배분)
+```json
+{
+  "allocations": {
+    "VOO": 45, "IEF": 20, "IAU": 10,
+    "SOXX": 12, "AIQ": 8, "QTUM": 5
+  },
+  "rebalance_threshold_pct": 5.0
+}
+```
+- 합계 = 100
+- `rebalance_threshold_pct`: 목표와 ±N%p 이상 벌어지면 리밸런싱 알림
+
+---
+
+## GitHub & Streamlit Cloud 배포
+
+### GitHub 저장소 생성
+1. GitHub에 새 저장소 생성 (private 권장)
+2. 이 폴더를 push
+3. **Settings → Actions → General → Workflow permissions → "Read and write permissions" 체크** (Actions가 캐시 커밋하려면 필요)
+
+### Streamlit Community Cloud 배포 (무료)
+1. https://share.streamlit.io 접속 → GitHub 연동
+2. 저장소 선택 → `app.py` 지정
+3. 자동 배포됨. 이후 Git push 시 자동 재배포.
+
+### 자동 갱신 확인
+- GitHub 저장소 → Actions 탭 → "Daily Data Update" → 매일 22:00 UTC (= 07:00 KST) 실행 확인
+- 수동 실행: Actions 탭 → 워크플로우 선택 → "Run workflow"
+
+---
+
+## 시그널 룰 (참고)
+
+| 신호 | 조건 |
+|---|---|
+| 🟢 BUY (매수 검토) | 가격 > 200일 이평선 **AND** RSI < 70 |
+| 🟡 HOLD (보유) | 그 외 |
+| 🔴 SELL (매도 검토) | 가격 < 200일 이평선 **OR** RSI > 80 |
+
+**중요**: 시그널은 보조 지표일 뿐, 자동 매매 신호가 아닙니다. 최종 판단은 본인이.
+
+---
+
+## FAQ
+
+**Q. 한국 ETF도 지원하나요?**
+yfinance가 한국 ETF 일부를 지원합니다 (`069500.KS` 등). 다만 미국 ETF가 더 안정적이라 기본 watchlist는 미국 ETF로 구성.
+
+**Q. 잔고 자동 조회는 안 되나요?**
+나무증권은 Windows COM 기반 API라 클라우드 자동화가 어렵습니다. ETF는 매매 빈도가 낮아 CSV 수동 관리가 더 효율적.
+
+**Q. LLM 요약을 나중에 추가하려면?**
+`src/collectors/news.py` 의 수집 결과를 Groq/Claude 등 LLM API에 전달하는 함수를 추가하면 됩니다. 무료 LLM은 Groq 추천.
+
+---
+
+## ⚠️ 면책 조항
+
+이 도구가 제공하는 모든 정보는 참고용이며 투자 자문이 아닙니다. 투자 결과에 대한 책임은 전적으로 사용자 본인에게 있습니다.

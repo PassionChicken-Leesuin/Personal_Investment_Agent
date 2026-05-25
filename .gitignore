@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.DS_Store
+.idea/
+.vscode/
+*.log
+
+# Claude Code (머신 로컬 설정)
+.claude/settings.local.json

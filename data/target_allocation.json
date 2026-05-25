@@ -1,0 +1,13 @@
+{
+  "_comment": "목표 자산배분 (%). 합계는 100이어야 함. 수정 시 합계 검증됨.",
+  "_strategy": "Core 75% + Satellite 25%",
+  "allocations": {
+    "VOO": 45,
+    "IEF": 20,
+    "IAU": 10,
+    "SOXX": 12,
+    "AIQ": 8,
+    "QTUM": 5
+  },
+  "rebalance_threshold_pct": 5.0
+}
