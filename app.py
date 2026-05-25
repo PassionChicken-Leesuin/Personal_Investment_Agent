@@ -1,8 +1,9 @@
 """주식투자 Agent Dashboard (Streamlit)
 
-`portfolio.csv` 만 수정하면 모든 탭이 자동 반영됨.
+`portfolio.csv` 는 앱 안에서 직접 편집 → GitHub 커밋 가능 (Secrets에 토큰 필요).
 실행: streamlit run app.py
 """
+import os
 import json
 from pathlib import Path
 import pandas as pd
@@ -11,6 +12,7 @@ import plotly.graph_objects as go
 import streamlit as st
 
 from src import config
+from src import github_io
 from src.collectors import prices as price_io
 from src.collectors import market as market_io
 from src.collectors import news as news_io
@@ -78,9 +80,85 @@ def render_sidebar(d: dict) -> None:
         st.rerun()
 
 
+# ─────────────────────────── 포트폴리오 편집 (인앱 → GitHub 커밋) ───────────────────────────
+def _get_github_token() -> str | None:
+    """Streamlit Secrets 또는 환경변수에서 GitHub 토큰을 읽는다 (없으면 None)."""
+    try:
+        if "GITHUB_TOKEN" in st.secrets:
+            return st.secrets["GITHUB_TOKEN"]
+    except Exception:
+        pass  # secrets.toml 자체가 없을 때
+    return os.environ.get("GITHUB_TOKEN")
+
+
+def render_portfolio_editor() -> None:
+    """보유 종목을 표로 편집하고 GitHub(또는 로컬)에 저장한다."""
+    with st.expander("✏️ 보유 종목 편집", expanded=False):
+        st.caption(
+            "표를 직접 수정하세요. `shares`/`avg_price_usd` 만 정확하면 됩니다. "
+            "행 추가·삭제 가능. 저장하면 `data/portfolio.csv` 로 커밋됩니다."
+        )
+        raw = pd.read_csv(config.PORTFOLIO_CSV)  # 0주 예시 포함 전체
+        edited = st.data_editor(
+            raw,
+            num_rows="dynamic",
+            use_container_width=True,
+            hide_index=True,
+            key="portfolio_editor",
+            column_config={
+                "ticker": st.column_config.TextColumn("티커", required=True),
+                "shares": st.column_config.NumberColumn("수량", min_value=0, step=1),
+                "avg_price_usd": st.column_config.NumberColumn("평균단가(USD)", min_value=0.0, format="%.2f"),
+                "purchase_date": st.column_config.TextColumn("매수일"),
+                "note": st.column_config.TextColumn("메모"),
+            },
+        )
+
+        token = _get_github_token()
+        col_a, col_b = st.columns([1, 3])
+        save = col_a.button("💾 GitHub에 저장", type="primary", use_container_width=True)
+        if token:
+            col_b.caption("토큰 감지됨 → GitHub 저장소로 커밋됩니다.")
+        else:
+            col_b.caption("⚠️ GitHub 토큰 없음 → 로컬 파일에만 저장(Cloud에선 비영속). Secrets에 `GITHUB_TOKEN` 추가 필요.")
+
+        if not save:
+            return
+
+        # ticker 비어있는 행 제거 후 CSV 직렬화
+        clean = edited.dropna(subset=["ticker"]).copy()
+        clean = clean[clean["ticker"].astype(str).str.strip() != ""]
+        csv_str = clean.to_csv(index=False)
+
+        if token:
+            try:
+                github_io.commit_text_file(
+                    token=token,
+                    repo=config.GITHUB_REPO,
+                    path=config.PORTFOLIO_REPO_PATH,
+                    content=csv_str,
+                    message="chore: update portfolio via dashboard",
+                    branch=config.GITHUB_BRANCH,
+                )
+            except Exception as e:
+                st.error(f"GitHub 저장 실패: {e}")
+                return
+            # 현재 세션에도 즉시 반영(Cloud 재배포 전까지)
+            config.PORTFOLIO_CSV.write_text(csv_str, encoding="utf-8")
+            st.success("GitHub에 커밋했습니다. 화면을 갱신합니다. (Cloud는 곧 자동 재배포)")
+        else:
+            config.PORTFOLIO_CSV.write_text(csv_str, encoding="utf-8")
+            st.success("로컬 파일에 저장했습니다. (GitHub 토큰이 없어 커밋은 생략)")
+
+        st.cache_data.clear()
+        st.rerun()
+
+
 # ─────────────────────────── TAB 1: 포트폴리오 ───────────────────────────
 def tab_portfolio(d: dict) -> None:
     st.header("💼 포트폴리오")
+    render_portfolio_editor()
+    st.markdown("---")
 
     portfolio_df = d["portfolio"]
     current_prices = get_current_prices(d["prices"])

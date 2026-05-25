@@ -85,6 +85,10 @@ SOXX,3,245.80,2026-05-20,
 - `avg_price_usd`: 평균 매수 단가 (USD)
 - `shares`가 0이면 자동으로 무시됨
 
+> 💡 **앱 안에서 직접 편집 가능**: 포트폴리오 탭의 **"✏️ 보유 종목 편집"** 을 펼쳐 표를
+> 수정하고 **"💾 GitHub에 저장"** 을 누르면 `portfolio.csv` 가 저장소로 커밋됩니다.
+> (GitHub 토큰 설정 필요 — 아래 배포 섹션 참고)
+
 ### `data/watchlist.csv` (관심 종목)
 시그널을 모니터링할 ETF 리스트. 보유 안 해도 됨.
 
@@ -114,6 +118,22 @@ SOXX,3,245.80,2026-05-20,
 1. https://share.streamlit.io 접속 → GitHub 연동
 2. 저장소 선택 → `app.py` 지정
 3. 자동 배포됨. 이후 Git push 시 자동 재배포.
+
+### 앱에서 포트폴리오 편집하려면: GitHub 토큰(PAT) 설정
+앱의 "보유 종목 편집 → 저장" 기능은 `portfolio.csv` 를 GitHub에 커밋해야 영속화됩니다
+(Streamlit Cloud 파일시스템은 임시라 직접 쓰면 사라짐). 그래서 **쓰기 권한 토큰**이 필요합니다.
+
+1. **PAT 발급**: GitHub → Settings → Developer settings → **Personal access tokens → Fine-grained tokens**
+   → 이 저장소만 선택 → Repository permissions의 **Contents: Read and write** 부여 → 생성 후 토큰 복사
+   (Classic 토큰이면 `repo` 스코프)
+2. **Streamlit Secrets에 등록**: 배포된 앱 → 우측 상단 ⋮ → **Settings → Secrets** 에 아래 추가
+   ```toml
+   GITHUB_TOKEN = "github_pat_xxxxxxxx"
+   ```
+3. **로컬에서 테스트**하려면 `.streamlit/secrets.toml` 에 같은 줄을 넣거나
+   `setx GITHUB_TOKEN "..."` (Windows) 환경변수로 주입. ⚠️ 이 파일은 `.gitignore` 처리되어 커밋되지 않음.
+
+> 토큰이 없으면 편집 기능은 로컬 파일에만 저장(Cloud에선 비영속)하며, 그 외 모든 탭은 정상 동작합니다.
 
 ### 자동 갱신 확인
 - GitHub 저장소 → Actions 탭 → "Daily Data Update" → 매일 22:00 UTC (= 07:00 KST) 실행 확인

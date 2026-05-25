@@ -32,6 +32,12 @@ MARKET_TICKERS = {
     "WTI Oil": "CL=F",
 }
 
+# GitHub (앱에서 portfolio.csv 편집 → 커밋용)
+# 토큰은 여기 두지 말 것! Streamlit Secrets / 환경변수로만 주입.
+GITHUB_REPO = "PassionChicken-Leesuin/Personal_Investment_Agent"
+GITHUB_BRANCH = "main"
+PORTFOLIO_REPO_PATH = "data/portfolio.csv"
+
 # 시그널 룰 파라미터
 SIGNAL_PARAMS = {
     "ma_period": 200,        # 장기 추세선
