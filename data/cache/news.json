@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-05-25T23:03:57.008618+00:00",
+  "captured_at_utc": "2026-05-26T23:11:47.779290+00:00",
   "items": {
     "AIQ": [
       {
@@ -88,6 +88,14 @@
     "IEF": [
       {
         "ticker": "IEF",
+        "title": "TLT Holders Down -50%!  A Brutal Reminder Your Long Treasuries Can Halve Without a Single Default",
+        "link": "https://247wallst.com/investing/2026/05/26/tlt-holders-down-50-a-brutal-reminder-your-long-treasuries-can-halve-without-a-single-default/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-05-26T12:30:09Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IEF",
         "title": "30-Year Treasury Yield Hits 19-Year High, Hammering Bond ETFs",
         "link": "http://www.etf.com/sections/features/30-year-treasury-yield-hits-19-year-high-hammering-bond-etfs?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
@@ -116,14 +124,6 @@
         "link": "https://www.marketbeat.com/originals/3-low-volatility-etfs-for-peace-of-mind-in-turbulent-times/?utm_source=yahoofinance&utm_medium=yahoofinance",
         "publisher": "MarketBeat",
         "published": "2026-04-13T13:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "4 Top-Performing Sector ETFs of Q1 2026",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/4-top-performing-sector-etfs-120000501.html",
-        "publisher": "Zacks",
-        "published": "2026-04-07T12:00:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,46 +172,62 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "SOXL Lost 90 Percent in 2022 While Semiconductors Themselves Fell 35 Percent, And the Daily Reset Math Hasn’t Changed",
+        "link": "https://247wallst.com/investing/2026/05/26/soxl-lost-90-percent-in-2022-while-semiconductors-themselves-fell-35-percent-and-the-daily-reset-math-hasnt-changed/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-05-26T22:00:16Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Micron Jumps 12% After Price Target Raise From $535 to $1,625: Here’s What’s Driving Wall Street’s Most Bullish Target",
+        "link": "https://247wallst.com/investing/2026/05/26/micron-jumps-10-after-price-target-raise-from-535-to-1625-heres-whats-driving-wall-streets-most-bullish-target/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-05-26T13:32:33Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Tuesday Amid Renewed Hopes Around Middle East Peace Deal",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131833095.html",
+        "publisher": "MT Newswires",
+        "published": "2026-05-26T13:18:33Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "DRAM’s 49 Percent Korea Weighting Means Half the Fund Trades While New York Is Closed",
+        "link": "https://247wallst.com/investing/2026/05/26/drams-49-percent-korea-weighting-means-half-the-fund-trades-while-new-york-is-closed/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-05-26T11:40:35Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "SMH vs SOXX: Which Semiconductor ETF Should You Buy in 2026?",
         "link": "http://www.etf.com/sections/news/smh-vs-soxx-which-semiconductor-etf-should-you-buy-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
         "published": "2026-05-22T22:32:46Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Salesforce, Other Software Stocks Are Scraping Themselves Off the Floor",
-        "link": "https://www.barrons.com/articles/salesforce-workday-software-chip-stocks-288eb85b?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-05-22T17:50:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Chip Stocks Rise to Record Level. Don't Thank Nvidia.",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-052226/card/chip-stocks-rise-to-record-level-don-t-thank-nvidia--y4PpLEEQOolRNuwsUoQt?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-05-22T15:58:30Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Buoyed by Robust Corporate Earnings Season",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131038113.html",
-        "publisher": "MT Newswires",
-        "published": "2026-05-22T13:10:38Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "MoneyMasters Podcast 5-21-26- US-China Insights  the NEW Balanced Portfolio",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/moneymasters-podcast-5-21-26-163000294.html",
-        "publisher": "MoneyShow",
-        "published": "2026-05-21T16:30:00Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "This Vanguard ETF Is Crushing the S&P 500 This Year",
+        "link": "https://www.fool.com/investing/2026/05/26/this-vanguard-etf-is-crushing-sp-500-this-year/",
+        "publisher": "Motley Fool",
+        "published": "2026-05-26T12:05:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "VOO  SMH Lead Weekly Inflows of $25.2 Billion",
+        "link": "http://www.etf.com/sections/weekly-etf-flows/voo-smh-lead-weekly-inflows-252-billion?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-05-25T21:00:16Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "Why Retirees Love This $5.85 Billion Value ETF (and What Could Wreck It)",
@@ -234,22 +250,6 @@
         "link": "https://www.fool.com/coverage/etfs/2026/05/23/voo-vs-ivv-which-popular-s-and-p-500-etf-is-the-better-buy-for-investors/",
         "publisher": "Motley Fool",
         "published": "2026-05-23T20:18:26Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Best Vanguard ETF to Buy and Hold for the Next Decade (It Has Significant AI Exposure)",
-        "link": "https://www.fool.com/investing/2026/05/22/the-best-vanguard-etf-to-buy-and-hold-for-the-next/",
-        "publisher": "Motley Fool",
-        "published": "2026-05-22T23:27:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "ETF Zoo: Why Rebalancing Killed the ARK Star",
-        "link": "http://www.etf.com/sections/podcasts/etf-zoo-why-rebalancing-killed-ark-star?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-22T20:15:22Z",
         "source": "yfinance"
       }
     ]
