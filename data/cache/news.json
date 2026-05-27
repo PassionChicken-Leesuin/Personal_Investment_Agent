@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-05-26T23:11:47.779290+00:00",
+  "captured_at_utc": "2026-05-27T23:18:52.645159+00:00",
   "items": {
     "AIQ": [
       {
@@ -130,6 +130,14 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "Quantum Computing: The Next AI Boom?",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/quantum-computing-next-ai-boom-193200379.html",
+        "publisher": "Zacks",
+        "published": "2026-05-27T19:32:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "Quantum ETF (QTUM) Hits New 52-Week High",
         "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-etf-qtum-hits-52-161200925.html",
         "publisher": "Zacks",
@@ -159,17 +167,33 @@
         "publisher": "Benzinga",
         "published": "2026-05-13T16:15:30Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Why to Bet on Quantum Computing ETFs Now",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/why-bet-quantum-computing-etfs-170000588.html",
-        "publisher": "Zacks",
-        "published": "2026-05-07T17:00:00Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
+      {
+        "ticker": "SOXX",
+        "title": "Stock Market Momentum Stalls. Dow Hits a Record Anyway.",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-052726/card/stock-market-momentum-stalls-dow-hits-a-record-anyway--c5tKsBL2hAkjzBZffPAi?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-05-27T20:07:18Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Google Gemini 3.5 Looks Like a Legit Flex, Yet Alphabet Stock Keeps Slipping — Is This a Glorious Buying Opportunity?",
+        "link": "https://247wallst.com/investing/2026/05/27/gemini-3-5-looks-like-a-legit-flex-yet-alphabet-stock-keeps-slipping/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-05-27T14:58:45Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Tech ETFs to Buy as Micron Technology Joins the $1 Trillion Club",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tech-etfs-buy-micron-technology-145800201.html",
+        "publisher": "Zacks",
+        "published": "2026-05-27T14:58:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "SOXX",
         "title": "SOXL Lost 90 Percent in 2022 While Semiconductors Themselves Fell 35 Percent, And the Daily Reset Math Hasn’t Changed",
@@ -185,33 +209,17 @@
         "publisher": "24/7 Wall St.",
         "published": "2026-05-26T13:32:33Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Tuesday Amid Renewed Hopes Around Middle East Peace Deal",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131833095.html",
-        "publisher": "MT Newswires",
-        "published": "2026-05-26T13:18:33Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "DRAM’s 49 Percent Korea Weighting Means Half the Fund Trades While New York Is Closed",
-        "link": "https://247wallst.com/investing/2026/05/26/drams-49-percent-korea-weighting-means-half-the-fund-trades-while-new-york-is-closed/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-26T11:40:35Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "SMH vs SOXX: Which Semiconductor ETF Should You Buy in 2026?",
-        "link": "http://www.etf.com/sections/news/smh-vs-soxx-which-semiconductor-etf-should-you-buy-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-22T22:32:46Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "I'm Not Buying the Vanguard S&P 500 ETF -- But I'd Buy This Alternative Right Now",
+        "link": "https://www.fool.com/investing/2026/05/27/im-not-buying-the-vanguard-sp-500-etf-but-id-buy-t/",
+        "publisher": "Motley Fool",
+        "published": "2026-05-27T11:42:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "This Vanguard ETF Is Crushing the S&P 500 This Year",
@@ -242,14 +250,6 @@
         "link": "https://www.fool.com/investing/2026/05/23/if-i-could-only-hold-1-vanguard-etf-forever-heres/",
         "publisher": "Motley Fool",
         "published": "2026-05-23T23:50:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO vs. IVV: Which Popular S&P 500 ETF Is the Better Buy for Investors?",
-        "link": "https://www.fool.com/coverage/etfs/2026/05/23/voo-vs-ivv-which-popular-s-and-p-500-etf-is-the-better-buy-for-investors/",
-        "publisher": "Motley Fool",
-        "published": "2026-05-23T20:18:26Z",
         "source": "yfinance"
       }
     ]
