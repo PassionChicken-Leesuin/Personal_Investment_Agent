@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-05-27T23:18:52.645159+00:00",
+  "captured_at_utc": "2026-05-28T23:18:35.484016+00:00",
   "items": {
     "AIQ": [
       {
@@ -130,6 +130,14 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "Rational exuberance: Inside Washington’s $2 billion quantum gamble",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/rational-exuberance-inside-washington-2-191101901.html",
+        "publisher": "Investing.com",
+        "published": "2026-05-28T19:11:01Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "Quantum Computing: The Next AI Boom?",
         "link": "https://finance.yahoo.com/sectors/technology/articles/quantum-computing-next-ai-boom-193200379.html",
         "publisher": "Zacks",
@@ -159,97 +167,89 @@
         "publisher": "Zacks",
         "published": "2026-05-19T20:09:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Here's How Much You Would Have Made Owning Defiance Quantum ETF Stock In The Last 5 Years",
-        "link": "https://finance.yahoo.com/news/heres-much-made-owning-defiance-161530610.html",
-        "publisher": "Benzinga",
-        "published": "2026-05-13T16:15:30Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "Stock Market Momentum Stalls. Dow Hits a Record Anyway.",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-052726/card/stock-market-momentum-stalls-dow-hits-a-record-anyway--c5tKsBL2hAkjzBZffPAi?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-05-27T20:07:18Z",
+        "title": "The Most-Compared ETFs Right Now — And What They Reveal",
+        "link": "http://www.etf.com/sections/news/most-compared-etfs-right-now-and-what-they-reveal?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-05-28T23:00:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Google Gemini 3.5 Looks Like a Legit Flex, Yet Alphabet Stock Keeps Slipping — Is This a Glorious Buying Opportunity?",
-        "link": "https://247wallst.com/investing/2026/05/27/gemini-3-5-looks-like-a-legit-flex-yet-alphabet-stock-keeps-slipping/",
+        "title": "The AI Memory Shortage Is Just Getting Started and These 3 ETFs Own Every Layer of the Supply Chain",
+        "link": "https://247wallst.com/investing/2026/05/28/the-ai-memory-shortage-is-just-getting-started-and-these-3-etfs-own-every-layer-of-the-supply-chain/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-05-27T14:58:45Z",
+        "published": "2026-05-28T21:48:09Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Tech ETFs to Buy as Micron Technology Joins the $1 Trillion Club",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/tech-etfs-buy-micron-technology-145800201.html",
-        "publisher": "Zacks",
-        "published": "2026-05-27T14:58:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "SOXL Lost 90 Percent in 2022 While Semiconductors Themselves Fell 35 Percent, And the Daily Reset Math Hasn’t Changed",
-        "link": "https://247wallst.com/investing/2026/05/26/soxl-lost-90-percent-in-2022-while-semiconductors-themselves-fell-35-percent-and-the-daily-reset-math-hasnt-changed/",
+        "title": "After Comparing Every Generative AI ETF These 3 Capture the Software Layer Most Investors Miss",
+        "link": "https://247wallst.com/investing/2026/05/28/after-comparing-every-generative-ai-etf-these-3-capture-the-software-layer-most-investors-miss/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-05-26T22:00:16Z",
+        "published": "2026-05-28T16:12:01Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Micron Jumps 12% After Price Target Raise From $535 to $1,625: Here’s What’s Driving Wall Street’s Most Bullish Target",
-        "link": "https://247wallst.com/investing/2026/05/26/micron-jumps-10-after-price-target-raise-from-535-to-1625-heres-whats-driving-wall-streets-most-bullish-target/",
+        "title": "ETF Turns $100k to $1.28m in 1 Year. Reddit Says It’ll Double Again",
+        "link": "https://247wallst.com/investing/2026/05/28/etf-turns-100k-to-1-28m-in-1-year-reddit-says-itll-double-again/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-05-26T13:32:33Z",
+        "published": "2026-05-28T14:12:53Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "2 Reasons Why AMD Stock Is Guaranteed to Beat Nvidia",
+        "link": "https://www.barchart.com/story/news/2178130/2-reasons-why-amd-stock-is-guaranteed-to-beat-nvidia",
+        "publisher": "Barchart",
+        "published": "2026-05-28T13:57:44Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
+        "title": "The Most-Compared ETFs Right Now — And What They Reveal",
+        "link": "http://www.etf.com/sections/news/most-compared-etfs-right-now-and-what-they-reveal?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-05-28T23:00:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Vanguard ETF That Could Set You Up for Life if You Buy It Now",
+        "link": "https://www.fool.com/investing/2026/05/28/vanguard-etf-that-could-set-you-up-for-life-vti/",
+        "publisher": "Motley Fool",
+        "published": "2026-05-28T17:35:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Should You Buy the Vanguard S&P 500 ETF With the Stock Market at a Record High? History Offers a Clear Answer.",
+        "link": "https://www.fool.com/investing/2026/05/28/should-buy-vanguard-sp-500-etf-stock-high-answer/",
+        "publisher": "Motley Fool",
+        "published": "2026-05-28T11:20:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "VOO Is About to Become the First $1 Trillion ETF",
+        "link": "http://www.etf.com/sections/features/voo-about-become-first-1-trillion-etf?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-05-28T00:15:54Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "I'm Not Buying the Vanguard S&P 500 ETF -- But I'd Buy This Alternative Right Now",
         "link": "https://www.fool.com/investing/2026/05/27/im-not-buying-the-vanguard-sp-500-etf-but-id-buy-t/",
         "publisher": "Motley Fool",
         "published": "2026-05-27T11:42:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "This Vanguard ETF Is Crushing the S&P 500 This Year",
-        "link": "https://www.fool.com/investing/2026/05/26/this-vanguard-etf-is-crushing-sp-500-this-year/",
-        "publisher": "Motley Fool",
-        "published": "2026-05-26T12:05:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO  SMH Lead Weekly Inflows of $25.2 Billion",
-        "link": "http://www.etf.com/sections/weekly-etf-flows/voo-smh-lead-weekly-inflows-252-billion?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-25T21:00:16Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Why Retirees Love This $5.85 Billion Value ETF (and What Could Wreck It)",
-        "link": "https://247wallst.com/investing/2026/05/24/why-retirees-love-this-5-85-billion-value-etf-and-what-could-wreck-it/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-24T18:10:03Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "If I Could Only Hold 1 Vanguard ETF Forever, Here's What I'd Buy",
-        "link": "https://www.fool.com/investing/2026/05/23/if-i-could-only-hold-1-vanguard-etf-forever-heres/",
-        "publisher": "Motley Fool",
-        "published": "2026-05-23T23:50:00Z",
         "source": "yfinance"
       }
     ]
