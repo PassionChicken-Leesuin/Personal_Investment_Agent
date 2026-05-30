@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-05-29T23:13:44.965484+00:00",
+  "captured_at_utc": "2026-05-30T22:58:47.766968+00:00",
   "indicators": {
     "S&P 500": {
       "ticker": "^GSPC",
@@ -15,9 +15,9 @@
     },
     "KOSPI": {
       "ticker": "^KS11",
-      "value": NaN,
+      "value": 8476.1504,
       "prev": 8185.29,
-      "change_pct": NaN
+      "change_pct": 3.553
     },
     "VIX": {
       "ticker": "^VIX",
@@ -39,15 +39,15 @@
     },
     "Gold": {
       "ticker": "GC=F",
-      "value": 4569.8999,
+      "value": 4560.5,
       "prev": 4499.2998,
-      "change_pct": 1.569
+      "change_pct": 1.36
     },
     "WTI Oil": {
       "ticker": "CL=F",
-      "value": 87.76,
+      "value": 87.36,
       "prev": 88.9,
-      "change_pct": -1.282
+      "change_pct": -1.732
     }
   }
 }

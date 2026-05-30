@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-05-29T23:13:45.759351+00:00",
+  "captured_at_utc": "2026-05-30T22:58:48.352453+00:00",
   "items": {
     "AIQ": [
       {
@@ -172,6 +172,14 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "Shares Fall, Targets Rise—Markets and Analysts Diverge on Synopsys",
+        "link": "https://www.marketbeat.com/originals/shares-fall-targets-risemarkets-and-analysts-diverge-on-synopsys/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "published": "2026-05-29T16:30:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "After Three Years of Tracking the AI Capex Cycle These 3 Semiconductor ETFs Sit on Top of the Trade",
         "link": "https://247wallst.com/investing/2026/05/29/after-three-years-of-tracking-the-ai-capex-cycle-these-3-semiconductor-etfs-sit-on-top-of-the-trade/",
         "publisher": "24/7 Wall St.",
@@ -200,14 +208,6 @@
         "link": "https://247wallst.com/investing/2026/05/28/the-ai-memory-shortage-is-just-getting-started-and-these-3-etfs-own-every-layer-of-the-supply-chain/",
         "publisher": "24/7 Wall St.",
         "published": "2026-05-28T21:48:09Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "3 Stocks Rallying on Micron's Price Boost: Substance or Hype?",
-        "link": "https://www.marketbeat.com/originals/3-stocks-rallying-on-microns-price-boost-substance-or-hype/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "published": "2026-05-28T19:05:00Z",
         "source": "yfinance"
       }
     ],
