@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-05-30T22:58:48.352453+00:00",
+  "captured_at_utc": "2026-05-31T23:00:57.911117+00:00",
   "items": {
     "AIQ": [
       {
@@ -130,6 +130,14 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
+        "link": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-05-31T15:15:35Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "Rational exuberance: Inside Washington’s $2 billion quantum gamble",
         "link": "https://finance.yahoo.com/sectors/technology/articles/rational-exuberance-inside-washington-2-191101901.html",
         "publisher": "Investing.com",
@@ -159,17 +167,17 @@
         "publisher": "Zacks",
         "published": "2026-05-22T16:12:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Quantum Computing and Robotics Are Arriving Faster Than Most Investors Realize and After Years of Covering This Space These 3 ETFs Stand Out",
-        "link": "https://247wallst.com/investing/2026/05/21/quantum-computing-and-robotics-are-arriving-faster-than-most-investors-realize-and-after-years-of-covering-this-space-these-3-etfs-stand-out/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-21T17:11:44Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
+      {
+        "ticker": "SOXX",
+        "title": "The Semiconductor Play Nobody Owns Just Lapped Wall Street’s Biggest Names",
+        "link": "https://247wallst.com/investing/2026/05/31/the-semiconductor-play-nobody-owns-just-lapped-wall-streets-biggest-names/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-05-31T17:10:33Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "SOXX",
         "title": "Shares Fall, Targets Rise—Markets and Analysts Diverge on Synopsys",
@@ -200,14 +208,6 @@
         "link": "http://www.etf.com/sections/news/most-compared-etfs-right-now-and-what-they-reveal?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
         "published": "2026-05-28T23:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "The AI Memory Shortage Is Just Getting Started and These 3 ETFs Own Every Layer of the Supply Chain",
-        "link": "https://247wallst.com/investing/2026/05/28/the-ai-memory-shortage-is-just-getting-started-and-these-3-etfs-own-every-layer-of-the-supply-chain/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-28T21:48:09Z",
         "source": "yfinance"
       }
     ],
