@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-05-31T23:00:57.911117+00:00",
+  "captured_at_utc": "2026-06-01T23:28:05.937983+00:00",
   "items": {
     "AIQ": [
       {
@@ -88,6 +88,14 @@
     "IEF": [
       {
         "ticker": "IEF",
+        "title": "Why IEF’s Next 12 Months Hinge on One Inflation Number",
+        "link": "https://247wallst.com/investing/2026/06/01/why-iefs-next-12-months-hinge-on-one-inflation-number/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-01T11:18:43Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IEF",
         "title": "The Spill: A 5% Long Bond Yield Has Traders Circling TLT",
         "link": "https://finance.yahoo.com/markets/options/articles/spill-5-long-bond-yield-203810157.html",
         "publisher": "IPO-Edge.com",
@@ -117,17 +125,17 @@
         "publisher": "etf.com",
         "published": "2026-05-12T23:34:21Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "Market Minute 5-12-26- Oil, Inflation, Yields All on the Rise",
-        "link": "https://finance.yahoo.com/economy/articles/market-minute-5-12-26-141500526.html",
-        "publisher": "MoneyShow",
-        "published": "2026-05-12T14:15:00Z",
-        "source": "yfinance"
       }
     ],
     "QTUM": [
+      {
+        "ticker": "QTUM",
+        "title": "DoC's $2B Quantum Initiative Puts These 2 Stocks in the Spotlight",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/docs-2b-quantum-initiative-puts-190000540.html",
+        "publisher": "Zacks",
+        "published": "2026-06-01T19:00:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "QTUM",
         "title": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
@@ -159,17 +167,25 @@
         "publisher": "Zacks",
         "published": "2026-05-27T19:32:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Quantum ETF (QTUM) Hits New 52-Week High",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-etf-qtum-hits-52-161200925.html",
-        "publisher": "Zacks",
-        "published": "2026-05-22T16:12:00Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
+      {
+        "ticker": "SOXX",
+        "title": "Why the Dow Is Falling While the S&P 500 and Nasdaq Are Rising",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060126/card/why-the-dow-is-falling-while-the-s-p-500-and-nasdaq-are-rising-gX0ovVu5WOdnLcRQe1br?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-01T17:56:32Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as AI Optimism Overshadows Middle East Risks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130310190.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-01T13:03:10Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "SOXX",
         "title": "The Semiconductor Play Nobody Owns Just Lapped Wall Street’s Biggest Names",
@@ -193,25 +209,25 @@
         "publisher": "24/7 Wall St.",
         "published": "2026-05-29T14:04:44Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Rise Pre-Bell Friday Amid US-Iran Deal Hopes",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131630396.html",
-        "publisher": "MT Newswires",
-        "published": "2026-05-29T13:16:30Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "The Most-Compared ETFs Right Now — And What They Reveal",
-        "link": "http://www.etf.com/sections/news/most-compared-etfs-right-now-and-what-they-reveal?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-28T23:00:00Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "Weekly Inflows Total $66B",
+        "link": "http://www.etf.com/sections/weekly-etf-flows/weekly-inflows-total-66b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-01T21:00:14Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "‘VOO and Chill’ Pushes Vanguard S&P 500 ETF Toward Record $1T",
+        "link": "https://www.thedailyupside.com/etf/industry-news-etf/voo-and-chill-pushes-vanguard-sp-500-etf-toward-record-1t/",
+        "publisher": "The Daily Upside",
+        "published": "2026-06-01T04:03:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "ETF Filings Pile Into SpaceX Ahead of IPO",
@@ -234,22 +250,6 @@
         "link": "https://www.fool.com/investing/2026/05/28/vanguard-etf-that-could-set-you-up-for-life-vti/",
         "publisher": "Motley Fool",
         "published": "2026-05-28T17:35:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Should You Buy the Vanguard S&P 500 ETF With the Stock Market at a Record High? History Offers a Clear Answer.",
-        "link": "https://www.fool.com/investing/2026/05/28/should-buy-vanguard-sp-500-etf-stock-high-answer/",
-        "publisher": "Motley Fool",
-        "published": "2026-05-28T11:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO Is About to Become the First $1 Trillion ETF",
-        "link": "http://www.etf.com/sections/features/voo-about-become-first-1-trillion-etf?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-28T00:15:54Z",
         "source": "yfinance"
       }
     ]
