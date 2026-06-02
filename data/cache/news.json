@@ -1,7 +1,15 @@
 {
-  "captured_at_utc": "2026-06-01T23:28:05.937983+00:00",
+  "captured_at_utc": "2026-06-02T23:46:27.545587+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
+        "publisher": "Zacks",
+        "published": "2026-06-02T17:00:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "Trump Asks AI Companies to Slow Down After Telling Them to Go Fast, Break Things",
@@ -32,14 +40,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-fears-etfs-still-150000435.html",
         "publisher": "Zacks",
         "published": "2026-05-18T15:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "Is AI Rally More Restrained Than the Dot-Com Bubble? ETFs in Focus",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/ai-rally-more-restrained-dot-160000373.html",
-        "publisher": "Zacks",
-        "published": "2026-05-14T16:00:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,46 +172,70 @@
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "Why the Dow Is Falling While the S&P 500 and Nasdaq Are Rising",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060126/card/why-the-dow-is-falling-while-the-s-p-500-and-nasdaq-are-rising-gX0ovVu5WOdnLcRQe1br?siteid=yhoof2&yptr=yahoo",
+        "title": "Best ETFs for H1 2026: Winners, Losers, and What to Watch",
+        "link": "http://www.etf.com/sections/news/best-etfs-h1-2026-winners-losers-and-what-watch?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-02T22:46:51Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Texas Instruments Is Smashing NVIDIA in 2026: Rotational Fluke, or Paradigm Shift",
+        "link": "https://247wallst.com/investing/2026/06/02/texas-instruments-is-smashing-nvidia-in-2026-rotational-fluke-or-paradigm-shift/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-02T19:03:01Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Major Indexes Head for 5th Straight Record Closes",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060226/card/major-indexes-head-for-5th-straight-record-closes-piMY4TEfuig1mYgUH6x9?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "published": "2026-06-01T17:56:32Z",
+        "published": "2026-06-02T15:41:05Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as AI Optimism Overshadows Middle East Risks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130310190.html",
+        "title": "Why the Dow Is Lagging the S&P and Nasdaq",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060226/card/why-the-dow-is-lagging-the-s-p-and-nasdaq-CIzHmVmzLa7QEiiQFt3E?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-02T14:21:09Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as Traders Assess AI Momentum",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130545099.html",
         "publisher": "MT Newswires",
-        "published": "2026-06-01T13:03:10Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "The Semiconductor Play Nobody Owns Just Lapped Wall Street’s Biggest Names",
-        "link": "https://247wallst.com/investing/2026/05/31/the-semiconductor-play-nobody-owns-just-lapped-wall-streets-biggest-names/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-31T17:10:33Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Shares Fall, Targets Rise—Markets and Analysts Diverge on Synopsys",
-        "link": "https://www.marketbeat.com/originals/shares-fall-targets-risemarkets-and-analysts-diverge-on-synopsys/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "published": "2026-05-29T16:30:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "After Three Years of Tracking the AI Capex Cycle These 3 Semiconductor ETFs Sit on Top of the Trade",
-        "link": "https://247wallst.com/investing/2026/05/29/after-three-years-of-tracking-the-ai-capex-cycle-these-3-semiconductor-etfs-sit-on-top-of-the-trade/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-29T14:04:44Z",
+        "published": "2026-06-02T13:05:45Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "Best ETFs for H1 2026: Winners, Losers, and What to Watch",
+        "link": "http://www.etf.com/sections/news/best-etfs-h1-2026-winners-losers-and-what-watch?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-02T22:46:51Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "VOO Investors: Watch These 2 Signals Before Summer",
+        "link": "https://247wallst.com/investing/2026/06/01/voo-investors-watch-these-2-signals-before-summer/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-02T01:18:48Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "I Make $150,000 a Year, But It Feels Like I’m Just Middle Class in a World Full of Rich People",
+        "link": "https://247wallst.com/personal-finance/2025/07/16/i-make-150000-a-year-but-it-feels-like-im-just-middle-class-in-a-world-full-of-rich-people/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-02T00:31:15Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "Weekly Inflows Total $66B",
@@ -226,30 +250,6 @@
         "link": "https://www.thedailyupside.com/etf/industry-news-etf/voo-and-chill-pushes-vanguard-sp-500-etf-toward-record-1t/",
         "publisher": "The Daily Upside",
         "published": "2026-06-01T04:03:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "ETF Filings Pile Into SpaceX Ahead of IPO",
-        "link": "http://www.etf.com/sections/podcasts/etf-filings-pile-spacex-ahead-ipo?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-29T19:53:51Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Most-Compared ETFs Right Now — And What They Reveal",
-        "link": "http://www.etf.com/sections/news/most-compared-etfs-right-now-and-what-they-reveal?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-28T23:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Vanguard ETF That Could Set You Up for Life if You Buy It Now",
-        "link": "https://www.fool.com/investing/2026/05/28/vanguard-etf-that-could-set-you-up-for-life-vti/",
-        "publisher": "Motley Fool",
-        "published": "2026-05-28T17:35:00Z",
         "source": "yfinance"
       }
     ]
