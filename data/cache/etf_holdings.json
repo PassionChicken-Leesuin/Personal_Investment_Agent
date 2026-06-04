@@ -1,162 +1,162 @@
 {
-  "captured_at_utc": "2026-06-03T23:44:53.912929+00:00",
+  "captured_at_utc": "2026-06-04T23:09:52.815671+00:00",
   "etfs": {
     "AIQ": [
       {
         "symbol": "000660.KS",
         "name": "SK Hynix Inc",
-        "weight_pct": 4.817
-      },
-      {
-        "symbol": "INTC",
-        "name": "Intel Corp",
-        "weight_pct": 4.159
-      },
-      {
-        "symbol": "005930.KS",
-        "name": "Samsung Electronics Co Ltd",
-        "weight_pct": 4.094
-      },
-      {
-        "symbol": "AMD",
-        "name": "Advanced Micro Devices Inc",
-        "weight_pct": 3.987
+        "weight_pct": 7.112
       },
       {
         "symbol": "MU",
         "name": "Micron Technology Inc",
-        "weight_pct": 3.712
+        "weight_pct": 5.763
       },
       {
-        "symbol": "AVGO",
-        "name": "Broadcom Inc",
-        "weight_pct": 3.66
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices Inc",
+        "weight_pct": 4.801
+      },
+      {
+        "symbol": "005930.KS",
+        "name": "Samsung Electronics Co Ltd",
+        "weight_pct": 4.79
+      },
+      {
+        "symbol": "INTC",
+        "name": "Intel Corp",
+        "weight_pct": 4.175
       },
       {
         "symbol": "CSCO",
         "name": "Cisco Systems Inc",
-        "weight_pct": 3.513
+        "weight_pct": 3.822
+      },
+      {
+        "symbol": "AVGO",
+        "name": "Broadcom Inc",
+        "weight_pct": 3.24
       },
       {
         "symbol": "TSM",
         "name": "Taiwan Semiconductor Manufacturing Co Ltd ADR",
-        "weight_pct": 3.452
+        "weight_pct": 3.015
       },
       {
-        "symbol": "GOOGL",
-        "name": "Alphabet Inc Class A",
-        "weight_pct": 3.322
+        "symbol": "ORCL",
+        "name": "Oracle Corp",
+        "weight_pct": 2.99
       },
       {
-        "symbol": "AMZN",
-        "name": "Amazon.com Inc",
-        "weight_pct": 3.228
+        "symbol": "AAPL",
+        "name": "Apple Inc",
+        "weight_pct": 2.965
       }
     ],
     "IAU": [],
     "IEF": [],
     "QTUM": [
       {
+        "symbol": "MU",
+        "name": "Micron Technology Inc",
+        "weight_pct": 3.175
+      },
+      {
+        "symbol": "2454.TW",
+        "name": "MediaTek Inc",
+        "weight_pct": 2.506
+      },
+      {
         "symbol": "INTC",
         "name": "Intel Corp",
-        "weight_pct": 2.391
+        "weight_pct": 2.425
       },
       {
         "symbol": "STM",
         "name": "STMicroelectronics NV ADR",
-        "weight_pct": 2.162
+        "weight_pct": 2.271
+      },
+      {
+        "symbol": "ARM",
+        "name": "ARM Holdings PLC ADR",
+        "weight_pct": 2.152
       },
       {
         "symbol": "NOK",
         "name": "Nokia Oyj ADR",
-        "weight_pct": 2.142
+        "weight_pct": 2.057
       },
       {
-        "symbol": "MU",
-        "name": "Micron Technology Inc",
-        "weight_pct": 2.024
+        "symbol": "AMD",
+        "name": "Advanced Micro Devices Inc",
+        "weight_pct": 2.009
       },
       {
-        "symbol": "3443.TW",
-        "name": "Global Unichip Corp",
-        "weight_pct": 2.006
+        "symbol": "MRVL",
+        "name": "Marvell Technology Inc",
+        "weight_pct": 1.911
+      },
+      {
+        "symbol": "IFX.DE",
+        "name": "Infineon Technologies AG",
+        "weight_pct": 1.91
       },
       {
         "symbol": "ON",
         "name": "ON Semiconductor Corp",
         "weight_pct": 1.888
-      },
-      {
-        "symbol": "MRVL",
-        "name": "Marvell Technology Inc",
-        "weight_pct": 1.843
-      },
-      {
-        "symbol": "ONTO",
-        "name": "Onto Innovation Inc",
-        "weight_pct": 1.808
-      },
-      {
-        "symbol": "TSEM.TA",
-        "name": "Tower Semiconductor Ltd",
-        "weight_pct": 1.803
-      },
-      {
-        "symbol": "COHR",
-        "name": "Coherent Corp",
-        "weight_pct": 1.77
       }
     ],
     "SOXX": [
       {
+        "symbol": "MU",
+        "name": "Micron Technology Inc",
+        "weight_pct": 11.619
+      },
+      {
         "symbol": "AMD",
         "name": "Advanced Micro Devices Inc",
-        "weight_pct": 8.03
+        "weight_pct": 9.486
       },
       {
         "symbol": "AVGO",
         "name": "Broadcom Inc",
-        "weight_pct": 7.946
-      },
-      {
-        "symbol": "MU",
-        "name": "Micron Technology Inc",
-        "weight_pct": 7.627
-      },
-      {
-        "symbol": "NVDA",
-        "name": "NVIDIA Corp",
-        "weight_pct": 6.849
+        "weight_pct": 6.901
       },
       {
         "symbol": "INTC",
         "name": "Intel Corp",
-        "weight_pct": 6.299
+        "weight_pct": 6.204
       },
       {
         "symbol": "MRVL",
         "name": "Marvell Technology Inc",
-        "weight_pct": 6.147
+        "weight_pct": 6.191
+      },
+      {
+        "symbol": "NVDA",
+        "name": "NVIDIA Corp",
+        "weight_pct": 5.88
       },
       {
         "symbol": "AMAT",
         "name": "Applied Materials Inc",
-        "weight_pct": 4.805
+        "weight_pct": 4.448
       },
       {
-        "symbol": "MPWR",
-        "name": "Monolithic Power Systems Inc",
-        "weight_pct": 4.296
+        "symbol": "QCOM",
+        "name": "Qualcomm Inc",
+        "weight_pct": 4.351
       },
       {
         "symbol": "TXN",
         "name": "Texas Instruments Inc",
-        "weight_pct": 4.029
+        "weight_pct": 3.556
       },
       {
         "symbol": "NXPI",
         "name": "NXP Semiconductors NV",
-        "weight_pct": 3.932
+        "weight_pct": 3.493
       }
     ],
     "VOO": [

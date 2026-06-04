@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-03T23:44:52.820244+00:00",
+  "captured_at_utc": "2026-06-04T23:09:52.257602+00:00",
   "items": {
     "AIQ": [
       {
@@ -46,6 +46,14 @@
     "IAU": [
       {
         "ticker": "IAU",
+        "title": "The Fed’s Next Move Will Determine Whether GLD Can Extend Its 36% Rally",
+        "link": "https://247wallst.com/investing/2026/06/04/the-feds-next-move-will-determine-whether-gld-can-extend-its-36-rally/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-04T14:33:58Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IAU",
         "title": "Gold ETFs Shine Again as Ceasefire Hopes Lift Market Optimism",
         "link": "https://finance.yahoo.com/markets/commodities/articles/gold-etfs-shine-again-ceasefire-154300838.html",
         "publisher": "Zacks",
@@ -74,14 +82,6 @@
         "link": "https://247wallst.com/investing/2026/05/06/state-streets-2026-outlook-exposes-why-most-investors-still-underweight-gold-after-its-50-rally/",
         "publisher": "24/7 Wall St.",
         "published": "2026-05-06T21:22:23Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "IAU Returned 42% in a Year of Sticky Inflation. Here’s Why Allocators Are Reconsidering Gold",
-        "link": "https://247wallst.com/investing/2026/05/06/iau-returned-42-in-a-year-of-sticky-inflation-heres-why-allocators-are-reconsidering-gold/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-06T09:30:23Z",
         "source": "yfinance"
       }
     ],
@@ -172,84 +172,84 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "The Best-Performing AI ETF of the Year Isn't a Pure Chip Play",
+        "link": "http://www.etf.com/sections/features/best-performing-ai-etf-year-isnt-pure-chip-play?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-04T22:56:25Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "The Memory Chip ETF That Quietly Returned 134% in 2026 While Investors Chased Nvidia",
+        "link": "https://247wallst.com/investing/2026/06/04/the-memory-chip-etf-that-quietly-returned-134-in-2026-while-investors-chased-nvidia/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-04T14:56:48Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "The Dow Is Up 500 Points. Why the Nasdaq Is Sinking.",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060426/card/the-dow-is-up-500-points-why-the-nasdaq-is-sinking--3iYuolCfnjuAQVzQnhSo?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-04T13:34:03Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday as Investors Weigh Economic Data",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-124940562.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-04T12:49:40Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "Cadence Design Is Cementing Its Place in the 2nm AI Chip Race By Solving the Die Size Limit in Partnership With a Major Chipmaker",
         "link": "https://www.barchart.com/story/news/2283174/cadence-design-is-cementing-its-place-in-the-2nm-ai-chip-race-by-solving-the-die-size-limit-in-partnership-with-a-major-chipmaker",
         "publisher": "Barchart",
         "published": "2026-06-03T13:55:02Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Amid Fresh Economic Signals",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131043541.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-03T13:10:43Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Texas Instruments Is Smashing NVIDIA in 2026: Rotational Fluke, or Paradigm Shift?",
-        "link": "https://247wallst.com/investing/2026/06/02/texas-instruments-is-smashing-nvidia-in-2026-rotational-fluke-or-paradigm-shift/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-02T19:03:01Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "NVDA Stock Alert: What to Know as Nvidia Debuts New Chips for PCs",
-        "link": "https://www.barchart.com/story/news/2265086/nvda-stock-alert-what-to-know-as-nvidia-debuts-new-chips-for-pcs",
-        "publisher": "Barchart",
-        "published": "2026-06-02T17:55:51Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Major Indexes Head for 5th Straight Record Closes",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060226/card/major-indexes-head-for-5th-straight-record-closes-piMY4TEfuig1mYgUH6x9?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-02T15:41:05Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "The Stock Market Is Still Trading Near Record Highs. Here's the Biggest Risk Investors Are Overlooking.",
-        "link": "https://www.fool.com/investing/2026/06/03/the-stock-market-is-still-trading-near-record-high/",
+        "title": "Is the Schwab U.S. Dividend Equity ETF the Right Buy Right Now?",
+        "link": "https://www.fool.com/investing/2026/06/04/is-schwab-us-dividend-equity-etf-schd-buy-now/",
         "publisher": "Motley Fool",
-        "published": "2026-06-03T23:11:00Z",
+        "published": "2026-06-04T22:07:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Vanguard index product becomes first ETF to top $1 trillion in assets",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/vanguard-index-product-becomes-first-214421721.html",
-        "publisher": "Reuters",
-        "published": "2026-06-03T21:44:21Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Vanguard’s S&P 500 ETF Just Hit $1 Trillion in Assets",
-        "link": "https://www.barrons.com/articles/vanguard-s-p-500-etf-voo-1-trillion-assets-806bbf1d?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-03T18:57:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "This Vanguard ETF Has a History of Outperforming the S&P 500 During Bear Markets. Is It a Buy Right Now?",
-        "link": "https://www.fool.com/investing/2026/06/03/this-vanguard-etf-has-a-history-of-outperforming-t/",
+        "title": "Could Buying VOO Today Set You Up for Life?",
+        "link": "https://www.fool.com/investing/2026/06/04/could-buying-voo-today-set-you-up-for-life/",
         "publisher": "Motley Fool",
-        "published": "2026-06-03T18:25:00Z",
+        "published": "2026-06-04T17:22:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "The Best S&P 500 ETF to Invest $500 in Right Now",
-        "link": "https://www.fool.com/investing/2026/06/03/best-sp-500-etf-to-invest-500-right-now-rsp/",
+        "title": "The Vanguard S&P 500 Index ETF Just Became the Second ETF to Surpass $1 Trillion in Assets",
+        "link": "https://www.fool.com/investing/2026/06/04/the-vanguard-sp-500-etf-just-became-the-first-etf-to-surpass-1-trillion-in-assets/",
         "publisher": "Motley Fool",
-        "published": "2026-06-03T18:05:00Z",
+        "published": "2026-06-04T13:13:36Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Vanguard VOO ETF hits $1 trillion in assets, an industry first",
+        "link": "https://qz.com/vanguard-voo-sp500-etf-1-trillion-assets-060326",
+        "publisher": "Quartz",
+        "published": "2026-06-04T12:18:57Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "VOO Becomes First ETF to Reach $1 Trillion: Here's Why",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/voo-becomes-first-etf-reach-113300777.html",
+        "publisher": "Zacks",
+        "published": "2026-06-04T11:33:00Z",
         "source": "yfinance"
       }
     ]
