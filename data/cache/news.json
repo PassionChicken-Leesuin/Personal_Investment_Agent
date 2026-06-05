@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-04T23:09:52.257602+00:00",
+  "captured_at_utc": "2026-06-05T23:11:24.333128+00:00",
   "items": {
     "AIQ": [
       {
@@ -130,6 +130,14 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "An Overlooked Quantum ETF Just Did What the Broad Market Took Years to Accomplish",
+        "link": "https://247wallst.com/investing/2026/06/05/an-overlooked-quantum-etf-just-did-what-the-broad-market-took-years-to-accomplish/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-05T12:45:08Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "DoC's $2B Quantum Initiative Puts These 2 Stocks in the Spotlight",
         "link": "https://finance.yahoo.com/markets/stocks/articles/docs-2b-quantum-initiative-puts-190000540.html",
         "publisher": "Zacks",
@@ -159,17 +167,41 @@
         "publisher": "MarketBeat",
         "published": "2026-05-28T16:45:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Quantum Computing: The Next AI Boom?",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/quantum-computing-next-ai-boom-193200379.html",
-        "publisher": "Zacks",
-        "published": "2026-05-27T19:32:00Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
+      {
+        "ticker": "SOXX",
+        "title": "2 Non-AI Tech Stocks to Buy Now for 40%+ Upside as the Nasdaq Tanks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/2-non-ai-tech-stocks-214100539.html",
+        "publisher": "Zacks",
+        "published": "2026-06-05T21:41:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "It's Shaping Up to Be a Tough Day for the Nasdaq",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060526/card/it-s-shaping-up-to-be-a-tough-day-for-the-nasdaq-uXCzTHLvE7rAfTLZ9kEk?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-05T14:35:04Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Friday After May Jobs Report",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-130325951.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-05T13:03:25Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Chip ETFs to Buy as Broadcom Sinks Over 10% Despite Q2 Earnings Beat",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/chip-etfs-buy-broadcom-sinks-123900477.html",
+        "publisher": "Zacks",
+        "published": "2026-06-05T12:39:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "SOXX",
         "title": "The Best-Performing AI ETF of the Year Isn't a Pure Chip Play",
@@ -177,79 +209,47 @@
         "publisher": "etf.com",
         "published": "2026-06-04T22:56:25Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "The Memory Chip ETF That Quietly Returned 134% in 2026 While Investors Chased Nvidia",
-        "link": "https://247wallst.com/investing/2026/06/04/the-memory-chip-etf-that-quietly-returned-134-in-2026-while-investors-chased-nvidia/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-04T14:56:48Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "The Dow Is Up 500 Points. Why the Nasdaq Is Sinking.",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060426/card/the-dow-is-up-500-points-why-the-nasdaq-is-sinking--3iYuolCfnjuAQVzQnhSo?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-04T13:34:03Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Thursday as Investors Weigh Economic Data",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-124940562.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-04T12:49:40Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Cadence Design Is Cementing Its Place in the 2nm AI Chip Race By Solving the Die Size Limit in Partnership With a Major Chipmaker",
-        "link": "https://www.barchart.com/story/news/2283174/cadence-design-is-cementing-its-place-in-the-2nm-ai-chip-race-by-solving-the-die-size-limit-in-partnership-with-a-major-chipmaker",
-        "publisher": "Barchart",
-        "published": "2026-06-03T13:55:02Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "Is the Schwab U.S. Dividend Equity ETF the Right Buy Right Now?",
-        "link": "https://www.fool.com/investing/2026/06/04/is-schwab-us-dividend-equity-etf-schd-buy-now/",
+        "title": "Is the Vanguard S&P 500 ETF Still Worth Buying Right Now?",
+        "link": "https://www.fool.com/investing/2026/06/05/is-vanguard-sp-500-etf-voo-still-worth-buying/",
         "publisher": "Motley Fool",
-        "published": "2026-06-04T22:07:00Z",
+        "published": "2026-06-05T20:05:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Could Buying VOO Today Set You Up for Life?",
-        "link": "https://www.fool.com/investing/2026/06/04/could-buying-voo-today-set-you-up-for-life/",
+        "title": "2 Growth ETFs to Buy and Hold for 20 Years",
+        "link": "https://www.fool.com/investing/2026/06/05/2-growth-etfs-to-buy-and-hold-for-20-years/",
         "publisher": "Motley Fool",
-        "published": "2026-06-04T17:22:00Z",
+        "published": "2026-06-05T18:58:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "The Vanguard S&P 500 Index ETF Just Became the Second ETF to Surpass $1 Trillion in Assets",
-        "link": "https://www.fool.com/investing/2026/06/04/the-vanguard-sp-500-etf-just-became-the-first-etf-to-surpass-1-trillion-in-assets/",
+        "title": "This Investment Has a 100% Success Record of Surviving Recessions. Is It Worth Buying in 2026?",
+        "link": "https://www.fool.com/investing/2026/06/05/this-investment-has-100-success-of-surviving/",
         "publisher": "Motley Fool",
-        "published": "2026-06-04T13:13:36Z",
+        "published": "2026-06-05T17:20:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Vanguard VOO ETF hits $1 trillion in assets, an industry first",
-        "link": "https://qz.com/vanguard-voo-sp500-etf-1-trillion-assets-060326",
-        "publisher": "Quartz",
-        "published": "2026-06-04T12:18:57Z",
+        "title": "Warren Buffett’s Investment Advice Is Putting Retirement Portfolios at Risk",
+        "link": "https://247wallst.com/investing/2026/06/05/warren-buffetts-investment-advice-is-putting-retirement-portfolios-at-risk/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-05T15:09:18Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "VOO Becomes First ETF to Reach $1 Trillion: Here's Why",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/voo-becomes-first-etf-reach-113300777.html",
-        "publisher": "Zacks",
-        "published": "2026-06-04T11:33:00Z",
+        "title": "Should You Buy the Vanguard S&P 500 ETF As the Market Hits New Highs?",
+        "link": "https://www.fool.com/investing/2026/06/05/should-you-buy-vanguard-sp-500-etf-as-the-market/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-05T13:20:00Z",
         "source": "yfinance"
       }
     ]
