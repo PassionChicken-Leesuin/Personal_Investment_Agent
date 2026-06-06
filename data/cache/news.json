@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-05T23:11:24.333128+00:00",
+  "captured_at_utc": "2026-06-06T23:05:50.440097+00:00",
   "items": {
     "AIQ": [
       {
@@ -46,6 +46,14 @@
     "IAU": [
       {
         "ticker": "IAU",
+        "title": "Forget GLD: GLDM Tracks the Exact Same Bullion at One Quarter the Annual Cost",
+        "link": "https://247wallst.com/investing/2026/06/06/forget-gld-gldm-tracks-the-exact-same-bullion-at-one-quarter-the-annual-cost/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-06T18:18:04Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IAU",
         "title": "The Fed’s Next Move Will Determine Whether GLD Can Extend Its 36% Rally",
         "link": "https://247wallst.com/investing/2026/06/04/the-feds-next-move-will-determine-whether-gld-can-extend-its-36-rally/",
         "publisher": "24/7 Wall St.",
@@ -74,14 +82,6 @@
         "link": "https://247wallst.com/investing/2026/05/07/ishares-gold-trust-vs-spdr-gold-trust-the-0-15-fee-gap-that-matters-more-than-you-think/",
         "publisher": "24/7 Wall St.",
         "published": "2026-05-07T21:46:58Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "State Street’s 2026 Outlook Exposes Why Most Investors Still Underweight Gold After Its 50% Rally",
-        "link": "https://247wallst.com/investing/2026/05/06/state-streets-2026-outlook-exposes-why-most-investors-still-underweight-gold-after-its-50-rally/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-06T21:22:23Z",
         "source": "yfinance"
       }
     ],
@@ -172,6 +172,14 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "ETF Zoo: What Happens When Tech Eats the Entire Market?",
+        "link": "http://www.etf.com/sections/podcasts/etf-zoo-what-happens-when-tech-eats-entire-market?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-06T04:24:34Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "2 Non-AI Tech Stocks to Buy Now for 40%+ Upside as the Nasdaq Tanks",
         "link": "https://finance.yahoo.com/markets/stocks/articles/2-non-ai-tech-stocks-214100539.html",
         "publisher": "Zacks",
@@ -201,17 +209,25 @@
         "publisher": "Zacks",
         "published": "2026-06-05T12:39:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "The Best-Performing AI ETF of the Year Isn't a Pure Chip Play",
-        "link": "http://www.etf.com/sections/features/best-performing-ai-etf-year-isnt-pure-chip-play?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-04T22:56:25Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "ETF Zoo: What Happens When Tech Eats the Entire Market?",
+        "link": "http://www.etf.com/sections/podcasts/etf-zoo-what-happens-when-tech-eats-entire-market?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-06T04:24:34Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Why Vanguard’s VOO Won the Trillion-Dollars-in-Assets Race",
+        "link": "https://www.barrons.com/articles/vanguard-voo-wins-the-trillion-dollars-in-assets-race-cb1b0657?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-05T22:55:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "Is the Vanguard S&P 500 ETF Still Worth Buying Right Now?",
@@ -234,22 +250,6 @@
         "link": "https://www.fool.com/investing/2026/06/05/this-investment-has-100-success-of-surviving/",
         "publisher": "Motley Fool",
         "published": "2026-06-05T17:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Warren Buffett’s Investment Advice Is Putting Retirement Portfolios at Risk",
-        "link": "https://247wallst.com/investing/2026/06/05/warren-buffetts-investment-advice-is-putting-retirement-portfolios-at-risk/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-05T15:09:18Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Should You Buy the Vanguard S&P 500 ETF As the Market Hits New Highs?",
-        "link": "https://www.fool.com/investing/2026/06/05/should-you-buy-vanguard-sp-500-etf-as-the-market/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-05T13:20:00Z",
         "source": "yfinance"
       }
     ]
