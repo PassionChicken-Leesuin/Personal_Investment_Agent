@@ -1,7 +1,15 @@
 {
-  "captured_at_utc": "2026-06-06T23:05:50.440097+00:00",
+  "captured_at_utc": "2026-06-07T23:05:44.658753+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",
+        "link": "https://247wallst.com/investing/2026/06/07/aiq-turned-10000-into-13400-in-six-months-as-ai-chips-soared-34-ytd/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-07T11:00:06Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "These 2 AI Software Stocks Are Through the Roof. Dan Ives Says There’s Still Time to Buy.",
@@ -32,14 +40,6 @@
         "link": "https://app.moby.co/home/news/news-openai-reportedly-set-to-file-for-ipo-as-early-as-friday?utm_source=yahoo_finance&utm_medium=rss",
         "publisher": "Moby",
         "published": "2026-05-20T18:13:32Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "Nvidia Earnings Wednesday: These ETFs Have the Most Riding on One Stock",
-        "link": "http://www.etf.com/sections/news/nvidia-earnings-wednesday-these-etfs-have-most-riding-one-stock?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-18T19:23:33Z",
         "source": "yfinance"
       }
     ],
@@ -172,6 +172,22 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "Wall Street's hottest trade is cracking in a trillion-dollar wipeout",
+        "link": "https://finance.yahoo.com/markets/article/wall-streets-hottest-trade-is-cracking-in-a-trillion-dollar-wipeout-184540683.html",
+        "publisher": "Yahoo Finance",
+        "published": "2026-06-05T18:45:40Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "USD Implodes 17% And June 8th Could Be Worse",
+        "link": "https://247wallst.com/investing/2026/06/07/usd-implodes-17-and-june-8th-could-be-worse/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-07T17:22:23Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "ETF Zoo: What Happens When Tech Eats the Entire Market?",
         "link": "http://www.etf.com/sections/podcasts/etf-zoo-what-happens-when-tech-eats-entire-market?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
@@ -193,63 +209,47 @@
         "publisher": "Barrons.com",
         "published": "2026-06-05T14:35:04Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds Lower, Equity Futures Mixed Pre-Bell Friday After May Jobs Report",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-lower-equity-130325951.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-05T13:03:25Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Chip ETFs to Buy as Broadcom Sinks Over 10% Despite Q2 Earnings Beat",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/chip-etfs-buy-broadcom-sinks-123900477.html",
-        "publisher": "Zacks",
-        "published": "2026-06-05T12:39:00Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "1 Costly Mistake Too Many Investors Make With the Vanguard S&P 500 ETF (VOO)",
+        "link": "https://www.fool.com/investing/2026/06/07/mistake-investors-make-vanguard-sp-500-etf-voo/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-07T19:05:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Is VEA the Smartest Investment You Can Make Right Now?",
+        "link": "https://www.fool.com/investing/2026/06/07/is-vea-the-smartest-investment-you-can-make-right/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-07T18:43:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "This Vanguard ETF Just Made Stock Market History. Here's Why It's Still a Fantastic Investment in 2026.",
+        "link": "https://www.fool.com/investing/2026/06/07/this-vanguard-etf-just-made-stock-market-history/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-07T12:50:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "How $350,000 in International Dividend Stocks Can Produce $19,000 a Year and Reduce U.S. Concentration Risk",
+        "link": "https://247wallst.com/personal-finance/2026/06/07/how-350000-in-dividend-paying-international-stocks-quietly-pays-19000-a-year-and-diversifies-away-from-u-s-concentration/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-07T12:20:47Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "ETF Zoo: What Happens When Tech Eats the Entire Market?",
         "link": "http://www.etf.com/sections/podcasts/etf-zoo-what-happens-when-tech-eats-entire-market?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
         "published": "2026-06-06T04:24:34Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Why Vanguard’s VOO Won the Trillion-Dollars-in-Assets Race",
-        "link": "https://www.barrons.com/articles/vanguard-voo-wins-the-trillion-dollars-in-assets-race-cb1b0657?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-05T22:55:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Is the Vanguard S&P 500 ETF Still Worth Buying Right Now?",
-        "link": "https://www.fool.com/investing/2026/06/05/is-vanguard-sp-500-etf-voo-still-worth-buying/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-05T20:05:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "2 Growth ETFs to Buy and Hold for 20 Years",
-        "link": "https://www.fool.com/investing/2026/06/05/2-growth-etfs-to-buy-and-hold-for-20-years/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-05T18:58:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "This Investment Has a 100% Success Record of Surviving Recessions. Is It Worth Buying in 2026?",
-        "link": "https://www.fool.com/investing/2026/06/05/this-investment-has-100-success-of-surviving/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-05T17:20:00Z",
         "source": "yfinance"
       }
     ]

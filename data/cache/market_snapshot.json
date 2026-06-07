@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-06T23:05:48.631194+00:00",
+  "captured_at_utc": "2026-06-07T23:05:44.032516+00:00",
   "indicators": {
     "S&P 500": {
       "ticker": "^GSPC",
@@ -33,21 +33,21 @@
     },
     "USD/KRW": {
       "ticker": "KRW=X",
-      "value": 1558.84,
+      "value": 1559.4301,
       "prev": 1533.0699,
-      "change_pct": 1.681
+      "change_pct": 1.719
     },
     "Gold": {
       "ticker": "GC=F",
-      "value": 4337.1001,
-      "prev": 4475.7998,
-      "change_pct": -3.099
+      "value": 4345.3999,
+      "prev": 4337.1001,
+      "change_pct": 0.191
     },
     "WTI Oil": {
       "ticker": "CL=F",
-      "value": 90.54,
-      "prev": 93.04,
-      "change_pct": -2.687
+      "value": 92.77,
+      "prev": 90.54,
+      "change_pct": 2.463
     }
   }
 }
