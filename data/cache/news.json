@@ -1,7 +1,31 @@
 {
-  "captured_at_utc": "2026-06-08T23:12:48.407737+00:00",
+  "captured_at_utc": "2026-06-09T23:17:49.204702+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "SpaceX IPO Set to Mint Millionaires in One of America’s Poorest Cities",
+        "link": "https://app.moby.co/home/news/news-spacex-ipo-brings-windfall-wealth-to-one-of-americas-poorest-cities?utm_source=yahoo_finance&utm_medium=rss",
+        "publisher": "Moby",
+        "published": "2026-06-09T18:31:25Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "AIQ",
+        "title": "Perplexity Files to Go Public",
+        "link": "https://app.moby.co/home/news/news-perplexity-files-to-go-public?utm_source=yahoo_finance&utm_medium=rss",
+        "publisher": "Moby",
+        "published": "2026-06-09T16:36:07Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "AIQ",
+        "title": "The Zacks Analyst Blog Highlights SMH, QQQ, SPY, AIQ, EWY, SPY, NVIDIA and Microsoft",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-smh-112300934.html",
+        "publisher": "Zacks",
+        "published": "2026-06-09T11:23:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "OpenAI Just Filed for an IPO Because Everybody Else Already Did",
@@ -12,34 +36,10 @@
       },
       {
         "ticker": "AIQ",
-        "title": "A Few Reasons to Buy the Dip in AI & Chip ETFs",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/few-reasons-buy-dip-ai-110000266.html",
-        "publisher": "Zacks",
-        "published": "2026-06-08T11:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "AIQ Turned $10,000 Into $13,400 in Six Months as AI Chips Soared 34% YTD",
-        "link": "https://247wallst.com/investing/2026/06/07/aiq-turned-10000-into-13400-in-six-months-as-ai-chips-soared-34-ytd/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-07T11:00:06Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "These 2 AI Software Stocks Are Through the Roof. Dan Ives Says There’s Still Time to Buy.",
-        "link": "https://www.barchart.com/story/news/2278394/these-2-ai-software-stocks-are-through-the-roof-dan-ives-says-theres-still-time-to-buy",
-        "publisher": "Barchart",
-        "published": "2026-06-03T11:30:02Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "ETFs in Focus as Anthropic Eyes a Blockbuster IPO",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/etfs-focus-anthropic-eyes-blockbuster-170000094.html",
-        "publisher": "Zacks",
-        "published": "2026-06-02T17:00:00Z",
+        "title": "Market Minute 6-8-26- Tech Stocks Steady After Friday Rout",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-8-26-141500366.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-08T14:15:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,84 +172,84 @@
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "Why EWT Investors Should Watch for a Dollar Reversal Before Q3",
-        "link": "https://247wallst.com/investing/2026/06/08/why-ewt-investors-should-watch-for-a-dollar-reversal-before-q3/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-08T20:00:59Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Marvell Stock Is Surging. It’s About More Than the Chip Rebound.",
-        "link": "https://www.barrons.com/articles/marvell-stock-sp-500-join-chip-rebound-504d3fdb?siteid=yhoof2&yptr=yahoo",
+        "title": "AI Is Coming to Washington. Why That’s a Good Thing.",
+        "link": "https://www.barrons.com/articles/ai-stocks-openai-politics-regulation-6ae3f212?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "published": "2026-06-08T17:59:00Z",
+        "published": "2026-06-09T20:03:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as Chip Stocks Rebound",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132017008.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-08T13:20:17Z",
+        "title": "Nasdaq Slides as Chip Stocks Reverse Course",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060926/card/nasdaq-s-p-500-turn-lower-as-chip-stocks-reverse-course-YU1PogwnnNIMlpQtberM?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-09T16:46:29Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "100 Days Into the Iran War: Winning & Losing ETF Areas",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/100-days-iran-war-winning-110000886.html",
-        "publisher": "Zacks",
-        "published": "2026-06-08T11:00:00Z",
+        "title": "Why Are Chip Stocks Selling Off Again Today",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060926/card/why-are-chip-stocks-selling-off-again-today-HKQcrJxMxVv8eQWdhbdL?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-09T16:39:55Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Is iShares Semiconductor ETF (SOXX) a Strong ETF Right Now?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ishares-semiconductor-etf-soxx-strong-102002746.html",
-        "publisher": "Zacks",
-        "published": "2026-06-08T10:20:02Z",
+        "title": "AMD Sinks 9%, Intel Slides 8% as Chip Stocks Pull the NASDAQ 100 Down",
+        "link": "https://247wallst.com/investing/2026/06/09/amd-sinks-9-intel-slides-8-as-chip-stocks-pull-the-nasdaq-100-down/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-09T16:28:24Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Meet the Parabolic 7. The Group Leaving the Mag 7 in the Dust",
+        "link": "https://247wallst.com/investing/2026/06/09/meet-the-parabolic-7-the-group-leaving-the-mag-7-in-the-dust/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-09T13:51:17Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "What history tells us about Marvell's upcoming S&P 500 inclusion",
-        "link": "https://finance.yahoo.com/video/what-history-tells-us-about-marvells-upcoming-sp-500-inclusion-195049400.html",
-        "publisher": "Yahoo Finance Video",
-        "published": "2026-06-08T19:50:49Z",
+        "title": "The Vanguard S&P 500 ETF Is Unstoppable -- But There's 1 ETF I Like Even More",
+        "link": "https://www.fool.com/investing/2026/06/09/the-vanguard-sp-500-etf-is-unstoppable-but-theres/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-09T16:05:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Best ETFs for Beginners in 2026: 7 Funds to Start Your Portfolio",
-        "link": "http://www.etf.com/sections/etf-basics/best-etfs-beginners-2026-7-funds-start-your-portfolio?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-08T22:31:44Z",
+        "title": "Guide to the S&P 500 ETF Investing",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/guide-p-500-etf-investing-160000203.html",
+        "publisher": "Zacks",
+        "published": "2026-06-09T16:00:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Quality Paid Again: SPHQ Beat the Index With Half the Drama",
-        "link": "https://247wallst.com/investing/2026/06/08/quality-paid-again-sphq-beat-the-index-with-half-the-drama/",
+        "title": "5 'Insane' Growth Stocks Already Tripled Or More This Year",
+        "link": "https://www.investors.com/etfs-and-funds/sectors/sp-500-insane-growth-stocks-already-tripled-or-more-this-year/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "published": "2026-06-09T11:26:57Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Why Marvell Stock Popped Today",
+        "link": "https://www.fool.com/investing/2026/06/08/why-marvell-stock-popped-today/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-09T03:05:27Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "These 3 S&P 500 ETFs Are Nearly Identical But After Doing the Math One of Them Saves You Money Over a Lifetime",
+        "link": "https://247wallst.com/investing/2026/06/08/these-3-sp-500-etfs-are-nearly-identical-but-after-doing-the-math-one-of-them-saves-you-money-over-a-lifetime/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-08T16:47:19Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO vs. SPY: Which ETF Is the Best Way to Buy the S&P 500?",
-        "link": "https://www.fool.com/investing/2026/06/08/voo-vs-spy-which-etf-is-the-best-way-to-buy-the-sp/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-08T04:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Investors: This Might Be the Easiest Way to Buy SpaceX, OpenAI, and Anthropic After Their IPOs",
-        "link": "https://www.fool.com/investing/2026/06/07/investors-this-might-be-the-easiest-way-to-buy-spa/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-08T03:42:00Z",
+        "published": "2026-06-09T01:51:13Z",
         "source": "yfinance"
       }
     ]
