@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-09T23:17:49.204702+00:00",
+  "captured_at_utc": "2026-06-10T23:26:32.582180+00:00",
   "items": {
     "AIQ": [
       {
@@ -46,6 +46,14 @@
     "IAU": [
       {
         "ticker": "IAU",
+        "title": "GLD vs. IAU: Which Gold ETF Costs You Less Over Time?",
+        "link": "https://247wallst.com/investing/2026/06/10/gld-vs-iau-which-gold-etf-costs-you-less-over-time/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-10T19:05:27Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IAU",
         "title": "Forget GLD: GLDM Tracks the Exact Same Bullion at One Quarter the Annual Cost",
         "link": "https://247wallst.com/investing/2026/06/06/forget-gld-gldm-tracks-the-exact-same-bullion-at-one-quarter-the-annual-cost/",
         "publisher": "24/7 Wall St.",
@@ -75,17 +83,17 @@
         "publisher": "24/7 Wall St.",
         "published": "2026-05-15T12:50:31Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "iShares Gold Trust vs SPDR Gold Trust: The 0.15% Fee Gap That Matters More Than You Think",
-        "link": "https://247wallst.com/investing/2026/05/07/ishares-gold-trust-vs-spdr-gold-trust-the-0-15-fee-gap-that-matters-more-than-you-think/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-07T21:46:58Z",
-        "source": "yfinance"
       }
     ],
     "IEF": [
+      {
+        "ticker": "IEF",
+        "title": "Market Minute 6-09-26- OpenAI Joins Heated IPO Race",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-09-26-141500489.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-09T14:15:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "IEF",
         "title": "If You Hold This Bond ETF, You’re Making an Expensive Mistake",
@@ -116,14 +124,6 @@
         "link": "https://247wallst.com/investing/2026/05/26/tlt-holders-down-50-a-brutal-reminder-your-long-treasuries-can-halve-without-a-single-default/",
         "publisher": "24/7 Wall St.",
         "published": "2026-05-26T12:30:09Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "30-Year Treasury Yield Hits 19-Year High, Hammering Bond ETFs",
-        "link": "http://www.etf.com/sections/features/30-year-treasury-yield-hits-19-year-high-hammering-bond-etfs?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-05-18T22:49:49Z",
         "source": "yfinance"
       }
     ],
@@ -172,6 +172,30 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "SMH vs. SOXX: Which Semiconductor ETF Is the Smarter Chip Bet?",
+        "link": "https://247wallst.com/investing/2026/06/10/smh-vs-soxx-which-semiconductor-etf-is-the-smarter-chip-bet/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-10T19:31:52Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Qualcomm Drops 6%, Arm Holdings Falls 5% as Mobile-Chip Stocks Slide in the Selloff",
+        "link": "https://247wallst.com/investing/2026/06/10/qualcomm-drops-6-arm-holdings-falls-5-as-mobile-chip-stocks-slide-in-the-selloff/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-10T18:27:04Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Renewed US-Iran Clashes",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130538949.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-10T13:05:38Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "AI Is Coming to Washington. Why That’s a Good Thing.",
         "link": "https://www.barrons.com/articles/ai-stocks-openai-politics-regulation-6ae3f212?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
@@ -185,71 +209,47 @@
         "publisher": "Barrons.com",
         "published": "2026-06-09T16:46:29Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Why Are Chip Stocks Selling Off Again Today",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060926/card/why-are-chip-stocks-selling-off-again-today-HKQcrJxMxVv8eQWdhbdL?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-09T16:39:55Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "AMD Sinks 9%, Intel Slides 8% as Chip Stocks Pull the NASDAQ 100 Down",
-        "link": "https://247wallst.com/investing/2026/06/09/amd-sinks-9-intel-slides-8-as-chip-stocks-pull-the-nasdaq-100-down/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-09T16:28:24Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Meet the Parabolic 7. The Group Leaving the Mag 7 in the Dust",
-        "link": "https://247wallst.com/investing/2026/06/09/meet-the-parabolic-7-the-group-leaving-the-mag-7-in-the-dust/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-09T13:51:17Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "The Vanguard S&P 500 ETF Is Unstoppable -- But There's 1 ETF I Like Even More",
-        "link": "https://www.fool.com/investing/2026/06/09/the-vanguard-sp-500-etf-is-unstoppable-but-theres/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-09T16:05:00Z",
+        "title": "Got Cap Gains? How Portfolios Can Move Into ETFs Tax-Free",
+        "link": "http://www.etf.com/sections/etf-basics/got-cap-gains-how-portfolios-can-move-etfs-tax-free?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-10T21:22:07Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Guide to the S&P 500 ETF Investing",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/guide-p-500-etf-investing-160000203.html",
+        "title": "When will SpaceX Show Up in Your Portfolio?",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-show-portfolio-211800806.html",
         "publisher": "Zacks",
-        "published": "2026-06-09T16:00:00Z",
+        "published": "2026-06-10T21:18:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "5 'Insane' Growth Stocks Already Tripled Or More This Year",
-        "link": "https://www.investors.com/etfs-and-funds/sectors/sp-500-insane-growth-stocks-already-tripled-or-more-this-year/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "published": "2026-06-09T11:26:57Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Why Marvell Stock Popped Today",
-        "link": "https://www.fool.com/investing/2026/06/08/why-marvell-stock-popped-today/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-09T03:05:27Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "These 3 S&P 500 ETFs Are Nearly Identical But After Doing the Math One of Them Saves You Money Over a Lifetime",
-        "link": "https://247wallst.com/investing/2026/06/08/these-3-sp-500-etfs-are-nearly-identical-but-after-doing-the-math-one-of-them-saves-you-money-over-a-lifetime/",
+        "title": "VOO vs. VTI: Should You Own the S&P 500 or the Entire Market?",
+        "link": "https://247wallst.com/investing/2026/06/10/voo-vs-vti-should-you-own-the-sp-500-or-the-entire-market/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-09T01:51:13Z",
+        "published": "2026-06-10T18:52:24Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Vanguard and iShares S&P 500 ETFs Compared: Is There Really a Difference?",
+        "link": "https://www.fool.com/coverage/etfs/2026/06/10/vanguard-and-ishares-s-and-p-500-etfs-compared-is-there-really-a-difference/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-10T15:55:57Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Forget VOO: Fidelity’s Tech ETF Is Up 29% While the Broad Market Lags",
+        "link": "https://247wallst.com/investing/2026/06/10/forget-voo-fidelitys-tech-etf-is-up-29-while-the-broad-market-lags/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-10T11:15:25Z",
         "source": "yfinance"
       }
     ]
