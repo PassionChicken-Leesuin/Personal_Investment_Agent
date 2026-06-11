@@ -1,7 +1,23 @@
 {
-  "captured_at_utc": "2026-06-10T23:26:32.582180+00:00",
+  "captured_at_utc": "2026-06-11T23:23:38.059396+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "An ETF Retirement Portfolio for Moderate-Risk Investors",
+        "link": "https://finance.yahoo.com/markets/options/articles/etf-retirement-portfolio-moderate-risk-160100552.html",
+        "publisher": "Zacks",
+        "published": "2026-06-11T16:01:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "AIQ",
+        "title": "The ‘Buy Everything AI’ Strategy: Is AIQ Your Ticket to the $2.5 Trillion Supercycle?",
+        "link": "https://247wallst.com/investing/2026/06/11/the-buy-everything-ai-strategy-is-aiq-your-ticket-to-the-2-5-trillion-supercycle/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-11T13:35:28Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "SpaceX IPO Set to Mint Millionaires in One of America’s Poorest Cities",
@@ -25,25 +41,17 @@
         "publisher": "Zacks",
         "published": "2026-06-09T11:23:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "OpenAI Just Filed for an IPO Because Everybody Else Already Did",
-        "link": "https://app.moby.co/home/news/news-openai-just-filed-for-an-ipo-because-everybody-else-already-did?utm_source=yahoo_finance&utm_medium=rss",
-        "publisher": "Moby",
-        "published": "2026-06-08T21:44:53Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "Market Minute 6-8-26- Tech Stocks Steady After Friday Rout",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-8-26-141500366.html",
-        "publisher": "MoneyShow",
-        "published": "2026-06-08T14:15:00Z",
-        "source": "yfinance"
       }
     ],
     "IAU": [
+      {
+        "ticker": "IAU",
+        "title": "An ETF Retirement Portfolio for Moderate-Risk Investors",
+        "link": "https://finance.yahoo.com/markets/options/articles/etf-retirement-portfolio-moderate-risk-160100552.html",
+        "publisher": "Zacks",
+        "published": "2026-06-11T16:01:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "IAU",
         "title": "GLD vs. IAU: Which Gold ETF Costs You Less Over Time?",
@@ -74,14 +82,6 @@
         "link": "https://finance.yahoo.com/markets/commodities/articles/gold-etfs-shine-again-ceasefire-154300838.html",
         "publisher": "Zacks",
         "published": "2026-05-25T15:43:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "Central Banks Are Snapping Up Gold, ETF Investors Are Just Waking Up: The Best Gold ETFs to Own Before It Hits $5,000",
-        "link": "https://247wallst.com/investing/2026/05/15/central-banks-are-snapping-up-gold-etf-investors-are-just-waking-up-the-best-gold-etfs-to-own-before-it-hits-5000/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-15T12:50:31Z",
         "source": "yfinance"
       }
     ],
@@ -130,6 +130,22 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "Quantum Computing Looks Like Nvidia in 2019. This Could Be the Generational Buy of the Decade.",
+        "link": "https://www.barchart.com/story/news/2409141/quantum-computing-looks-like-nvidia-in-2019-this-could-be-the-generational-buy-of-the-decade",
+        "publisher": "Barchart",
+        "published": "2026-06-10T20:58:58Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
+        "title": "Quantum Computing- Two ETFs that Target this Fast-Growing Group",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-two-etfs-target-050100760.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-10T05:01:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "Quantum Computing’s $6 Billion ETF Is Up 54% This Year, And It Is Still Earlier Than the AI Trade Was in 2022",
         "link": "https://247wallst.com/investing/2026/06/08/quantum-computings-6-billion-etf-is-up-54-this-year-and-it-is-still-earlier-than-the-ai-trade-was-in-2022/",
         "publisher": "24/7 Wall St.",
@@ -151,25 +167,33 @@
         "publisher": "Zacks",
         "published": "2026-06-01T19:00:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Quantum Computing Just Hit Commercial Viability and These 3 ETFs Sit on Top of the Compute Transition",
-        "link": "https://247wallst.com/investing/2026/05/31/quantum-computing-just-hit-commercial-viability-and-these-3-etfs-sit-on-top-of-the-compute-transition/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-31T15:15:35Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Rational exuberance: Inside Washington’s $2 billion quantum gamble",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/rational-exuberance-inside-washington-2-191101901.html",
-        "publisher": "Investing.com",
-        "published": "2026-05-28T19:11:01Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid US Attacks on Iran",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-123630683.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-11T12:36:30Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Review & Preview: The AI Rally Keeps Unwinding",
+        "link": "https://www.barrons.com/articles/stocks-today-ai-chip-rally-continues-unwind-47f1f2be?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-10T23:55:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "The World Is Changing. Tech’s Top Spot Isn’t.",
+        "link": "https://www.barrons.com/articles/tech-stocks-earnings-economic-growth-c8ef11ff?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-10T23:17:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "SOXX",
         "title": "SMH vs. SOXX: Which Semiconductor ETF Is the Smarter Chip Bet?",
@@ -185,71 +209,47 @@
         "publisher": "24/7 Wall St.",
         "published": "2026-06-10T18:27:04Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Amid Renewed US-Iran Clashes",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130538949.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-10T13:05:38Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "AI Is Coming to Washington. Why That’s a Good Thing.",
-        "link": "https://www.barrons.com/articles/ai-stocks-openai-politics-regulation-6ae3f212?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-09T20:03:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Nasdaq Slides as Chip Stocks Reverse Course",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-060926/card/nasdaq-s-p-500-turn-lower-as-chip-stocks-reverse-course-YU1PogwnnNIMlpQtberM?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-09T16:46:29Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "Wall Street Is Ignoring This Part of the Market. That's Why I'm Interested.",
+        "link": "https://www.fool.com/investing/2026/06/11/wall-street-ignoring-this-part-of-market-small-cap/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-11T12:40:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The First Trillion-Dollar ETF Becomes The 'Elon Musk' Of Funds",
+        "link": "https://www.investors.com/etfs-and-funds/etfs/sp500-trillion-dollar-etf-becomes-the-elon-musk-of-funds/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "published": "2026-06-11T12:00:24Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Odds Of A Rate Hike Are Soaring — What To Do Now",
+        "link": "https://www.investors.com/etfs-and-funds/personal-finance/interest-rates-hike-are-soaring-what-to-do-now/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "published": "2026-06-11T11:00:46Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Dividend ETF I'd Buy Today Instead of VYM",
+        "link": "https://www.fool.com/investing/2026/06/10/dividend-etf-to-buy-today-instead-of-vym-schd/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-11T01:50:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "Got Cap Gains? How Portfolios Can Move Into ETFs Tax-Free",
         "link": "http://www.etf.com/sections/etf-basics/got-cap-gains-how-portfolios-can-move-etfs-tax-free?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
         "published": "2026-06-10T21:22:07Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "When will SpaceX Show Up in Your Portfolio?",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-show-portfolio-211800806.html",
-        "publisher": "Zacks",
-        "published": "2026-06-10T21:18:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO vs. VTI: Should You Own the S&P 500 or the Entire Market?",
-        "link": "https://247wallst.com/investing/2026/06/10/voo-vs-vti-should-you-own-the-sp-500-or-the-entire-market/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-10T18:52:24Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Vanguard and iShares S&P 500 ETFs Compared: Is There Really a Difference?",
-        "link": "https://www.fool.com/coverage/etfs/2026/06/10/vanguard-and-ishares-s-and-p-500-etfs-compared-is-there-really-a-difference/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-10T15:55:57Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Forget VOO: Fidelity’s Tech ETF Is Up 29% While the Broad Market Lags",
-        "link": "https://247wallst.com/investing/2026/06/10/forget-voo-fidelitys-tech-etf-is-up-29-while-the-broad-market-lags/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-10T11:15:25Z",
         "source": "yfinance"
       }
     ]
