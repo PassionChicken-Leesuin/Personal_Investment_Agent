@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-11T23:23:38.059396+00:00",
+  "captured_at_utc": "2026-06-12T23:18:25.590305+00:00",
   "items": {
     "AIQ": [
       {
@@ -88,6 +88,22 @@
     "IEF": [
       {
         "ticker": "IEF",
+        "title": "MoneyMasters Podcast 6-11-26- Palantir, Marvell,  the Three \"Hockey Sticks\" of AI Growth",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/moneymasters-podcast-6-11-26-163000493.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-11T16:30:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IEF",
+        "title": "Inflation- CPI Data in Line, But Fed Hike Pressure Building",
+        "link": "https://finance.yahoo.com/economy/policy/articles/inflation-cpi-data-line-fed-050100625.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-11T05:01:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IEF",
         "title": "Market Minute 6-09-26- OpenAI Joins Heated IPO Race",
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-09-26-141500489.html",
         "publisher": "MoneyShow",
@@ -108,22 +124,6 @@
         "link": "https://247wallst.com/investing/2026/06/01/why-iefs-next-12-months-hinge-on-one-inflation-number/",
         "publisher": "24/7 Wall St.",
         "published": "2026-06-01T11:18:43Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "The Spill: A 5% Long Bond Yield Has Traders Circling TLT",
-        "link": "https://finance.yahoo.com/markets/options/articles/spill-5-long-bond-yield-203810157.html",
-        "publisher": "IPO-Edge.com",
-        "published": "2026-05-29T20:38:10Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "TLT Holders Down -50%!  A Brutal Reminder Your Long Treasuries Can Halve Without a Single Default",
-        "link": "https://247wallst.com/investing/2026/05/26/tlt-holders-down-50-a-brutal-reminder-your-long-treasuries-can-halve-without-a-single-default/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-05-26T12:30:09Z",
         "source": "yfinance"
       }
     ],
@@ -172,84 +172,84 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "SpaceX Launches. The Future Remains Murky.",
+        "link": "https://www.barrons.com/articles/spacex-ipo-tech-stocks-rally-bull-market-openai-anthropic-6957b849?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-12T21:03:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Semiconductor ETFs 101: DRAM, EUV, SMH, SOXX, SOXL — The Complete Guide for 2026",
+        "link": "http://www.etf.com/sections/equity/semiconductor-etfs-101-dram-euv-smh-soxx-soxl-complete-guide-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-12T18:38:49Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Forget ASML: As Post-June 5 Volatility Shakes High-Beta Tech, This Dividend-Paying Chip Index Is a No-Brainer Buy",
+        "link": "https://247wallst.com/investing/2026/06/12/forget-asml-as-post-june-5-volatility-shakes-high-beta-tech-this-dividend-paying-chip-index-is-a-no-brainer-buy/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-12T17:19:36Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday Ahead of SpaceX Debut",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131503816.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-12T13:15:03Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid US Attacks on Iran",
         "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-123630683.html",
         "publisher": "MT Newswires",
         "published": "2026-06-11T12:36:30Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Review & Preview: The AI Rally Keeps Unwinding",
-        "link": "https://www.barrons.com/articles/stocks-today-ai-chip-rally-continues-unwind-47f1f2be?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-10T23:55:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "The World Is Changing. Tech’s Top Spot Isn’t.",
-        "link": "https://www.barrons.com/articles/tech-stocks-earnings-economic-growth-c8ef11ff?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-10T23:17:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "SMH vs. SOXX: Which Semiconductor ETF Is the Smarter Chip Bet?",
-        "link": "https://247wallst.com/investing/2026/06/10/smh-vs-soxx-which-semiconductor-etf-is-the-smarter-chip-bet/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-10T19:31:52Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Qualcomm Drops 6%, Arm Holdings Falls 5% as Mobile-Chip Stocks Slide in the Selloff",
-        "link": "https://247wallst.com/investing/2026/06/10/qualcomm-drops-6-arm-holdings-falls-5-as-mobile-chip-stocks-slide-in-the-selloff/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-10T18:27:04Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "Wall Street Is Ignoring This Part of the Market. That's Why I'm Interested.",
-        "link": "https://www.fool.com/investing/2026/06/11/wall-street-ignoring-this-part-of-market-small-cap/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-11T12:40:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The First Trillion-Dollar ETF Becomes The 'Elon Musk' Of Funds",
-        "link": "https://www.investors.com/etfs-and-funds/etfs/sp500-trillion-dollar-etf-becomes-the-elon-musk-of-funds/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "published": "2026-06-11T12:00:24Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Odds Of A Rate Hike Are Soaring — What To Do Now",
-        "link": "https://www.investors.com/etfs-and-funds/personal-finance/interest-rates-hike-are-soaring-what-to-do-now/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "published": "2026-06-11T11:00:46Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Dividend ETF I'd Buy Today Instead of VYM",
-        "link": "https://www.fool.com/investing/2026/06/10/dividend-etf-to-buy-today-instead-of-vym-schd/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-11T01:50:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Got Cap Gains? How Portfolios Can Move Into ETFs Tax-Free",
-        "link": "http://www.etf.com/sections/etf-basics/got-cap-gains-how-portfolios-can-move-etfs-tax-free?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "title": "ETF League Tables: Vanguard Gains, BlackRock Sheds Assets",
+        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-gains-blackrock-sheds-assets?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
-        "published": "2026-06-10T21:22:07Z",
+        "published": "2026-06-12T21:00:04Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "VOO vs. SPY: Which S&P 500 ETF is The Better Bet?",
+        "link": "https://www.fool.com/coverage/etfs/2026/06/12/voo-vs-spy-which-s-and-p-500-etf-is-the-better-bet/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-12T18:48:03Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Leaving Las Vegas: How to Beat the House as the Stock Market Turns Into a Casino",
+        "link": "https://www.barchart.com/story/news/2444431/leaving-las-vegas-how-to-beat-the-house-as-the-stock-market-turns-into-a-casino",
+        "publisher": "Barchart",
+        "published": "2026-06-12T16:58:17Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The S&P 500 ETF Nobody Talks About That Could Beat VOO",
+        "link": "https://www.fool.com/investing/2026/06/12/sp-500-etf-nobody-talks-about-could-beat-voo-sphq/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-12T15:35:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Elon Musk Only Owns 46% Of SpaceX — Who Has The Rest?",
+        "link": "https://www.investors.com/etfs-and-funds/sectors/elon-musk-only-owns-46-of-spacex-who-has-the-rest/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "published": "2026-06-12T12:00:18Z",
         "source": "yfinance"
       }
     ]
