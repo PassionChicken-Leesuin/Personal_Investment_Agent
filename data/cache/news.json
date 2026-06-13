@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-12T23:18:25.590305+00:00",
+  "captured_at_utc": "2026-06-13T23:05:44.796603+00:00",
   "items": {
     "AIQ": [
       {
@@ -172,6 +172,14 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "The World Is Changing. Tech’s Top Spot Isn’t.",
+        "link": "https://www.barrons.com/articles/tech-stocks-earnings-economic-growth-c8ef11ff?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-12T23:31:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "SpaceX Launches. The Future Remains Murky.",
         "link": "https://www.barrons.com/articles/spacex-ipo-tech-stocks-rally-bull-market-openai-anthropic-6957b849?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
@@ -200,14 +208,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131503816.html",
         "publisher": "MT Newswires",
         "published": "2026-06-12T13:15:03Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday Amid US Attacks on Iran",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-123630683.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-11T12:36:30Z",
         "source": "yfinance"
       }
     ],
