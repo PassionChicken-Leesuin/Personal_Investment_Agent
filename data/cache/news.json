@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-13T23:05:44.796603+00:00",
+  "captured_at_utc": "2026-06-14T23:10:35.060531+00:00",
   "items": {
     "AIQ": [
       {
@@ -214,6 +214,22 @@
     "VOO": [
       {
         "ticker": "VOO",
+        "title": "Should You Buy VOO While the Market Is Near All-Time Highs?",
+        "link": "https://www.fool.com/investing/2026/06/14/should-buy-voo-etf-while-market-near-high/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-14T20:52:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
+        "link": "https://www.fool.com/investing/2026/06/14/have-sp-500-index-funds-often-touted-as-best-voo/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-14T09:20:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "ETF League Tables: Vanguard Gains, BlackRock Sheds Assets",
         "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-gains-blackrock-sheds-assets?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
@@ -234,22 +250,6 @@
         "link": "https://www.barchart.com/story/news/2444431/leaving-las-vegas-how-to-beat-the-house-as-the-stock-market-turns-into-a-casino",
         "publisher": "Barchart",
         "published": "2026-06-12T16:58:17Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The S&P 500 ETF Nobody Talks About That Could Beat VOO",
-        "link": "https://www.fool.com/investing/2026/06/12/sp-500-etf-nobody-talks-about-could-beat-voo-sphq/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-12T15:35:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Elon Musk Only Owns 46% Of SpaceX — Who Has The Rest?",
-        "link": "https://www.investors.com/etfs-and-funds/sectors/elon-musk-only-owns-46-of-spacex-who-has-the-rest/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "published": "2026-06-12T12:00:18Z",
         "source": "yfinance"
       }
     ]
