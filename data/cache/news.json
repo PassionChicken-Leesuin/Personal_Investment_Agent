@@ -1,7 +1,15 @@
 {
-  "captured_at_utc": "2026-06-14T23:10:35.060531+00:00",
+  "captured_at_utc": "2026-06-15T23:46:33.450808+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "Forget Buying Nvidia. This Overlooked ETF Beat the Nasdaq by Owning the AI Stocks You Can’t",
+        "link": "https://247wallst.com/investing/2026/06/15/forget-buying-nvidia-this-overlooked-etf-beat-the-nasdaq-by-owning-the-ai-stocks-you-cant/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-15T14:04:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "An ETF Retirement Portfolio for Moderate-Risk Investors",
@@ -32,14 +40,6 @@
         "link": "https://app.moby.co/home/news/news-perplexity-files-to-go-public?utm_source=yahoo_finance&utm_medium=rss",
         "publisher": "Moby",
         "published": "2026-06-09T16:36:07Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "The Zacks Analyst Blog Highlights SMH, QQQ, SPY, AIQ, EWY, SPY, NVIDIA and Microsoft",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-smh-112300934.html",
-        "publisher": "Zacks",
-        "published": "2026-06-09T11:23:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,84 +172,84 @@
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "The World Is Changing. Tech’s Top Spot Isn’t.",
-        "link": "https://www.barrons.com/articles/tech-stocks-earnings-economic-growth-c8ef11ff?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-12T23:31:00Z",
+        "title": "Micron, AMD Lead Chip Stocks Rally On U.S.-Iran Deal",
+        "link": "https://www.investors.com/news/technology/chip-stocks-record-high-sox-amd-micron-soxx/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "published": "2026-06-15T20:38:33Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "SpaceX Launches. The Future Remains Murky.",
-        "link": "https://www.barrons.com/articles/spacex-ipo-tech-stocks-rally-bull-market-openai-anthropic-6957b849?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-12T21:03:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Semiconductor ETFs 101: DRAM, EUV, SMH, SOXX, SOXL — The Complete Guide for 2026",
-        "link": "http://www.etf.com/sections/equity/semiconductor-etfs-101-dram-euv-smh-soxx-soxl-complete-guide-2026?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-12T18:38:49Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Forget ASML: As Post-June 5 Volatility Shakes High-Beta Tech, This Dividend-Paying Chip Index Is a No-Brainer Buy",
-        "link": "https://247wallst.com/investing/2026/06/12/forget-asml-as-post-june-5-volatility-shakes-high-beta-tech-this-dividend-paying-chip-index-is-a-no-brainer-buy/",
+        "title": "Semiconductor ETFs Now Dominate the Most‑Traded List — A Signal You Can’t Ignore",
+        "link": "https://247wallst.com/investing/2026/06/15/semiconductor-etfs-now-dominate-the-most%e2%80%91traded-list-a-signal-you-cant-ignore/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-12T17:19:36Z",
+        "published": "2026-06-15T16:00:30Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Friday Ahead of SpaceX Debut",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131503816.html",
+        "title": "Why This Semiconductor ETF Is the Only Bet You Need Before the Next AI Wave",
+        "link": "https://247wallst.com/investing/2026/06/15/why-this-semiconductor-etf-is-the-only-bet-you-need-before-the-next-ai-wave/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-15T14:55:02Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid US-Iran Ceasefire",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125654489.html",
         "publisher": "MT Newswires",
-        "published": "2026-06-12T13:15:03Z",
+        "published": "2026-06-15T12:56:54Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Qualcomm Is Striving for a Bigger Piece of AI Infrastructure. Here’s What That Means for QCOM Stock.",
+        "link": "https://www.barchart.com/story/news/2469431/qualcomm-is-striving-for-a-bigger-piece-of-ai-infrastructure-heres-what-that-means-for-qcom-stock",
+        "publisher": "Barchart",
+        "published": "2026-06-15T11:30:02Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
+        "title": "The Case For Mutual Fund-To-ETF Conversion: Flow Picture",
+        "link": "http://www.etf.com/sections/advisor-center/case-mutual-fund-etf-conversion-flow-picture?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-15T20:01:53Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Best Vanguard ETF for Your Next $1,000 Investment",
+        "link": "https://www.fool.com/investing/2026/06/15/best-vanguard-etf-for-next-1000-investment-vig/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-15T16:52:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "1 Unstoppable Vanguard ETF to Buy and Hold for the Next Decade",
+        "link": "https://247wallst.com/investing/2026/06/15/1-unstoppable-vanguard-etf-to-buy-and-hold-for-the-next-decade/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-15T12:55:56Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Vanguard Dethrones BlackRock as America’s ‘Definitive King’ of ETFs",
+        "link": "https://www.thedailyupside.com/etf/industry-news-etf/vanguard-dethrones-blackrock-as-americas-definitive-king-of-etfs/",
+        "publisher": "The Daily Upside",
+        "published": "2026-06-15T04:03:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "Should You Buy VOO While the Market Is Near All-Time Highs?",
         "link": "https://www.fool.com/investing/2026/06/14/should-buy-voo-etf-while-market-near-high/",
         "publisher": "Motley Fool",
         "published": "2026-06-14T20:52:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Have S&P 500 Index Funds, Often Touted as the Best Stock Investments, Become Dangerous? There's a Worrisome Development -- and a Possibly Better Alternative.",
-        "link": "https://www.fool.com/investing/2026/06/14/have-sp-500-index-funds-often-touted-as-best-voo/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-14T09:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "ETF League Tables: Vanguard Gains, BlackRock Sheds Assets",
-        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-gains-blackrock-sheds-assets?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-12T21:00:04Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO vs. SPY: Which S&P 500 ETF is The Better Bet?",
-        "link": "https://www.fool.com/coverage/etfs/2026/06/12/voo-vs-spy-which-s-and-p-500-etf-is-the-better-bet/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-12T18:48:03Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Leaving Las Vegas: How to Beat the House as the Stock Market Turns Into a Casino",
-        "link": "https://www.barchart.com/story/news/2444431/leaving-las-vegas-how-to-beat-the-house-as-the-stock-market-turns-into-a-casino",
-        "publisher": "Barchart",
-        "published": "2026-06-12T16:58:17Z",
         "source": "yfinance"
       }
     ]
