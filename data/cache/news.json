@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-15T23:46:33.450808+00:00",
+  "captured_at_utc": "2026-06-16T23:24:37.952528+00:00",
   "items": {
     "AIQ": [
       {
@@ -130,6 +130,14 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "QTUM vs. QQQ: Does the Quantum-Computing ETF Beat Just Buying the Nasdaq-100?",
+        "link": "https://247wallst.com/investing/2026/06/16/qtum-vs-qqq-does-the-quantum-computing-etf-beat-just-buying-the-nasdaq-100/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-16T12:47:46Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "Quantum Computing Looks Like Nvidia in 2019. This Could Be the Generational Buy of the Decade.",
         "link": "https://www.barchart.com/story/news/2409141/quantum-computing-looks-like-nvidia-in-2019-this-could-be-the-generational-buy-of-the-decade",
         "publisher": "Barchart",
@@ -159,17 +167,25 @@
         "publisher": "24/7 Wall St.",
         "published": "2026-06-05T12:45:08Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "DoC's $2B Quantum Initiative Puts These 2 Stocks in the Spotlight",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/docs-2b-quantum-initiative-puts-190000540.html",
-        "publisher": "Zacks",
-        "published": "2026-06-01T19:00:00Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Ahead of Fed Policy Meeting",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-123451429.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-16T12:34:51Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "U.S. Equities Draw In $22.8B During SpaceX IPO Week",
+        "link": "http://www.etf.com/sections/weekly-etf-flows/us-equities-draw-228b-during-spacex-ipo-week?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-15T21:00:18Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "SOXX",
         "title": "Micron, AMD Lead Chip Stocks Rally On U.S.-Iran Deal",
@@ -193,63 +209,47 @@
         "publisher": "24/7 Wall St.",
         "published": "2026-06-15T14:55:02Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid US-Iran Ceasefire",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125654489.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-15T12:56:54Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Qualcomm Is Striving for a Bigger Piece of AI Infrastructure. Here’s What That Means for QCOM Stock.",
-        "link": "https://www.barchart.com/story/news/2469431/qualcomm-is-striving-for-a-bigger-piece-of-ai-infrastructure-heres-what-that-means-for-qcom-stock",
-        "publisher": "Barchart",
-        "published": "2026-06-15T11:30:02Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "The Case For Mutual Fund-To-ETF Conversion: Flow Picture",
-        "link": "http://www.etf.com/sections/advisor-center/case-mutual-fund-etf-conversion-flow-picture?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "title": "ETF League Tables: Vanguard, ARK Invest Lead Gains",
+        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-ark-invest-lead-gains?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
-        "published": "2026-06-15T20:01:53Z",
+        "published": "2026-06-16T21:00:05Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "The Best Vanguard ETF for Your Next $1,000 Investment",
-        "link": "https://www.fool.com/investing/2026/06/15/best-vanguard-etf-for-next-1000-investment-vig/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-15T16:52:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "1 Unstoppable Vanguard ETF to Buy and Hold for the Next Decade",
-        "link": "https://247wallst.com/investing/2026/06/15/1-unstoppable-vanguard-etf-to-buy-and-hold-for-the-next-decade/",
+        "title": "Is Vanguard’s S&P 500 Value ETF A Buy, Sell, Or Hold? | VOOV",
+        "link": "https://247wallst.com/investing/2026/06/16/is-vanguards-sp-500-value-etf-a-buy-sell-or-hold-voov/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-15T12:55:56Z",
+        "published": "2026-06-16T15:42:25Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Vanguard Dethrones BlackRock as America’s ‘Definitive King’ of ETFs",
-        "link": "https://www.thedailyupside.com/etf/industry-news-etf/vanguard-dethrones-blackrock-as-americas-definitive-king-of-etfs/",
-        "publisher": "The Daily Upside",
-        "published": "2026-06-15T04:03:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Should You Buy VOO While the Market Is Near All-Time Highs?",
-        "link": "https://www.fool.com/investing/2026/06/14/should-buy-voo-etf-while-market-near-high/",
+        "title": "VOOG vs. MGK: Which Vanguard Growth ETF Is a Better Buy?",
+        "link": "https://www.fool.com/investing/2026/06/16/voog-vs-mgk-which-vanguard-growth-etf-is-a-better/",
         "publisher": "Motley Fool",
-        "published": "2026-06-14T20:52:00Z",
+        "published": "2026-06-16T15:35:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Pacer’s Dividend Multiplier ETF Pays 400% of the S&P 500’s Dividend, With a Catch Most Investors Don’t Notice",
+        "link": "https://247wallst.com/investing/2026/06/16/pacers-dividend-multiplier-etf-pays-400-of-the-sp-500s-dividend-with-a-catch-most-investors-dont-notice/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-16T13:48:05Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "This Vanguard ETF Is Quietly Outpacing the S&P 500 in 2026 and Costs Just 0.04 Percent",
+        "link": "https://247wallst.com/investing/2026/06/16/this-vanguard-etf-is-quietly-outpacing-the-sp-500-in-2026-and-costs-just-0-04-percent/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-16T13:47:22Z",
         "source": "yfinance"
       }
     ]

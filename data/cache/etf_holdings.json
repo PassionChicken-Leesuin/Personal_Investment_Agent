@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-15T23:46:34.435364+00:00",
+  "captured_at_utc": "2026-06-16T23:24:39.017865+00:00",
   "etfs": {
     "AIQ": [
       {
@@ -163,52 +163,52 @@
       {
         "symbol": "NVDA",
         "name": "NVIDIA Corp",
-        "weight_pct": 7.839
+        "weight_pct": 7.885
       },
       {
         "symbol": "AAPL",
         "name": "Apple Inc",
-        "weight_pct": 6.44
+        "weight_pct": 7.041
       },
       {
         "symbol": "MSFT",
         "name": "Microsoft Corp",
-        "weight_pct": 4.895
+        "weight_pct": 5.138
       },
       {
         "symbol": "AMZN",
         "name": "Amazon.com Inc",
-        "weight_pct": 4.186
+        "weight_pct": 4.063
       },
       {
         "symbol": "GOOGL",
         "name": "Alphabet Inc Class A",
-        "weight_pct": 3.621
+        "weight_pct": 3.403
       },
       {
         "symbol": "AVGO",
         "name": "Broadcom Inc",
-        "weight_pct": 3.199
+        "weight_pct": 3.255
       },
       {
         "symbol": "GOOG",
         "name": "Alphabet Inc Class C",
-        "weight_pct": 2.887
+        "weight_pct": 2.705
       },
       {
         "symbol": "META",
         "name": "Meta Platforms Inc Class A",
-        "weight_pct": 2.164
+        "weight_pct": 2.126
       },
       {
         "symbol": "TSLA",
         "name": "Tesla Inc",
-        "weight_pct": 1.735
+        "weight_pct": 1.884
       },
       {
-        "symbol": "BRK-B",
-        "name": "Berkshire Hathaway Inc Class B",
-        "weight_pct": 1.404
+        "symbol": "MU",
+        "name": "Micron Technology Inc",
+        "weight_pct": 1.68
       }
     ]
   }
