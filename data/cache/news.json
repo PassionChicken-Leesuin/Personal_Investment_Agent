@@ -1,7 +1,31 @@
 {
-  "captured_at_utc": "2026-06-16T23:24:37.952528+00:00",
+  "captured_at_utc": "2026-06-17T23:25:29.141062+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "While Washington Argues About AI, Estonia Installs Guardrails",
+        "link": "https://app.moby.co/home/news/news-while-washington-argues-about-ai-estonia-installs-guardrails?utm_source=yahoo_finance&utm_medium=rss",
+        "publisher": "Moby",
+        "published": "2026-06-17T20:43:15Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "AIQ",
+        "title": "Don't Fear Higher Rates: Play AI ETFs as IPO Race Heats Up",
+        "link": "https://finance.yahoo.com/technology/ai/articles/dont-fear-higher-rates-play-160000826.html",
+        "publisher": "Zacks",
+        "published": "2026-06-17T16:00:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "AIQ",
+        "title": "These 3 AI ETFs Have Been on a Rocket Ride Higher. Here’s Why I’d Skip Them All and Just Buy QQQ Instead.",
+        "link": "https://www.barchart.com/story/news/2501311/these-3-ai-etfs-have-been-on-a-rocket-ride-higher-heres-why-id-skip-them-all-and-just-buy-qqq-instead",
+        "publisher": "Barchart",
+        "published": "2026-06-16T19:41:57Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "Forget Buying Nvidia. This Overlooked ETF Beat the Nasdaq by Owning the AI Stocks You Can’t",
@@ -17,33 +41,17 @@
         "publisher": "Zacks",
         "published": "2026-06-11T16:01:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "The ‘Buy Everything AI’ Strategy: Is AIQ Your Ticket to the $2.5 Trillion Supercycle?",
-        "link": "https://247wallst.com/investing/2026/06/11/the-buy-everything-ai-strategy-is-aiq-your-ticket-to-the-2-5-trillion-supercycle/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-11T13:35:28Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "SpaceX IPO Set to Mint Millionaires in One of America’s Poorest Cities",
-        "link": "https://app.moby.co/home/news/news-spacex-ipo-brings-windfall-wealth-to-one-of-americas-poorest-cities?utm_source=yahoo_finance&utm_medium=rss",
-        "publisher": "Moby",
-        "published": "2026-06-09T18:31:25Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "Perplexity Files to Go Public",
-        "link": "https://app.moby.co/home/news/news-perplexity-files-to-go-public?utm_source=yahoo_finance&utm_medium=rss",
-        "publisher": "Moby",
-        "published": "2026-06-09T16:36:07Z",
-        "source": "yfinance"
       }
     ],
     "IAU": [
+      {
+        "ticker": "IAU",
+        "title": "GLD vs GLDM vs IAU: Which Gold ETF Should You Actually Buy?",
+        "link": "http://www.etf.com/sections/news/gld-vs-gldm-vs-iau-which-gold-etf-should-you-actually-buy?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-17T21:27:33Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "IAU",
         "title": "An ETF Retirement Portfolio for Moderate-Risk Investors",
@@ -74,14 +82,6 @@
         "link": "https://247wallst.com/investing/2026/06/04/the-feds-next-move-will-determine-whether-gld-can-extend-its-36-rally/",
         "publisher": "24/7 Wall St.",
         "published": "2026-06-04T14:33:58Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "Gold ETFs Shine Again as Ceasefire Hopes Lift Market Optimism",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/gold-etfs-shine-again-ceasefire-154300838.html",
-        "publisher": "Zacks",
-        "published": "2026-05-25T15:43:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,6 +172,14 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Ahead of Fed Rates Announcement",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131553830.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-17T13:15:53Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Ahead of Fed Policy Meeting",
         "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-123451429.html",
         "publisher": "MT Newswires",
@@ -201,17 +209,17 @@
         "publisher": "24/7 Wall St.",
         "published": "2026-06-15T16:00:30Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Why This Semiconductor ETF Is the Only Bet You Need Before the Next AI Wave",
-        "link": "https://247wallst.com/investing/2026/06/15/why-this-semiconductor-etf-is-the-only-bet-you-need-before-the-next-ai-wave/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-15T14:55:02Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "Why ETFs Are the Key to Bringing Wall Street On-Chain",
+        "link": "http://www.etf.com/sections/conferences/why-etfs-are-key-bringing-wall-street-chain?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-17T20:26:36Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "ETF League Tables: Vanguard, ARK Invest Lead Gains",
@@ -242,14 +250,6 @@
         "link": "https://247wallst.com/investing/2026/06/16/pacers-dividend-multiplier-etf-pays-400-of-the-sp-500s-dividend-with-a-catch-most-investors-dont-notice/",
         "publisher": "24/7 Wall St.",
         "published": "2026-06-16T13:48:05Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "This Vanguard ETF Is Quietly Outpacing the S&P 500 in 2026 and Costs Just 0.04 Percent",
-        "link": "https://247wallst.com/investing/2026/06/16/this-vanguard-etf-is-quietly-outpacing-the-sp-500-in-2026-and-costs-just-0-04-percent/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-16T13:47:22Z",
         "source": "yfinance"
       }
     ]
