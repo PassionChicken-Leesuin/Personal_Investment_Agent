@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-17T23:25:29.141062+00:00",
+  "captured_at_utc": "2026-06-18T23:46:23.545816+00:00",
   "items": {
     "AIQ": [
       {
@@ -46,6 +46,14 @@
     "IAU": [
       {
         "ticker": "IAU",
+        "title": "Why Gold ETFs Still Deserve a Place in Long-Term Portfolios",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/why-gold-etfs-still-deserve-140200456.html",
+        "publisher": "Zacks",
+        "published": "2026-06-18T14:02:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IAU",
         "title": "GLD vs GLDM vs IAU: Which Gold ETF Should You Actually Buy?",
         "link": "http://www.etf.com/sections/news/gld-vs-gldm-vs-iau-which-gold-etf-should-you-actually-buy?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
@@ -74,14 +82,6 @@
         "link": "https://247wallst.com/investing/2026/06/06/forget-gld-gldm-tracks-the-exact-same-bullion-at-one-quarter-the-annual-cost/",
         "publisher": "24/7 Wall St.",
         "published": "2026-06-06T18:18:04Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "The Fed’s Next Move Will Determine Whether GLD Can Extend Its 36% Rally",
-        "link": "https://247wallst.com/investing/2026/06/04/the-feds-next-move-will-determine-whether-gld-can-extend-its-36-rally/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-04T14:33:58Z",
         "source": "yfinance"
       }
     ],
@@ -172,6 +172,14 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday as Interim US-Iran Deal Lifts Risk Sentiment",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125723601.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-18T12:57:23Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Ahead of Fed Rates Announcement",
         "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131553830.html",
         "publisher": "MT Newswires",
@@ -201,55 +209,47 @@
         "publisher": "Investor's Business Daily",
         "published": "2026-06-15T20:38:33Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Semiconductor ETFs Now Dominate the Most‑Traded List — A Signal You Can’t Ignore",
-        "link": "https://247wallst.com/investing/2026/06/15/semiconductor-etfs-now-dominate-the-most%e2%80%91traded-list-a-signal-you-cant-ignore/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-15T16:00:30Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "Why ETFs Are the Key to Bringing Wall Street On-Chain",
-        "link": "http://www.etf.com/sections/conferences/why-etfs-are-key-bringing-wall-street-chain?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-17T20:26:36Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "ETF League Tables: Vanguard, ARK Invest Lead Gains",
-        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-ark-invest-lead-gains?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-16T21:00:05Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Is Vanguard’s S&P 500 Value ETF A Buy, Sell, Or Hold? | VOOV",
-        "link": "https://247wallst.com/investing/2026/06/16/is-vanguards-sp-500-value-etf-a-buy-sell-or-hold-voov/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-16T15:42:25Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOOG vs. MGK: Which Vanguard Growth ETF Is a Better Buy?",
-        "link": "https://www.fool.com/investing/2026/06/16/voog-vs-mgk-which-vanguard-growth-etf-is-a-better/",
+        "title": "VOO vs. SCHD: Which Is the Smarter Buy When Inflation Is Running Hot?",
+        "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/",
         "publisher": "Motley Fool",
-        "published": "2026-06-16T15:35:00Z",
+        "published": "2026-06-18T21:51:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Pacer’s Dividend Multiplier ETF Pays 400% of the S&P 500’s Dividend, With a Catch Most Investors Don’t Notice",
-        "link": "https://247wallst.com/investing/2026/06/16/pacers-dividend-multiplier-etf-pays-400-of-the-sp-500s-dividend-with-a-catch-most-investors-dont-notice/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-16T13:48:05Z",
+        "title": "The Best ETFs to Buy for 2026 and Beyond",
+        "link": "https://www.kiplinger.com/investing/etfs/best-etfs-to-buy",
+        "publisher": "Kiplinger",
+        "published": "2026-06-18T17:47:35Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Vanguard S&P 500 ETF (VOO) Is Unstoppable -- but There's a Quiet Risk Many Investors Are Overlooking",
+        "link": "https://www.fool.com/investing/2026/06/18/the-vanguard-sp-500-etf-voo-is-unstoppable-but-the/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-18T16:20:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Warren Buffett Has Recommended This 1 Investment for Decades. History Says He's Been Right Every Single Time.",
+        "link": "https://www.fool.com/investing/2026/06/18/warren-buffett-has-recommended-this-1-investment/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-18T15:05:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Why the Invesco S&P 500 Equal Weight ETF (RSP) Might Be a Better Buy Than the Flagship Vanguard S&P 500 ETF (VOO) Right Now",
+        "link": "https://www.fool.com/investing/2026/06/18/why-the-invesco-sp-500-equal-weight-etf-rsp-might/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-18T10:10:00Z",
         "source": "yfinance"
       }
     ]
