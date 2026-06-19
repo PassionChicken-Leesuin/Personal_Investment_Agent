@@ -1,7 +1,15 @@
 {
-  "captured_at_utc": "2026-06-18T23:46:23.545816+00:00",
+  "captured_at_utc": "2026-06-19T22:59:11.778151+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "MoneyMasters Podcast 6-18-26- Armani on Why the AI Boom Is Different",
+        "link": "https://finance.yahoo.com/technology/ai/articles/moneymasters-podcast-6-18-26-163200962.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-18T16:32:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "While Washington Argues About AI, Estonia Installs Guardrails",
@@ -32,14 +40,6 @@
         "link": "https://247wallst.com/investing/2026/06/15/forget-buying-nvidia-this-overlooked-etf-beat-the-nasdaq-by-owning-the-ai-stocks-you-cant/",
         "publisher": "24/7 Wall St.",
         "published": "2026-06-15T14:04:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "An ETF Retirement Portfolio for Moderate-Risk Investors",
-        "link": "https://finance.yahoo.com/markets/options/articles/etf-retirement-portfolio-moderate-risk-160100552.html",
-        "publisher": "Zacks",
-        "published": "2026-06-11T16:01:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,6 +172,14 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "Here Is the 1 Dirt-Cheap Semiconductor Titan I Keep Loading Up on Repeat",
+        "link": "https://247wallst.com/investing/2026/06/19/here-is-the-1-dirt-cheap-semiconductor-titan-i-keep-loading-up-on-repeat/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-19T14:56:03Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday as Interim US-Iran Deal Lifts Risk Sentiment",
         "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125723601.html",
         "publisher": "MT Newswires",
@@ -201,17 +209,25 @@
         "publisher": "etf.com",
         "published": "2026-06-15T21:00:18Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Micron, AMD Lead Chip Stocks Rally On U.S.-Iran Deal",
-        "link": "https://www.investors.com/news/technology/chip-stocks-record-high-sox-amd-micron-soxx/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "published": "2026-06-15T20:38:33Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "Making $100K a Year? Here’s the One Fund That Compounds Without the Research",
+        "link": "https://247wallst.com/investing/2026/06/19/making-100k-a-year-heres-the-one-fund-that-compounds-without-the-research/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-19T22:13:34Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "VOO’s 0.03% Fee Hides a Costlier Truth About Taxes and Concentration",
+        "link": "https://247wallst.com/investing/2026/06/18/voos-0-03-fee-hides-a-costlier-truth-about-taxes-and-concentration/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-19T00:41:10Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "VOO vs. SCHD: Which Is the Smarter Buy When Inflation Is Running Hot?",
@@ -222,34 +238,18 @@
       },
       {
         "ticker": "VOO",
+        "title": "ETF League Tables: VictoryShares Accumulates $2.6B",
+        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-victoryshares-accumulates-26b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-18T21:00:06Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "The Best ETFs to Buy for 2026 and Beyond",
         "link": "https://www.kiplinger.com/investing/etfs/best-etfs-to-buy",
         "publisher": "Kiplinger",
         "published": "2026-06-18T17:47:35Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Vanguard S&P 500 ETF (VOO) Is Unstoppable -- but There's a Quiet Risk Many Investors Are Overlooking",
-        "link": "https://www.fool.com/investing/2026/06/18/the-vanguard-sp-500-etf-voo-is-unstoppable-but-the/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-18T16:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Warren Buffett Has Recommended This 1 Investment for Decades. History Says He's Been Right Every Single Time.",
-        "link": "https://www.fool.com/investing/2026/06/18/warren-buffett-has-recommended-this-1-investment/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-18T15:05:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Why the Invesco S&P 500 Equal Weight ETF (RSP) Might Be a Better Buy Than the Flagship Vanguard S&P 500 ETF (VOO) Right Now",
-        "link": "https://www.fool.com/investing/2026/06/18/why-the-invesco-sp-500-equal-weight-etf-rsp-might/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-18T10:10:00Z",
         "source": "yfinance"
       }
     ]
