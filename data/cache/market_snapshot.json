@@ -1,11 +1,11 @@
 {
-  "captured_at_utc": "2026-06-19T22:59:10.953864+00:00",
+  "captured_at_utc": "2026-06-20T23:09:59.807383+00:00",
   "indicators": {
     "S&P 500": {
       "ticker": "^GSPC",
-      "value": 7500.5801,
+      "value": NaN,
       "prev": 7420.1001,
-      "change_pct": 1.085
+      "change_pct": NaN
     },
     "Nasdaq": {
       "ticker": "^IXIC",
@@ -15,15 +15,15 @@
     },
     "KOSPI": {
       "ticker": "^KS11",
-      "value": NaN,
+      "value": 9052.4199,
       "prev": 9063.8398,
-      "change_pct": NaN
+      "change_pct": -0.126
     },
     "VIX": {
       "ticker": "^VIX",
-      "value": 16.78,
-      "prev": 16.4,
-      "change_pct": 2.317
+      "value": 16.4,
+      "prev": 18.44,
+      "change_pct": -11.063
     },
     "USD/KRW": {
       "ticker": "KRW=X",

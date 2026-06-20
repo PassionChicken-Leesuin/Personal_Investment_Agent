@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-19T22:59:11.778151+00:00",
+  "captured_at_utc": "2026-06-20T23:10:01.692868+00:00",
   "items": {
     "AIQ": [
       {
@@ -88,6 +88,22 @@
     "IEF": [
       {
         "ticker": "IEF",
+        "title": "Chart of the Day 6-19-26- In Warsh's Wake, Hike Odds Spike",
+        "link": "https://finance.yahoo.com/economy/policy/articles/chart-day-6-19-26-050200837.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-19T05:02:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IEF",
+        "title": "Markets Bracing for Higher Rates in Wake of this Week's Fed Meeting",
+        "link": "https://finance.yahoo.com/economy/policy/articles/markets-bracing-higher-rates-wake-050100979.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-19T05:01:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IEF",
         "title": "MoneyMasters Podcast 6-11-26- Palantir, Marvell,  the Three \"Hockey Sticks\" of AI Growth",
         "link": "https://finance.yahoo.com/sectors/technology/articles/moneymasters-podcast-6-11-26-163000493.html",
         "publisher": "MoneyShow",
@@ -108,22 +124,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-09-26-141500489.html",
         "publisher": "MoneyShow",
         "published": "2026-06-09T14:15:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "If You Hold This Bond ETF, You’re Making an Expensive Mistake",
-        "link": "https://247wallst.com/investing/2026/06/03/if-you-hold-this-bond-etf-youre-making-an-expensive-mistake/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-03T12:20:04Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "Why IEF’s Next 12 Months Hinge on One Inflation Number",
-        "link": "https://247wallst.com/investing/2026/06/01/why-iefs-next-12-months-hinge-on-one-inflation-number/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-01T11:18:43Z",
         "source": "yfinance"
       }
     ],
@@ -172,6 +172,14 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "Aehr Spikes on New Order, But Has Stock Gotten Ahead of Itself?",
+        "link": "https://www.marketbeat.com/originals/aehr-spikes-on-new-order-but-has-stock-gotten-ahead-of-itself/?utm_source=yahoofinance&utm_medium=yahoofinance",
+        "publisher": "MarketBeat",
+        "published": "2026-06-19T16:40:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "Here Is the 1 Dirt-Cheap Semiconductor Titan I Keep Loading Up on Repeat",
         "link": "https://247wallst.com/investing/2026/06/19/here-is-the-1-dirt-cheap-semiconductor-titan-i-keep-loading-up-on-repeat/",
         "publisher": "24/7 Wall St.",
@@ -201,17 +209,25 @@
         "publisher": "MT Newswires",
         "published": "2026-06-16T12:34:51Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "U.S. Equities Draw In $22.8B During SpaceX IPO Week",
-        "link": "http://www.etf.com/sections/weekly-etf-flows/us-equities-draw-228b-during-spacex-ipo-week?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-15T21:00:18Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "The Vanguard S&P 500 ETF (VOO) Is the Most Popular ETF in the World. Here's One I Like Even Better.",
+        "link": "https://www.fool.com/investing/2026/06/20/vanguard-sp-500-etf-voo-most-popular-voog/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-20T19:49:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Vanguard S&P 500 ETF Just Broke an Incredible Record. Here's What It Means for the Stock Market.",
+        "link": "https://www.fool.com/investing/2026/06/20/vanguard-sp-500-etf-broke-record-what-it-means-voo/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-20T10:45:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "Making $100K a Year? Here’s the One Fund That Compounds Without the Research",
@@ -234,22 +250,6 @@
         "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/",
         "publisher": "Motley Fool",
         "published": "2026-06-18T21:51:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "ETF League Tables: VictoryShares Accumulates $2.6B",
-        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-victoryshares-accumulates-26b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-18T21:00:06Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Best ETFs to Buy for 2026 and Beyond",
-        "link": "https://www.kiplinger.com/investing/etfs/best-etfs-to-buy",
-        "publisher": "Kiplinger",
-        "published": "2026-06-18T17:47:35Z",
         "source": "yfinance"
       }
     ]
