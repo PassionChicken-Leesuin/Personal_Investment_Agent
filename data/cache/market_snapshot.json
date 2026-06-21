@@ -1,11 +1,11 @@
 {
-  "captured_at_utc": "2026-06-20T23:09:59.807383+00:00",
+  "captured_at_utc": "2026-06-21T23:14:55.540658+00:00",
   "indicators": {
     "S&P 500": {
       "ticker": "^GSPC",
-      "value": NaN,
+      "value": 7500.5801,
       "prev": 7420.1001,
-      "change_pct": NaN
+      "change_pct": 1.085
     },
     "Nasdaq": {
       "ticker": "^IXIC",
@@ -25,23 +25,29 @@
       "prev": 18.44,
       "change_pct": -11.063
     },
+    "10Y Treasury": {
+      "ticker": "^TNX",
+      "value": 4.451,
+      "prev": 4.463,
+      "change_pct": -0.269
+    },
     "USD/KRW": {
       "ticker": "KRW=X",
-      "value": 1529.89,
-      "prev": 1525.42,
-      "change_pct": 0.293
+      "value": 1529.1,
+      "prev": 1537.5601,
+      "change_pct": -0.55
     },
     "Gold": {
       "ticker": "GC=F",
-      "value": 4172.8999,
+      "value": 4175.7002,
       "prev": 4224.1001,
-      "change_pct": -1.212
+      "change_pct": -1.146
     },
     "WTI Oil": {
       "ticker": "CL=F",
-      "value": 76.54,
+      "value": 77.58,
       "prev": 76.6,
-      "change_pct": -0.078
+      "change_pct": 1.279
     }
   }
 }

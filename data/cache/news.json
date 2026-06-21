@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-20T23:10:01.692868+00:00",
+  "captured_at_utc": "2026-06-21T23:14:56.227703+00:00",
   "items": {
     "AIQ": [
       {
@@ -214,6 +214,14 @@
     "VOO": [
       {
         "ticker": "VOO",
+        "title": "Better S&P 500 ETF: VOO vs. SPY",
+        "link": "https://www.fool.com/investing/2026/06/21/better-sp-500-etf-voo-vs-spy/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-21T07:20:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "The Vanguard S&P 500 ETF (VOO) Is the Most Popular ETF in the World. Here's One I Like Even Better.",
         "link": "https://www.fool.com/investing/2026/06/20/vanguard-sp-500-etf-voo-most-popular-voog/",
         "publisher": "Motley Fool",
@@ -242,14 +250,6 @@
         "link": "https://247wallst.com/investing/2026/06/18/voos-0-03-fee-hides-a-costlier-truth-about-taxes-and-concentration/",
         "publisher": "24/7 Wall St.",
         "published": "2026-06-19T00:41:10Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO vs. SCHD: Which Is the Smarter Buy When Inflation Is Running Hot?",
-        "link": "https://www.fool.com/investing/2026/06/18/voo-vs-schd-which-is-smarter-buy-inflation-hot/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-18T21:51:00Z",
         "source": "yfinance"
       }
     ]
