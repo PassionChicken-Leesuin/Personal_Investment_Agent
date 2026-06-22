@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-21T23:14:56.227703+00:00",
+  "captured_at_utc": "2026-06-22T23:21:05.647805+00:00",
   "items": {
     "AIQ": [
       {
@@ -88,6 +88,14 @@
     "IEF": [
       {
         "ticker": "IEF",
+        "title": "Circle Your Calendars for July 29. JPMorgan Executive Says Fed Chair Kevin Warsh Could Raise Rates in As Little as Six Weeks.",
+        "link": "https://247wallst.com/investing/2026/06/22/circle-your-calendars-for-july-29-jpmorgan-executive-says-fed-chair-kevin-warsh-could-raise-rates-in-as-little-as-six-weeks/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-22T12:01:40Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IEF",
         "title": "Chart of the Day 6-19-26- In Warsh's Wake, Hike Odds Spike",
         "link": "https://finance.yahoo.com/economy/policy/articles/chart-day-6-19-26-050200837.html",
         "publisher": "MoneyShow",
@@ -116,14 +124,6 @@
         "link": "https://finance.yahoo.com/economy/policy/articles/inflation-cpi-data-line-fed-050100625.html",
         "publisher": "MoneyShow",
         "published": "2026-06-11T05:01:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "Market Minute 6-09-26- OpenAI Joins Heated IPO Race",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-09-26-141500489.html",
-        "publisher": "MoneyShow",
-        "published": "2026-06-09T14:15:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,6 +172,22 @@
     "SOXX": [
       {
         "ticker": "SOXX",
+        "title": "Sorry, Dr. Burry. I’d Rather Own Nvidia at a Premium Than Adobe at a Discount",
+        "link": "https://247wallst.com/investing/2026/06/22/sorry-dr-burry-id-rather-own-nvidia-at-a-premium-than-adobe-at-a-discount/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-22T13:49:21Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Amid Continued US-Iran Talks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125854095.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-22T12:58:54Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
         "title": "Aehr Spikes on New Order, But Has Stock Gotten Ahead of Itself?",
         "link": "https://www.marketbeat.com/originals/aehr-spikes-on-new-order-but-has-stock-gotten-ahead-of-itself/?utm_source=yahoofinance&utm_medium=yahoofinance",
         "publisher": "MarketBeat",
@@ -193,63 +209,47 @@
         "publisher": "MT Newswires",
         "published": "2026-06-18T12:57:23Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Wednesday Ahead of Fed Rates Announcement",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131553830.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-17T13:15:53Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Tuesday Ahead of Fed Policy Meeting",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-123451429.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-16T12:34:51Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "Better S&P 500 ETF: VOO vs. SPY",
-        "link": "https://www.fool.com/investing/2026/06/21/better-sp-500-etf-voo-vs-spy/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-21T07:20:00Z",
+        "title": "ETF Zoo: The Leveraged ETF Frenzy Picks Up Momentum",
+        "link": "http://www.etf.com/sections/podcasts/etf-zoo-leveraged-etf-frenzy-picks-momentum?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-22T22:39:52Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "The Vanguard S&P 500 ETF (VOO) Is the Most Popular ETF in the World. Here's One I Like Even Better.",
-        "link": "https://www.fool.com/investing/2026/06/20/vanguard-sp-500-etf-voo-most-popular-voog/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-20T19:49:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Vanguard S&P 500 ETF Just Broke an Incredible Record. Here's What It Means for the Stock Market.",
-        "link": "https://www.fool.com/investing/2026/06/20/vanguard-sp-500-etf-broke-record-what-it-means-voo/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-20T10:45:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Making $100K a Year? Here’s the One Fund That Compounds Without the Research",
-        "link": "https://247wallst.com/investing/2026/06/19/making-100k-a-year-heres-the-one-fund-that-compounds-without-the-research/",
+        "title": "I Make $150,000 a Year, But It Feels Like I’m Just Middle Class in a World Full of Rich People",
+        "link": "https://247wallst.com/personal-finance/2025/07/16/i-make-150000-a-year-but-it-feels-like-im-just-middle-class-in-a-world-full-of-rich-people/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-19T22:13:34Z",
+        "published": "2026-06-22T21:02:10Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "VOO’s 0.03% Fee Hides a Costlier Truth About Taxes and Concentration",
-        "link": "https://247wallst.com/investing/2026/06/18/voos-0-03-fee-hides-a-costlier-truth-about-taxes-and-concentration/",
+        "title": "Thanks to SpaceX, Index Funds Won’t Track Each Other as Closely. Here’s One Pro’s Advice.",
+        "link": "https://www.barrons.com/advisor/articles/spacex-ipo-index-funds-investing-424c6f72?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-22T17:47:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Case for Holding VOO in Your Roth IRA",
+        "link": "https://247wallst.com/investing/2026/06/22/the-case-for-holding-voo-in-your-roth-ira/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-19T00:41:10Z",
+        "published": "2026-06-22T12:30:45Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "One S&P 500 Stock Is Older Than The U.S. — But Don't Buy It",
+        "link": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stock-is-older-than-the-u-s-but-dont-buy-it/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "published": "2026-06-22T11:41:55Z",
         "source": "yfinance"
       }
     ]
