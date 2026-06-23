@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-22T23:21:05.647805+00:00",
+  "captured_at_utc": "2026-06-23T23:09:17.064139+00:00",
   "items": {
     "AIQ": [
       {
@@ -46,6 +46,22 @@
     "IAU": [
       {
         "ticker": "IAU",
+        "title": "The 28% Tax Trap Inside GLD That Your Brokerage Statement Won’t Show",
+        "link": "https://247wallst.com/investing/2026/06/23/the-28-tax-trap-inside-gld-that-your-brokerage-statement-wont-show/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-23T22:27:28Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IAU",
+        "title": "The Roth IRA Trick That Makes This Gold ETF’s 135% Five-Year Run Even Better",
+        "link": "https://247wallst.com/investing/2026/06/23/the-roth-ira-trick-that-makes-this-gold-etfs-135-five-year-run-even-better/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-23T14:40:57Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IAU",
         "title": "Why Gold ETFs Still Deserve a Place in Long-Term Portfolios",
         "link": "https://finance.yahoo.com/markets/commodities/articles/why-gold-etfs-still-deserve-140200456.html",
         "publisher": "Zacks",
@@ -66,22 +82,6 @@
         "link": "https://finance.yahoo.com/markets/options/articles/etf-retirement-portfolio-moderate-risk-160100552.html",
         "publisher": "Zacks",
         "published": "2026-06-11T16:01:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "GLD vs. IAU: Which Gold ETF Costs You Less Over Time?",
-        "link": "https://247wallst.com/investing/2026/06/10/gld-vs-iau-which-gold-etf-costs-you-less-over-time/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-10T19:05:27Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "Forget GLD: GLDM Tracks the Exact Same Bullion at One Quarter the Annual Cost",
-        "link": "https://247wallst.com/investing/2026/06/06/forget-gld-gldm-tracks-the-exact-same-bullion-at-one-quarter-the-annual-cost/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-06T18:18:04Z",
         "source": "yfinance"
       }
     ],
@@ -172,84 +172,84 @@
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "Sorry, Dr. Burry. I’d Rather Own Nvidia at a Premium Than Adobe at a Discount",
-        "link": "https://247wallst.com/investing/2026/06/22/sorry-dr-burry-id-rather-own-nvidia-at-a-premium-than-adobe-at-a-discount/",
+        "title": "SOXL’s 23% Single-Day Collapse Exposes the Real Price of 3X Leverage",
+        "link": "https://247wallst.com/investing/2026/06/23/soxls-23-single-day-collapse-exposes-the-real-price-of-3x-leverage/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-22T13:49:21Z",
+        "published": "2026-06-23T22:57:26Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Amid Continued US-Iran Talks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125854095.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-22T12:58:54Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Aehr Spikes on New Order, But Has Stock Gotten Ahead of Itself?",
-        "link": "https://www.marketbeat.com/originals/aehr-spikes-on-new-order-but-has-stock-gotten-ahead-of-itself/?utm_source=yahoofinance&utm_medium=yahoofinance",
-        "publisher": "MarketBeat",
-        "published": "2026-06-19T16:40:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Here Is the 1 Dirt-Cheap Semiconductor Titan I Keep Loading Up on Repeat",
-        "link": "https://247wallst.com/investing/2026/06/19/here-is-the-1-dirt-cheap-semiconductor-titan-i-keep-loading-up-on-repeat/",
+        "title": "Market Strategist Says AI Selloff Is ‘Just Profit-Taking,’ Not a Broken Story",
+        "link": "https://247wallst.com/investing/2026/06/23/market-strategist-says-ai-selloff-is-just-profit-taking-not-a-broken-story/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-19T14:56:03Z",
+        "published": "2026-06-23T21:20:47Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Thursday as Interim US-Iran Deal Lifts Risk Sentiment",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125723601.html",
+        "title": "Tech Is Getting Hit Hard. Why the Dow Is Actually Rising Today.",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/tech-is-plummeting-why-the-dow-is-actually-rising-today--4ttvHNIbSS9PDqeg49Oa?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-23T16:42:18Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Nasdaq Tumbles 2.4%. A Chip Selloff Grips Wall Street.",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/nasdaq-tumbles-2-4-a-chip-selloff-grips-wall-street--E9dfNgPLfK8q0JKHBtwN?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-23T13:31:31Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as AI Spending Concerns Weigh on Technology Shares",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131921257.html",
         "publisher": "MT Newswires",
-        "published": "2026-06-18T12:57:23Z",
+        "published": "2026-06-23T13:19:21Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
+        "title": "VOO’s 0.03% Fee Hides a Bigger Problem: 36.92% Concentrated in Tech",
+        "link": "https://247wallst.com/investing/2026/06/23/voos-0-03-fee-hides-a-bigger-problem-36-92-concentrated-in-tech/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-23T22:38:02Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "JEPI’s 0.35% Fee Is a Trap: The Real Cost Is the 14.48% Return Gap vs. SPY",
+        "link": "https://247wallst.com/investing/2026/06/23/jepis-0-35-fee-is-a-trap-the-real-cost-is-the-14-48-return-gap-vs-spy/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-23T22:21:50Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The SpaceX ETF Halted Mere Hours After the Biggest IPO Ever",
+        "link": "http://www.etf.com/sections/podcasts/spacex-etf-halted-mere-hours-after-biggest-ipo-ever?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-23T21:32:23Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "This Popular Retirement ETF Has a Diversification Problem Investors Should Know About",
+        "link": "https://www.fool.com/investing/2026/06/23/this-popular-retirement-etf-has-a-diversification/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-23T20:38:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "ETF Zoo: The Leveraged ETF Frenzy Picks Up Momentum",
         "link": "http://www.etf.com/sections/podcasts/etf-zoo-leveraged-etf-frenzy-picks-momentum?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
         "published": "2026-06-22T22:39:52Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "I Make $150,000 a Year, But It Feels Like I’m Just Middle Class in a World Full of Rich People",
-        "link": "https://247wallst.com/personal-finance/2025/07/16/i-make-150000-a-year-but-it-feels-like-im-just-middle-class-in-a-world-full-of-rich-people/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-22T21:02:10Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Thanks to SpaceX, Index Funds Won’t Track Each Other as Closely. Here’s One Pro’s Advice.",
-        "link": "https://www.barrons.com/advisor/articles/spacex-ipo-index-funds-investing-424c6f72?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-22T17:47:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Case for Holding VOO in Your Roth IRA",
-        "link": "https://247wallst.com/investing/2026/06/22/the-case-for-holding-voo-in-your-roth-ira/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-22T12:30:45Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "One S&P 500 Stock Is Older Than The U.S. — But Don't Buy It",
-        "link": "https://www.investors.com/etfs-and-funds/sectors/sp-500-stock-is-older-than-the-u-s-but-dont-buy-it/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "published": "2026-06-22T11:41:55Z",
         "source": "yfinance"
       }
     ]
