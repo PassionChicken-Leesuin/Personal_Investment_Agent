@@ -1,7 +1,15 @@
 {
-  "captured_at_utc": "2026-06-23T23:09:17.064139+00:00",
+  "captured_at_utc": "2026-06-24T23:04:27.351419+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "Beyond Mag 7: MANGOS or Big-10 ETFs Will Likely Rule Ahead",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-mag-7-mangos-big-140000492.html",
+        "publisher": "Zacks",
+        "published": "2026-06-24T14:00:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "MoneyMasters Podcast 6-18-26- Armani on Why the AI Boom Is Different",
@@ -32,14 +40,6 @@
         "link": "https://www.barchart.com/story/news/2501311/these-3-ai-etfs-have-been-on-a-rocket-ride-higher-heres-why-id-skip-them-all-and-just-buy-qqq-instead",
         "publisher": "Barchart",
         "published": "2026-06-16T19:41:57Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "Forget Buying Nvidia. This Overlooked ETF Beat the Nasdaq by Owning the AI Stocks You Can’t",
-        "link": "https://247wallst.com/investing/2026/06/15/forget-buying-nvidia-this-overlooked-etf-beat-the-nasdaq-by-owning-the-ai-stocks-you-cant/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-15T14:04:00Z",
         "source": "yfinance"
       }
     ],
@@ -130,6 +130,14 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "Forget Betting on One Quantum Stock. This Fund Owns the Entire Field for Just 0.40%",
+        "link": "https://247wallst.com/investing/2026/06/24/forget-betting-on-one-quantum-stock-this-fund-owns-the-entire-field-for-just-0-40/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-24T16:22:08Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "QTUM vs. QQQ: Does the Quantum-Computing ETF Beat Just Buying the Nasdaq-100?",
         "link": "https://247wallst.com/investing/2026/06/16/qtum-vs-qqq-does-the-quantum-computing-etf-beat-just-buying-the-nasdaq-100/",
         "publisher": "24/7 Wall St.",
@@ -159,97 +167,89 @@
         "publisher": "24/7 Wall St.",
         "published": "2026-06-08T14:09:39Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "An Overlooked Quantum ETF Just Did What the Broad Market Took Years to Accomplish",
-        "link": "https://247wallst.com/investing/2026/06/05/an-overlooked-quantum-etf-just-did-what-the-broad-market-took-years-to-accomplish/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-05T12:45:08Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "SOXL’s 23% Single-Day Collapse Exposes the Real Price of 3X Leverage",
-        "link": "https://247wallst.com/investing/2026/06/23/soxls-23-single-day-collapse-exposes-the-real-price-of-3x-leverage/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-23T22:57:26Z",
+        "title": "JPMorgan raises S&P 500 target to 7,800 but warns of 'flash crash'",
+        "link": "https://finance.yahoo.com/markets/article/jpmorgan-raises-sp-500-target-to-7800-but-warns-of-flash-crash-145240724.html",
+        "publisher": "Yahoo Finance",
+        "published": "2026-06-24T14:52:40Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Market Strategist Says AI Selloff Is ‘Just Profit-Taking,’ Not a Broken Story",
-        "link": "https://247wallst.com/investing/2026/06/23/market-strategist-says-ai-selloff-is-just-profit-taking-not-a-broken-story/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-23T21:20:47Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Tech Is Getting Hit Hard. Why the Dow Is Actually Rising Today.",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/tech-is-plummeting-why-the-dow-is-actually-rising-today--4ttvHNIbSS9PDqeg49Oa?siteid=yhoof2&yptr=yahoo",
+        "title": "Chips Are Sliding Again. There Goes the Nasdaq.",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062426/card/chips-are-sliding-again-there-goes-the-nasdaq--Ir5Bf6uwjiCZB653vB7P?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "published": "2026-06-23T16:42:18Z",
+        "published": "2026-06-24T19:31:31Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Nasdaq Tumbles 2.4%. A Chip Selloff Grips Wall Street.",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062326/card/nasdaq-tumbles-2-4-a-chip-selloff-grips-wall-street--E9dfNgPLfK8q0JKHBtwN?siteid=yhoof2&yptr=yahoo",
+        "title": "Famous Tech Investor Tom Lee: Yesterday’s SMH & SOXX Sell-Off Has Historically Led to an 88% Win Rate the Next Month",
+        "link": "https://247wallst.com/investing/2026/06/24/famous-tech-investor-tom-lee-yesterdays-smh-soxx-sell-off-has-historically-led-to-an-88-win-rate-the-next-month/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-24T18:09:26Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Tech Selling Pauses But Wall Street Isn't Dip Buying Yet",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062426/card/tech-selling-pauses-but-wall-street-isn-t-dip-buying-yet-fzLOHWJEFXWoWjcJO6Eg?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "published": "2026-06-23T13:31:31Z",
+        "published": "2026-06-24T13:47:33Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Tuesday as AI Spending Concerns Weigh on Technology Shares",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131921257.html",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday Amid Easing US-Iran Tensions",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131740078.html",
         "publisher": "MT Newswires",
-        "published": "2026-06-23T13:19:21Z",
+        "published": "2026-06-24T13:17:40Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "VOO’s 0.03% Fee Hides a Bigger Problem: 36.92% Concentrated in Tech",
-        "link": "https://247wallst.com/investing/2026/06/23/voos-0-03-fee-hides-a-bigger-problem-36-92-concentrated-in-tech/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-23T22:38:02Z",
+        "title": "VOO shattered a barrier no ETF has cracked, here’s what it means",
+        "link": "https://www.thestreet.com/investing/vanguard-voo-trillion-dollar-etf",
+        "publisher": "TheStreet",
+        "published": "2026-06-24T22:33:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "JEPI’s 0.35% Fee Is a Trap: The Real Cost Is the 14.48% Return Gap vs. SPY",
-        "link": "https://247wallst.com/investing/2026/06/23/jepis-0-35-fee-is-a-trap-the-real-cost-is-the-14-48-return-gap-vs-spy/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-23T22:21:50Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The SpaceX ETF Halted Mere Hours After the Biggest IPO Ever",
-        "link": "http://www.etf.com/sections/podcasts/spacex-etf-halted-mere-hours-after-biggest-ipo-ever?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-23T21:32:23Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "This Popular Retirement ETF Has a Diversification Problem Investors Should Know About",
-        "link": "https://www.fool.com/investing/2026/06/23/this-popular-retirement-etf-has-a-diversification/",
+        "title": "Vanguard S&P 500 Growth ETF vs iShares Russell 2000 Growth ETF: Which Growth Stock Fund Is the Better Buy?",
+        "link": "https://www.fool.com/coverage/etfs/2026/06/24/vanguard-s-and-p-500-growth-etf-vs-ishares-russell-2000-growth-etf-which-growth-stock-fund-is-the-better-buy/",
         "publisher": "Motley Fool",
-        "published": "2026-06-23T20:38:00Z",
+        "published": "2026-06-24T20:49:32Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "ETF Zoo: The Leveraged ETF Frenzy Picks Up Momentum",
-        "link": "http://www.etf.com/sections/podcasts/etf-zoo-leveraged-etf-frenzy-picks-momentum?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-22T22:39:52Z",
+        "title": "What to Consider Before Adding This Emerging Markets ETF to Your Portfolio",
+        "link": "https://www.fool.com/investing/2026/06/24/consider-before-add-emerging-market-etf-iemg/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-24T16:36:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "VOOG vs. VYM: Which Vanguard ETF Is the Better Choice?",
+        "link": "https://www.fool.com/investing/2026/06/24/voog-vs-vym-which-vanguard-etf-is-better-choice/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-24T15:52:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Higher S&P 500 Forecasts Signal Buying Opportunity: ETFs to Consider",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/higher-p-500-forecasts-signal-151400556.html",
+        "publisher": "Zacks",
+        "published": "2026-06-24T15:14:00Z",
         "source": "yfinance"
       }
     ]
