@@ -1,7 +1,23 @@
 {
-  "captured_at_utc": "2026-06-24T23:04:27.351419+00:00",
+  "captured_at_utc": "2026-06-25T23:19:07.013587+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "Tech ETFs to Buy as SK Hynix Preps Massive $29 Billion Nasdaq Debut",
+        "link": "https://finance.yahoo.com/technology/articles/tech-etfs-buy-sk-hynix-141700644.html",
+        "publisher": "Zacks",
+        "published": "2026-06-25T14:17:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "AIQ",
+        "title": "Market Minute 6-24-26- Tech Selloff Tops $2.7 Trillion",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-24-26-141500987.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-24T14:15:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "Beyond Mag 7: MANGOS or Big-10 ETFs Will Likely Rule Ahead",
@@ -24,22 +40,6 @@
         "link": "https://app.moby.co/home/news/news-while-washington-argues-about-ai-estonia-installs-guardrails?utm_source=yahoo_finance&utm_medium=rss",
         "publisher": "Moby",
         "published": "2026-06-17T20:43:15Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "Don't Fear Higher Rates: Play AI ETFs as IPO Race Heats Up",
-        "link": "https://finance.yahoo.com/technology/ai/articles/dont-fear-higher-rates-play-160000826.html",
-        "publisher": "Zacks",
-        "published": "2026-06-17T16:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "These 3 AI ETFs Have Been on a Rocket Ride Higher. Here’s Why I’d Skip Them All and Just Buy QQQ Instead.",
-        "link": "https://www.barchart.com/story/news/2501311/these-3-ai-etfs-have-been-on-a-rocket-ride-higher-heres-why-id-skip-them-all-and-just-buy-qqq-instead",
-        "publisher": "Barchart",
-        "published": "2026-06-16T19:41:57Z",
         "source": "yfinance"
       }
     ],
@@ -172,46 +172,70 @@
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "JPMorgan raises S&P 500 target to 7,800 but warns of 'flash crash'",
-        "link": "https://finance.yahoo.com/markets/article/jpmorgan-raises-sp-500-target-to-7800-but-warns-of-flash-crash-145240724.html",
+        "title": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
+        "link": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html",
         "publisher": "Yahoo Finance",
-        "published": "2026-06-24T14:52:40Z",
+        "published": "2026-06-25T14:06:42Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Chips Are Sliding Again. There Goes the Nasdaq.",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062426/card/chips-are-sliding-again-there-goes-the-nasdaq--Ir5Bf6uwjiCZB653vB7P?siteid=yhoof2&yptr=yahoo",
+        "title": "ETF League Tables: T.Rowe Price Adds $1.1 Billion",
+        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-trowe-price-adds-11-billion?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-25T21:00:05Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "ETF Fund Flows: Semiconductors Pop on Relatively Flat Day",
+        "link": "http://www.etf.com/sections/daily-etf-flows/etf-fund-flows-semiconductors-pop-relatively-flat-day?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-25T21:00:05Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Micron's Upbeat Forecast Lifts SOXX Earnings Outlook",
+        "link": "https://www.trefis.com/articles/604532/microns-upbeat-forecast-lifts-soxx-earnings-outlook/2026-06-25",
+        "publisher": "Trefis",
+        "published": "2026-06-25T15:58:04Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "There Goes the Nasdaq's Rally",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062526/card/there-goes-the-nasdaq-s-rally-PzMqrpmUNwPodCRxibp6?siteid=yhoof2&yptr=yahoo",
         "publisher": "Barrons.com",
-        "published": "2026-06-24T19:31:31Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Famous Tech Investor Tom Lee: Yesterday’s SMH & SOXX Sell-Off Has Historically Led to an 88% Win Rate the Next Month",
-        "link": "https://247wallst.com/investing/2026/06/24/famous-tech-investor-tom-lee-yesterdays-smh-soxx-sell-off-has-historically-led-to-an-88-win-rate-the-next-month/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-24T18:09:26Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Tech Selling Pauses But Wall Street Isn't Dip Buying Yet",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062426/card/tech-selling-pauses-but-wall-street-isn-t-dip-buying-yet-fzLOHWJEFXWoWjcJO6Eg?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-24T13:47:33Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Wednesday Amid Easing US-Iran Tensions",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131740078.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-24T13:17:40Z",
+        "published": "2026-06-25T14:26:00Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
+      {
+        "ticker": "VOO",
+        "title": "Will the Vanguard S&P 500 ETF Invest in SpaceX Stock? It's Complicated.",
+        "link": "https://www.fool.com/investing/2026/06/25/will-the-vanguard-sp-500-etf-invest-in-spacex-stoc/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-25T18:20:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Cost Conscious? Vanguard S&P 500 ETF Tops SPDR Rival",
+        "link": "https://www.fool.com/coverage/etfs/2026/06/25/cost-conscious-vanguard-s-and-p-500-etf-tops-spdr-rival/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-25T12:05:01Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Vanguard S&P 500 ETF Could Turn $200 per Month Into Over $1 Million. Here's How.",
+        "link": "https://www.fool.com/investing/2026/06/25/the-vanguard-sp-500-etf-could-turn-200-per-month-i/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-25T11:20:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "VOO",
         "title": "VOO shattered a barrier no ETF has cracked, here’s what it means",
@@ -222,34 +246,10 @@
       },
       {
         "ticker": "VOO",
-        "title": "Vanguard S&P 500 Growth ETF vs iShares Russell 2000 Growth ETF: Which Growth Stock Fund Is the Better Buy?",
-        "link": "https://www.fool.com/coverage/etfs/2026/06/24/vanguard-s-and-p-500-growth-etf-vs-ishares-russell-2000-growth-etf-which-growth-stock-fund-is-the-better-buy/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-24T20:49:32Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "What to Consider Before Adding This Emerging Markets ETF to Your Portfolio",
-        "link": "https://www.fool.com/investing/2026/06/24/consider-before-add-emerging-market-etf-iemg/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-24T16:36:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOOG vs. VYM: Which Vanguard ETF Is the Better Choice?",
-        "link": "https://www.fool.com/investing/2026/06/24/voog-vs-vym-which-vanguard-etf-is-better-choice/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-24T15:52:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Higher S&P 500 Forecasts Signal Buying Opportunity: ETFs to Consider",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/higher-p-500-forecasts-signal-151400556.html",
-        "publisher": "Zacks",
-        "published": "2026-06-24T15:14:00Z",
+        "title": "VTI vs VOO: Total Market or S 500 — Does the Difference Actually Matter?",
+        "link": "http://www.etf.com/sections/news/vti-vs-voo-total-market-or-sp-500-does-difference-actually-matter?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-24T22:16:37Z",
         "source": "yfinance"
       }
     ]
