@@ -1,7 +1,23 @@
 {
-  "captured_at_utc": "2026-06-25T23:19:07.013587+00:00",
+  "captured_at_utc": "2026-06-26T23:07:48.262683+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "Update: Technology Helps Push US Equity Indexes Lower; Israel-Lebanon Sign 'Framework Agreement'",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/technology-helps-push-us-equity-203016579.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-26T20:30:16Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "AIQ",
+        "title": "MoneyMasters Podcast 6-25-26- Six Experts Sound Off on AI, Tech, Hot IPOs,  Top Stocks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/moneymasters-podcast-6-25-26-163200759.html",
+        "publisher": "MoneyShow",
+        "published": "2026-06-25T16:32:00Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "Tech ETFs to Buy as SK Hynix Preps Massive $29 Billion Nasdaq Debut",
@@ -24,22 +40,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-mag-7-mangos-big-140000492.html",
         "publisher": "Zacks",
         "published": "2026-06-24T14:00:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "MoneyMasters Podcast 6-18-26- Armani on Why the AI Boom Is Different",
-        "link": "https://finance.yahoo.com/technology/ai/articles/moneymasters-podcast-6-18-26-163200962.html",
-        "publisher": "MoneyShow",
-        "published": "2026-06-18T16:32:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "While Washington Argues About AI, Estonia Installs Guardrails",
-        "link": "https://app.moby.co/home/news/news-while-washington-argues-about-ai-estonia-installs-guardrails?utm_source=yahoo_finance&utm_medium=rss",
-        "publisher": "Moby",
-        "published": "2026-06-17T20:43:15Z",
         "source": "yfinance"
       }
     ],
@@ -88,6 +88,14 @@
     "IEF": [
       {
         "ticker": "IEF",
+        "title": "$30 Billion in Stocks Are About to Hit the Market in 2 Days, and One Strategist Says: Buy It",
+        "link": "https://247wallst.com/investing/2026/06/26/30-billion-in-stocks-are-about-to-hit-the-market-in-2-days-and-one-strategist-says-buy-it/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-26T16:30:01Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IEF",
         "title": "Circle Your Calendars for July 29. JPMorgan Executive Says Fed Chair Kevin Warsh Could Raise Rates in As Little as Six Weeks.",
         "link": "https://247wallst.com/investing/2026/06/22/circle-your-calendars-for-july-29-jpmorgan-executive-says-fed-chair-kevin-warsh-could-raise-rates-in-as-little-as-six-weeks/",
         "publisher": "24/7 Wall St.",
@@ -116,14 +124,6 @@
         "link": "https://finance.yahoo.com/sectors/technology/articles/moneymasters-podcast-6-11-26-163000493.html",
         "publisher": "MoneyShow",
         "published": "2026-06-11T16:30:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IEF",
-        "title": "Inflation- CPI Data in Line, But Fed Hike Pressure Building",
-        "link": "https://finance.yahoo.com/economy/policy/articles/inflation-cpi-data-line-fed-050100625.html",
-        "publisher": "MoneyShow",
-        "published": "2026-06-11T05:01:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,10 +172,26 @@
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "Sandisk, Western Digital, and others soar as Micron results  'justify elevated valuations'",
-        "link": "https://finance.yahoo.com/markets/article/sandisk-western-digital-and-others-soar-as-micron-results-justify-elevated-valuations-140642825.html",
-        "publisher": "Yahoo Finance",
-        "published": "2026-06-25T14:06:42Z",
+        "title": "Chips Are Falling. The Rest of the Market Is Still Cruising",
+        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062626/card/chips-are-falling-the-rest-of-the-market-is-still-cruising-HW65Zr0iFZg3mByUzeVF?siteid=yhoof2&yptr=yahoo",
+        "publisher": "Barrons.com",
+        "published": "2026-06-26T14:02:45Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Correction: Exchange-Traded Funds, Equity Futures Decline Pre-Bell Friday as Investors Shift Focus From Middle East to Technology Stocks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/correction-exchange-traded-funds-equity-135811891.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-26T13:58:11Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Decline Pre-Bell Friday as Investors Shift Focus From Middle East to Technology Stocks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131102405.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-26T13:11:02Z",
         "source": "yfinance"
       },
       {
@@ -193,63 +209,47 @@
         "publisher": "etf.com",
         "published": "2026-06-25T21:00:05Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Micron's Upbeat Forecast Lifts SOXX Earnings Outlook",
-        "link": "https://www.trefis.com/articles/604532/microns-upbeat-forecast-lifts-soxx-earnings-outlook/2026-06-25",
-        "publisher": "Trefis",
-        "published": "2026-06-25T15:58:04Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "There Goes the Nasdaq's Rally",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062526/card/there-goes-the-nasdaq-s-rally-PzMqrpmUNwPodCRxibp6?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-25T14:26:00Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "Will the Vanguard S&P 500 ETF Invest in SpaceX Stock? It's Complicated.",
-        "link": "https://www.fool.com/investing/2026/06/25/will-the-vanguard-sp-500-etf-invest-in-spacex-stoc/",
+        "title": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
+        "link": "https://247wallst.com/investing/2026/06/26/voo-became-the-first-etf-to-hit-1-trillion-but-nearly-40-of-it-is-now-tech/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-26T19:00:23Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "How Much of Your Portfolio Should Be in Index Funds?",
+        "link": "https://www.fool.com/investing/2026/06/26/how-much-of-your-portfolio-should-be-in-index-fund/",
         "publisher": "Motley Fool",
-        "published": "2026-06-25T18:20:00Z",
+        "published": "2026-06-26T12:02:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "Cost Conscious? Vanguard S&P 500 ETF Tops SPDR Rival",
-        "link": "https://www.fool.com/coverage/etfs/2026/06/25/cost-conscious-vanguard-s-and-p-500-etf-tops-spdr-rival/",
+        "title": "VOOG vs. VONG: Which Vanguard Growth ETF Is the Better Buy?",
+        "link": "https://www.fool.com/coverage/etfs/2026/06/26/voog-vs-vong-which-vanguard-growth-etf-is-the-better-buy/",
         "publisher": "Motley Fool",
-        "published": "2026-06-25T12:05:01Z",
+        "published": "2026-06-26T11:16:13Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "The Vanguard S&P 500 ETF Could Turn $200 per Month Into Over $1 Million. Here's How.",
-        "link": "https://www.fool.com/investing/2026/06/25/the-vanguard-sp-500-etf-could-turn-200-per-month-i/",
+        "title": "If You Own These 10 Stocks — Analysts Think You Should Sell Them",
+        "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-if-you-own-these-10-stocks-analysts-think-you-should-sell-them/?src=A00220&yptr=yahoo",
+        "publisher": "Investor's Business Daily",
+        "published": "2026-06-26T11:12:39Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Is Buying a Single S&P 500 ETF Enough for Your Portfolio?",
+        "link": "https://www.fool.com/investing/2026/06/26/is-buying-single-sp-500-etf-enough-for-portfolio/",
         "publisher": "Motley Fool",
-        "published": "2026-06-25T11:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO shattered a barrier no ETF has cracked, here’s what it means",
-        "link": "https://www.thestreet.com/investing/vanguard-voo-trillion-dollar-etf",
-        "publisher": "TheStreet",
-        "published": "2026-06-24T22:33:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VTI vs VOO: Total Market or S 500 — Does the Difference Actually Matter?",
-        "link": "http://www.etf.com/sections/news/vti-vs-voo-total-market-or-sp-500-does-difference-actually-matter?utm_source=yahoo-financeutm_medium=rssutm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-24T22:16:37Z",
+        "published": "2026-06-26T09:00:00Z",
         "source": "yfinance"
       }
     ]
