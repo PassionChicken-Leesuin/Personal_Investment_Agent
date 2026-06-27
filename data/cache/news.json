@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-26T23:07:48.262683+00:00",
+  "captured_at_utc": "2026-06-27T23:03:24.255049+00:00",
   "items": {
     "AIQ": [
       {
@@ -214,6 +214,14 @@
     "VOO": [
       {
         "ticker": "VOO",
+        "title": "This Vanguard Index Fund Could Be the Best Financial Decision You Ever Make",
+        "link": "https://www.fool.com/investing/2026/06/27/vanguard-index-fund-best-financial-decision-voo/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-27T17:20:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
         "link": "https://247wallst.com/investing/2026/06/26/voo-became-the-first-etf-to-hit-1-trillion-but-nearly-40-of-it-is-now-tech/",
         "publisher": "24/7 Wall St.",
@@ -242,14 +250,6 @@
         "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-if-you-own-these-10-stocks-analysts-think-you-should-sell-them/?src=A00220&yptr=yahoo",
         "publisher": "Investor's Business Daily",
         "published": "2026-06-26T11:12:39Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Is Buying a Single S&P 500 ETF Enough for Your Portfolio?",
-        "link": "https://www.fool.com/investing/2026/06/26/is-buying-single-sp-500-etf-enough-for-portfolio/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-26T09:00:00Z",
         "source": "yfinance"
       }
     ]
