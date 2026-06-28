@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-27T23:03:24.255049+00:00",
+  "captured_at_utc": "2026-06-28T23:03:03.105167+00:00",
   "items": {
     "AIQ": [
       {
@@ -214,6 +214,14 @@
     "VOO": [
       {
         "ticker": "VOO",
+        "title": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
+        "link": "https://www.fool.com/coverage/etfs/2026/06/28/voo-vs-spy-which-popular-s-and-p-500-etf-is-the-better-buy/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-28T17:23:01Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "This Vanguard Index Fund Could Be the Best Financial Decision You Ever Make",
         "link": "https://www.fool.com/investing/2026/06/27/vanguard-index-fund-best-financial-decision-voo/",
         "publisher": "Motley Fool",
@@ -242,14 +250,6 @@
         "link": "https://www.fool.com/coverage/etfs/2026/06/26/voog-vs-vong-which-vanguard-growth-etf-is-the-better-buy/",
         "publisher": "Motley Fool",
         "published": "2026-06-26T11:16:13Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "If You Own These 10 Stocks — Analysts Think You Should Sell Them",
-        "link": "https://www.investors.com/etfs-and-funds/sectors/sp500-if-you-own-these-10-stocks-analysts-think-you-should-sell-them/?src=A00220&yptr=yahoo",
-        "publisher": "Investor's Business Daily",
-        "published": "2026-06-26T11:12:39Z",
         "source": "yfinance"
       }
     ]
