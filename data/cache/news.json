@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-28T23:03:03.105167+00:00",
+  "captured_at_utc": "2026-06-29T22:58:57.656969+00:00",
   "items": {
     "AIQ": [
       {
@@ -130,6 +130,14 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "Quantum Computing: The Next AI Investment Opportunity?",
+        "link": "https://finance.yahoo.com/technology/ai/articles/quantum-computing-next-ai-investment-204500033.html",
+        "publisher": "Zacks",
+        "published": "2026-06-29T20:45:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "Forget Betting on One Quantum Stock. This Fund Owns the Entire Field for Just 0.40%",
         "link": "https://247wallst.com/investing/2026/06/24/forget-betting-on-one-quantum-stock-this-fund-owns-the-entire-field-for-just-0-40/",
         "publisher": "24/7 Wall St.",
@@ -159,17 +167,25 @@
         "publisher": "MoneyShow",
         "published": "2026-06-10T05:01:00Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Quantum Computing’s $6 Billion ETF Is Up 54% This Year, And It Is Still Earlier Than the AI Trade Was in 2022",
-        "link": "https://247wallst.com/investing/2026/06/08/quantum-computings-6-billion-etf-is-up-54-this-year-and-it-is-still-earlier-than-the-ai-trade-was-in-2022/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-08T14:09:39Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
+      {
+        "ticker": "SOXX",
+        "title": "Inside SOXX: The Few Names Behind The Fund's Big Year",
+        "link": "https://www.trefis.com/articles/604957/inside-soxx-the-few-names-behind-the-funds-big-year/2026-06-29",
+        "publisher": "Trefis",
+        "published": "2026-06-29T21:02:06Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid Hopes for Renewed US-Iran Diplomacy",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125624922.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-29T12:56:24Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "SOXX",
         "title": "Chips Are Falling. The Rest of the Market Is Still Cruising",
@@ -193,63 +209,47 @@
         "publisher": "MT Newswires",
         "published": "2026-06-26T13:11:02Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "ETF League Tables: T.Rowe Price Adds $1.1 Billion",
-        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-trowe-price-adds-11-billion?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-25T21:00:05Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "ETF Fund Flows: Semiconductors Pop on Relatively Flat Day",
-        "link": "http://www.etf.com/sections/daily-etf-flows/etf-fund-flows-semiconductors-pop-relatively-flat-day?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-25T21:00:05Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "VOO vs. SPY: Which Popular S&P 500 ETF Is the Better Buy?",
-        "link": "https://www.fool.com/coverage/etfs/2026/06/28/voo-vs-spy-which-popular-s-and-p-500-etf-is-the-better-buy/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-28T17:23:01Z",
+        "title": "The Tool Giving Independent Advisors an Edge Over Big Banks",
+        "link": "http://www.etf.com/sections/conferences/tool-giving-independent-advisors-edge-over-big-banks?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-29T21:22:19Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "This Vanguard Index Fund Could Be the Best Financial Decision You Ever Make",
-        "link": "https://www.fool.com/investing/2026/06/27/vanguard-index-fund-best-financial-decision-voo/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-27T17:20:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "VOO Became the First ETF to Hit $1 Trillion, but Nearly 40% of It Is Now Tech",
-        "link": "https://247wallst.com/investing/2026/06/26/voo-became-the-first-etf-to-hit-1-trillion-but-nearly-40-of-it-is-now-tech/",
+        "title": "You’re 55 With $250K Sitting in Cash While Inflation Eats It Alive. These 3 Funds Put It to Work",
+        "link": "https://247wallst.com/investing/etf/2026/06/29/youre-55-with-250k-sitting-in-cash-while-inflation-eats-it-alive-these-3-funds-put-it-to-work/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-26T19:00:23Z",
+        "published": "2026-06-29T21:17:04Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "How Much of Your Portfolio Should Be in Index Funds?",
-        "link": "https://www.fool.com/investing/2026/06/26/how-much-of-your-portfolio-should-be-in-index-fund/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-26T12:02:00Z",
+        "title": "ETF League Tables: Vanguard Sheds $11.6B",
+        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-sheds-116b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-29T21:00:35Z",
         "source": "yfinance"
       },
       {
         "ticker": "VOO",
-        "title": "VOOG vs. VONG: Which Vanguard Growth ETF Is the Better Buy?",
-        "link": "https://www.fool.com/coverage/etfs/2026/06/26/voog-vs-vong-which-vanguard-growth-etf-is-the-better-buy/",
+        "title": "ETFs Cross $1 Trillion in 2026 Inflows",
+        "link": "http://www.etf.com/sections/weekly-etf-flows/etfs-cross-1-trillion-2026-inflows?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-06-29T21:00:17Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "3 Emerging Long-Term Headwinds for the S&P 500",
+        "link": "https://www.fool.com/investing/2026/06/29/3-emerging-long-term-headwinds-for-the-sp-500/",
         "publisher": "Motley Fool",
-        "published": "2026-06-26T11:16:13Z",
+        "published": "2026-06-29T14:50:00Z",
         "source": "yfinance"
       }
     ]
