@@ -1,7 +1,15 @@
 {
-  "captured_at_utc": "2026-06-29T22:58:57.656969+00:00",
+  "captured_at_utc": "2026-06-30T23:14:28.102348+00:00",
   "items": {
     "AIQ": [
+      {
+        "ticker": "AIQ",
+        "title": "Quantum Computing Just Hit Commercial Viability and Trump’s $2 Billion Quantum Push Has These 3 ETFs Sitting on Top of the Trade",
+        "link": "https://247wallst.com/investing/2026/06/30/quantum-computing-just-hit-commercial-viability-and-trumps-2-billion-quantum-push-has-these-3-etfs-sitting-on-top-of-the-trade/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-30T13:54:41Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "AIQ",
         "title": "Update: Technology Helps Push US Equity Indexes Lower; Israel-Lebanon Sign 'Framework Agreement'",
@@ -32,14 +40,6 @@
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-minute-6-24-26-141500987.html",
         "publisher": "MoneyShow",
         "published": "2026-06-24T14:15:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "AIQ",
-        "title": "Beyond Mag 7: MANGOS or Big-10 ETFs Will Likely Rule Ahead",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/beyond-mag-7-mangos-big-140000492.html",
-        "publisher": "Zacks",
-        "published": "2026-06-24T14:00:00Z",
         "source": "yfinance"
       }
     ],
@@ -130,6 +130,14 @@
     "QTUM": [
       {
         "ticker": "QTUM",
+        "title": "Quantum Computing Just Hit Commercial Viability and Trump’s $2 Billion Quantum Push Has These 3 ETFs Sitting on Top of the Trade",
+        "link": "https://247wallst.com/investing/2026/06/30/quantum-computing-just-hit-commercial-viability-and-trumps-2-billion-quantum-push-has-these-3-etfs-sitting-on-top-of-the-trade/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-30T13:54:41Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "QTUM",
         "title": "Quantum Computing: The Next AI Investment Opportunity?",
         "link": "https://finance.yahoo.com/technology/ai/articles/quantum-computing-next-ai-investment-204500033.html",
         "publisher": "Zacks",
@@ -159,17 +167,25 @@
         "publisher": "Barchart",
         "published": "2026-06-10T20:58:58Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "QTUM",
-        "title": "Quantum Computing- Two ETFs that Target this Fast-Growing Group",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-two-etfs-target-050100760.html",
-        "publisher": "MoneyShow",
-        "published": "2026-06-10T05:01:00Z",
-        "source": "yfinance"
       }
     ],
     "SOXX": [
+      {
+        "ticker": "SOXX",
+        "title": "Marvell Just Ripped 45% in a Month. Is It Time to Take Profits?",
+        "link": "https://247wallst.com/investing/2026/06/30/marvell-just-ripped-45-in-a-month-is-it-time-to-take-profits/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-06-30T19:34:58Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds Mixed, Equity Futures Lower Pre-Bell Ahead of Key Economic Reports",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-mixed-equity-130043691.html",
+        "publisher": "MT Newswires",
+        "published": "2026-06-30T13:00:43Z",
+        "source": "yfinance"
+      },
       {
         "ticker": "SOXX",
         "title": "Inside SOXX: The Few Names Behind The Fund's Big Year",
@@ -193,63 +209,47 @@
         "publisher": "Barrons.com",
         "published": "2026-06-26T14:02:45Z",
         "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Correction: Exchange-Traded Funds, Equity Futures Decline Pre-Bell Friday as Investors Shift Focus From Middle East to Technology Stocks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/correction-exchange-traded-funds-equity-135811891.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-26T13:58:11Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Decline Pre-Bell Friday as Investors Shift Focus From Middle East to Technology Stocks",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131102405.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-26T13:11:02Z",
-        "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
-        "title": "The Tool Giving Independent Advisors an Edge Over Big Banks",
-        "link": "http://www.etf.com/sections/conferences/tool-giving-independent-advisors-edge-over-big-banks?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-29T21:22:19Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "You’re 55 With $250K Sitting in Cash While Inflation Eats It Alive. These 3 Funds Put It to Work",
-        "link": "https://247wallst.com/investing/etf/2026/06/29/youre-55-with-250k-sitting-in-cash-while-inflation-eats-it-alive-these-3-funds-put-it-to-work/",
-        "publisher": "24/7 Wall St.",
-        "published": "2026-06-29T21:17:04Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "ETF League Tables: Vanguard Sheds $11.6B",
-        "link": "http://www.etf.com/sections/etf-league-tables/etf-league-tables-vanguard-sheds-116b?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-29T21:00:35Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "ETFs Cross $1 Trillion in 2026 Inflows",
-        "link": "http://www.etf.com/sections/weekly-etf-flows/etfs-cross-1-trillion-2026-inflows?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-        "publisher": "etf.com",
-        "published": "2026-06-29T21:00:17Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "3 Emerging Long-Term Headwinds for the S&P 500",
-        "link": "https://www.fool.com/investing/2026/06/29/3-emerging-long-term-headwinds-for-the-sp-500/",
+        "title": "The Vanguard S&P 500 ETF Is Riskier Than You Think. This Could Be a Better Option.",
+        "link": "https://www.fool.com/investing/2026/06/30/the-vanguard-sp-500-etf-is-riskier-than-you-think/",
         "publisher": "Motley Fool",
-        "published": "2026-06-29T14:50:00Z",
+        "published": "2026-06-30T20:56:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Should You Forget the Vanguard Total Stock Market ETF? Here's What History Says.",
+        "link": "https://www.fool.com/investing/2026/06/30/should-forget-vanguard-total-stock-market-etf/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-30T18:08:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
+        "link": "https://www.fool.com/investing/2026/06/30/dividend-etf-ticket-to-500-month-income-schd/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-30T16:51:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Best Dividend ETF to Buy With $1,000 Right Now -- Up 18% This Year",
+        "link": "https://www.fool.com/investing/2026/06/30/best-dividend-etf-to-buy-with-1000-right-now/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-30T15:50:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Prediction: This Overlooked ETF Could Be the Smartest Buy of 2026",
+        "link": "https://www.fool.com/investing/2026/06/30/predict-overlooked-etf-smart-buy-2026-ixus/",
+        "publisher": "Motley Fool",
+        "published": "2026-06-30T09:33:00Z",
         "source": "yfinance"
       }
     ]
