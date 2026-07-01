@@ -1,5 +1,5 @@
 {
-  "captured_at_utc": "2026-06-30T23:14:28.102348+00:00",
+  "captured_at_utc": "2026-07-01T23:17:00.098037+00:00",
   "items": {
     "AIQ": [
       {
@@ -46,6 +46,14 @@
     "IAU": [
       {
         "ticker": "IAU",
+        "title": "GLD’s 0.40% Fee Quietly Costs You $40 Per Year on Every $10,000 While Cheaper Rivals Charge Half",
+        "link": "https://247wallst.com/investing/2026/07/01/glds-0-40-fee-quietly-costs-you-40-per-year-on-every-10000-while-cheaper-rivals-charge-half/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-07-01T22:04:14Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "IAU",
         "title": "The 28% Tax Trap Inside GLD That Your Brokerage Statement Won’t Show",
         "link": "https://247wallst.com/investing/2026/06/23/the-28-tax-trap-inside-gld-that-your-brokerage-statement-wont-show/",
         "publisher": "24/7 Wall St.",
@@ -74,14 +82,6 @@
         "link": "http://www.etf.com/sections/news/gld-vs-gldm-vs-iau-which-gold-etf-should-you-actually-buy?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
         "publisher": "etf.com",
         "published": "2026-06-17T21:27:33Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "IAU",
-        "title": "An ETF Retirement Portfolio for Moderate-Risk Investors",
-        "link": "https://finance.yahoo.com/markets/options/articles/etf-retirement-portfolio-moderate-risk-160100552.html",
-        "publisher": "Zacks",
-        "published": "2026-06-11T16:01:00Z",
         "source": "yfinance"
       }
     ],
@@ -172,84 +172,84 @@
     "SOXX": [
       {
         "ticker": "SOXX",
-        "title": "Marvell Just Ripped 45% in a Month. Is It Time to Take Profits?",
-        "link": "https://247wallst.com/investing/2026/06/30/marvell-just-ripped-45-in-a-month-is-it-time-to-take-profits/",
+        "title": "Best Performing ETFs of 2026",
+        "link": "http://www.etf.com/sections/features/best-performing-etfs-2026-0?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-07-01T21:50:22Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "SOXL’s 16% Daily Collapse Exposes the Real Cost: $7.9 Billion in Hidden Swap Financing",
+        "link": "https://247wallst.com/investing/2026/07/01/soxls-16-daily-collapse-exposes-the-real-cost-7-9-billion-in-hidden-swap-financing/",
         "publisher": "24/7 Wall St.",
-        "published": "2026-06-30T19:34:58Z",
+        "published": "2026-07-01T20:33:32Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Exchange-Traded Funds Mixed, Equity Futures Lower Pre-Bell Ahead of Key Economic Reports",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-mixed-equity-130043691.html",
+        "title": "After Three Years of Tracking the AI Capex Cycle These 3 Semiconductor ETFs Sit on Top of the Trade",
+        "link": "https://247wallst.com/investing/2026/07/01/after-three-years-of-tracking-the-ai-capex-cycle-these-3-semiconductor-etfs-sit-on-top-of-the-trade-2/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-07-01T16:17:09Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "SOXX",
+        "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Wednesday Ahead of Fed Chair Warsh's International Debut",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-123900903.html",
         "publisher": "MT Newswires",
-        "published": "2026-06-30T13:00:43Z",
+        "published": "2026-07-01T12:39:00Z",
         "source": "yfinance"
       },
       {
         "ticker": "SOXX",
-        "title": "Inside SOXX: The Few Names Behind The Fund's Big Year",
-        "link": "https://www.trefis.com/articles/604957/inside-soxx-the-few-names-behind-the-funds-big-year/2026-06-29",
-        "publisher": "Trefis",
-        "published": "2026-06-29T21:02:06Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday Amid Hopes for Renewed US-Iran Diplomacy",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-125624922.html",
-        "publisher": "MT Newswires",
-        "published": "2026-06-29T12:56:24Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "SOXX",
-        "title": "Chips Are Falling. The Rest of the Market Is Still Cruising",
-        "link": "https://www.barrons.com/livecoverage/stock-market-news-today-062626/card/chips-are-falling-the-rest-of-the-market-is-still-cruising-HW65Zr0iFZg3mByUzeVF?siteid=yhoof2&yptr=yahoo",
-        "publisher": "Barrons.com",
-        "published": "2026-06-26T14:02:45Z",
+        "title": "This Semiconductor ETF’s 96% Gain Hinges on a Single $1 Trillion Question",
+        "link": "https://247wallst.com/investing/2026/07/01/this-semiconductor-etfs-96-gain-hinges-on-a-single-1-trillion-question/",
+        "publisher": "24/7 Wall St.",
+        "published": "2026-07-01T09:55:59Z",
         "source": "yfinance"
       }
     ],
     "VOO": [
       {
         "ticker": "VOO",
+        "title": "Best Performing ETFs of 2026",
+        "link": "http://www.etf.com/sections/features/best-performing-etfs-2026-0?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+        "publisher": "etf.com",
+        "published": "2026-07-01T21:50:22Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "Where Will VOO Be in 20 Years? Here's What History Suggests.",
+        "link": "https://www.fool.com/investing/2026/07/01/where-will-voo-be-in-20-years-heres-what-history/",
+        "publisher": "Motley Fool",
+        "published": "2026-07-01T15:50:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "If You Put $1,000 Into an S&P 500 ETF 20 Years Ago, Here's What You'd Have Today",
+        "link": "https://www.kiplinger.com/investing/spy-sp500-1000-invested-worth-how-much-now",
+        "publisher": "Kiplinger",
+        "published": "2026-07-01T13:05:53Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
+        "title": "The Smartest S&P 500 ETF to Buy With $1,000 Right Now",
+        "link": "https://www.fool.com/investing/2026/07/01/smartest-sp-500-etf-to-buy-with-1000-now-spym/",
+        "publisher": "Motley Fool",
+        "published": "2026-07-01T10:20:00Z",
+        "source": "yfinance"
+      },
+      {
+        "ticker": "VOO",
         "title": "The Vanguard S&P 500 ETF Is Riskier Than You Think. This Could Be a Better Option.",
         "link": "https://www.fool.com/investing/2026/06/30/the-vanguard-sp-500-etf-is-riskier-than-you-think/",
         "publisher": "Motley Fool",
         "published": "2026-06-30T20:56:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Should You Forget the Vanguard Total Stock Market ETF? Here's What History Says.",
-        "link": "https://www.fool.com/investing/2026/06/30/should-forget-vanguard-total-stock-market-etf/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-30T18:08:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Could This Dividend ETF Be Your Ticket to $500 per Month in Passive Income?",
-        "link": "https://www.fool.com/investing/2026/06/30/dividend-etf-ticket-to-500-month-income-schd/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-30T16:51:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "The Best Dividend ETF to Buy With $1,000 Right Now -- Up 18% This Year",
-        "link": "https://www.fool.com/investing/2026/06/30/best-dividend-etf-to-buy-with-1000-right-now/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-30T15:50:00Z",
-        "source": "yfinance"
-      },
-      {
-        "ticker": "VOO",
-        "title": "Prediction: This Overlooked ETF Could Be the Smartest Buy of 2026",
-        "link": "https://www.fool.com/investing/2026/06/30/predict-overlooked-etf-smart-buy-2026-ixus/",
-        "publisher": "Motley Fool",
-        "published": "2026-06-30T09:33:00Z",
         "source": "yfinance"
       }
     ]
